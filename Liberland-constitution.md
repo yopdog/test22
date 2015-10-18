@@ -14,7 +14,6 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
  * **§I.1(3)**  The right to property being the the obligation of others to allow one own and homestead property, to exercise full control over their property, and to do with their property as they see fit so long as one respects the rights of others.
  * **§I.1(4)** The right to justice being the obligation of others to amend to the full extent any harm which they have brought upon one’s life, liberty or property and to conduct a fair and public trial based on evidence and with due process before applying sanctions on one’s rights and freedoms.
  * **§I.1(5)** The right to self defence being the obligation of others to allow one to defend his life, liberty and property from direct aggression, to assist others in defending themselves, and to defend oneself legally before, during and after a trial.          
- 
 * **§I.2**  All restrictions, sanctions and limitations on a person's life, liberty or property must in all cases be be justified as an act of self defence, and has to be derived from the right to life, liberty, property, justice and self defence as described in the first provision. 
 
 
