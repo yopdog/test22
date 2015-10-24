@@ -1,4 +1,4 @@
-# The Constitution of the Free Republic of Liberland Draft
+# The Constitution of the Free Republic of Liberland draft
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
