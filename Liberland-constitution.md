@@ -20,7 +20,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 * **§I.3**  All restrictions, sanctions and limitations on a person's life, liberty or property must in all cases be be justified as an act of self defence, and must be derived from the right to life, liberty, property, justice and self defence as described in the second provision. 
 * **§I.4** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being, guardians shall have significant say on how their dependent's are raised and taken care of; any external interference in the carrying of a dependent shall only be done when there is a significant risk to the dependent's life and/or well-being; guardians shall be held responsible for their  dependent's actions.
 * **§I.5** The rights of person's are not to be regarded as inherent, but rather as the result of a social contract among individuals agreeing to fully respect one another's rights. There should therefore be no obligation to immediately recognize the rights of foreigners to live in the free republic of Liberland, but only when they can be trusted to respect the rights of others as described in this bill of rights.      
-
+* **§I.6** Citizenship in the Free Republic of Liberland shall not be regarded as a right, but as a privilege, and shall be given to person's who can be trusted to respect the rights of others as described in this bill of rights.      
 
 
 
