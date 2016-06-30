@@ -6,7 +6,7 @@
 
 ## Bill of Rights
 
-The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon everyone, without exception. It recognises the rights inherent in Persons and Individuals. As such, the Bill of Rights shall be directly enforceable before all Courts of the Free Republic of Liberland. All rights in this Bill are conditional upon respecting the rights of others and can be balanced against the rights of others as well.
+The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon everyone, without exception. It recognises the rights inherent in Persons and Individuals. As such, the Bill of Rights shall be directly enforceable before all Courts of the Free Republic of Liberland. All rights in this Bill are conditional upon respecting the rights of others and can be balanced against the rights of others as well. The following rights shall be interpreted in good faith and literally and shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
 
 ### Article I - Rights
 
