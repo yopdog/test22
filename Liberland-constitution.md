@@ -17,4 +17,4 @@ All Persons shall have the right to live and exist peacefully; be secure from bo
 All Individuals shall have the right to exercise full control over their life; make one’s own decisions; take risks; enter into any contract thay choose; form voluntary relations and cooperative ventures; control their bodies; express their views and beliefs; share information with others; choose where to work and live.
 
 #### §I.3. Right to Property
-All Individuals shall have the right to own and homestead property; exercise full control over their property; freely trade with others; set up a business exercise full control over it; produce and sell new products; own land and regulate all conduct on it.
+All Individuals shall have the right to own and homestead property; exercise full control over their property; freely trade with others; set up a business and exercise full control over it; produce and sell new products; own land and regulate all conduct on it.
