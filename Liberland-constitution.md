@@ -16,4 +16,5 @@ All Persons shall have the right to live and exist peacefully; be secure from bo
 #### §I.2. Right to Liberty
 All Individuals shall have the right to exercise full control over their life; make one’s own decisions; enter into any contract thay choose; form voluntary relations and cooperative ventures; control their bodies; express their views and beliefs; share information with others; choose where to work and live.    
 
+#### §I.3. Right to Property
 
