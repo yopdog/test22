@@ -14,6 +14,6 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 All Persons shall have the right to live and exist peacefully; be secure from bodily harm, violent aggression, death, danger and threats to one's life and well being.
 
 #### §I.2. Right to Liberty
-All Persons shall have the right to exercise full control over their life, live their life as they please, make one’s own decisions, pursue one’s own goals and form voluntary relations and cooperative ventures.
+All Individuals shall have the right to exercise full control over their life; make one’s own decisions; enter into any contract thay choose; form voluntary relations and cooperative ventures; control their bodies; express their views and beliefs; share information with others; choose where to work and live.    
 
 
