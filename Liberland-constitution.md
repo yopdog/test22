@@ -10,16 +10,6 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ### Article I - Rights
 
-* **§I.1.** The laws of the Free Republic of Liberland are to be based on libertarian principles, those principals being that every person owns his own life and is free to do as he wishes so long as he does not prevent others from doing the same, that people are to be fully responsible for their actions and all of their consequences, and that people respect one another's life, liberty and property.
-* **§I.2.** All persons residing in the free republic of Liberland shall have the right to life, liberty, property, justice and self defence.  
- * **§I.2(1)**  The right to life being the the obligation of others to allow one to live and exist peacefully and be secure from any bodily harm, violent aggression and death so long as one respects the rights of others.    
- * **§I.2(2)**  The right to liberty being the the obligation of others to allow one to exercise full control over their life, live their life as they please, make one’s own decisions, pursue one’s own goals and form voluntary relations and cooperative ventures so long as one respects the rights of others.       
- * **§I.2(3)**  The right to property being the the obligation of others to allow one to own and homestead property, exercise full control over their property, and to do with their property as they see fit so long as one respects the rights of others.
- * **§I.2(4)** The right to justice being the obligation of others to amend to the full extent any harm which they have brought upon one’s life, liberty or property and to conduct a fair and public trial based on evidence and with due process before applying sanctions on one’s rights and freedoms.
- * **§I.2(5)** The right to self defence being the obligation of others to allow one to defend his life, liberty and property from direct aggression or assist others in defending themselves, and to defend oneself legally before, during and after a trial.          
-* **§I.3**  All restrictions, sanctions and limitations on a person's life, liberty or property must in all cases be be justified as an act of self defence, and must be derived from the right to life, liberty, property, justice and self defence as described in the second provision. 
-* **§I.4** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
-* **§I.5** Citizenship in the Free Republic of Liberland is a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.      
-
+#### hello
 
 
