@@ -10,6 +10,6 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ### Article I - Rights
 
-#### 1 - Right to life 
+#### Right to life - I 
 
 
