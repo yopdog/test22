@@ -10,7 +10,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 
 ### Article I - Rights
 
-* **§I.1.** The laws of the Free Republic of Liberland are to be based on libertarian principles, those principals being that every person owns his own life and is free to do as he wishes so long as he does not prevent others from doing the same, that people are to be fully responsible for their actions and all of their consequences, and that people respect one another's life, liberty and property as sacred.
+* **§I.1.** The laws of the Free Republic of Liberland are to be based on libertarian principles, those principals being that every person owns his own life and is free to do as he wishes so long as he does not prevent others from doing the same, that people are to be fully responsible for their actions and all of their consequences, and that people respect one another's life, liberty and property.
 * **§I.2.** All persons residing in the free republic of Liberland shall have the right to life, liberty, property, justice and self defence.  
  * **§I.2(1)**  The right to life being the the obligation of others to allow one to live and exist peacefully and be secure from any bodily harm, violent aggression and death so long as one respects the rights of others.    
  * **§I.2(2)**  The right to liberty being the the obligation of others to allow one to exercise full control over their life, live their life as they please, make one’s own decisions, pursue one’s own goals and form voluntary relations and cooperative ventures so long as one respects the rights of others.       
