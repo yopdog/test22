@@ -6,7 +6,7 @@
 
 ## Bill of Rights
 
-The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon everyone, without exception. It recognises the rights inherent in Persons and Individuals. As such, the Bill of Rights shall be directly enforceable before all Courts of the Free Republic of Liberland. All rights in this Bill are conditional upon respecting the rights of others and can be balanced against the rights of others as well. The following rights shall be interpreted in good faith and literally and shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
+The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon everyone, without exception. It recognises the rights inherent in Persons and Individuals. As such, the Bill of Rights shall be directly enforceable before all Courts of the Free Republic of Liberland. All rights in this Bill are conditional upon respecting the rights of others and can be balanced against the rights of others as well. The following rights shall be interpreted in good faith, literally and in a broad sense. The enumeration of certain rights shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
 
 ### Article I - Natural Rights
 
@@ -20,5 +20,7 @@ All Individuals shall have the right to exercise full control over their life; m
 All Individuals shall have the right to own and homestead property; exercise full control over their property; freely trade with others; set up a business and exercise full control over it; produce and sell new products; own land and regulate all conduct on it.
 
 #### §I.4. Right to Justice
+All Persons shall have the right to justice; to be fully compensated for any loss or damage to one's life, liberty or property which another person has caused; to a fair and public trial based on evidence and with due process before sanctions are applied on one’s rights and freedoms; to be assumed innocent until proven guilty; to be arrested only on probable cause; to defend oneself legally before, during and after a trial. 
 
 #### §I.5. Right to Self-Defence
+All Persons shall have the right to defend their life, liberty and property from aggression or assist others in defending themselves; to own, manufacture, sell, and transfer arms and ammunition; to build cooperative defense ventures. 
