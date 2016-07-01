@@ -8,7 +8,7 @@
 
 The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon everyone, without exception. It recognises the rights inherent in Persons and Individuals. As such, the Bill of Rights shall be directly enforceable before all Courts of the Free Republic of Liberland. All rights in this Bill are conditional upon respecting the rights of others and can be balanced against the rights of others as well. The following rights shall be interpreted in good faith and literally and shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
 
-### Article I - Rights
+### Article I - Natural Rights
 
 #### §I.1. Right to Life 
 All Persons shall have the right to live and exist peacefully; be secure from bodily harm, violent aggression, death, danger and threats to one's life and well being.
@@ -18,3 +18,7 @@ All Individuals shall have the right to exercise full control over their life; m
 
 #### §I.3. Right to Property
 All Individuals shall have the right to own and homestead property; exercise full control over their property; freely trade with others; set up a business and exercise full control over it; produce and sell new products; own land and regulate all conduct on it.
+
+#### §I.4. Right to Justice
+
+#### §I.5. Right to Self-Defence
