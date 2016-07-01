@@ -26,4 +26,5 @@ All Persons shall have the right to justice; to be fully compensated for any los
 All Persons shall have the right to defend their life, liberty and property from aggression or assist others in defending themselves; to own, manufacture, sell, and transfer arms and ammunition; to build cooperative defense ventures. 
 
 ### Article II - Clarifying Provisions
-* **§I.1** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
+* **§I.1**  All restrictions, sanctions and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and the rights described in article I. 
+* **§I.2** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
