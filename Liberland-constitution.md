@@ -26,5 +26,17 @@ All Persons shall have the right to justice; to be fully compensated for any los
 All Persons shall have the right to defend their life, liberty and property from aggression or assist others in defending themselves; to own, manufacture, sell, and transfer arms and ammunition; to build cooperative defense ventures. 
 
 ### Article II - Clarifying Provisions
-* **§I.1**  All restrictions, sanctions and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and rights described in Article I. 
-* **§I.2** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
+* **§II.1**  All restrictions, sanctions and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and rights described in Article I. 
+* **§II.2** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
+* 
+### Article III - Overriding Provisions
+* **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power to sign binding international treaties regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
+
+### Article IV - Citizenship
+* **§IV.1** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (A) Citizan of the Free Republic of Liberland, (B) Permanent Resident, (C) Temporary Resident.
+  * **§II.1(1)** A Citizan of the Free Republic of Liberland 
+  * **§II.1(2)** A Permanent Resident.
+  * **§II.1(3)** A Temporary Resident.
+* **§IV.2** Citizenship in the Free Republic of Liberland is a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
+
+
