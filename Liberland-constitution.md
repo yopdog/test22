@@ -33,7 +33,7 @@ All Persons shall have the right to defend their life, liberty and property from
 * **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power to sign binding international treaties regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
 
 ### Article IV - Citizenship
-* **§IV.1** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (A) Citizan of the Free Republic of Liberland, (B) Permanent Resident, (C) Temporary Resident.
+* **§IV.1** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) Citizan of the Free Republic of Liberland, (b) Permanent Resident, (c) Temporary Resident.
   * **§II.1(1)** A Citizan of the Free Republic of Liberland 
   * **§II.1(2)** A Permanent Resident.
   * **§II.1(3)** A Temporary Resident.
