@@ -31,7 +31,7 @@ All Persons shall have the right to defend their life, liberty and property from
 * **§II.3** No form of taxation, forced redistribution of wealth, or eminent domain shall exist in the Free Republic of Liberland
 
 ### Article III - Overriding Provisions
-* **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power pass bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
+* **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
 
 ### Article IV - Citizenship
 * **§IV.1** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) Citizan of the Free Republic of Liberland, (b) Permanent Resident, (c) Temporary Resident.
