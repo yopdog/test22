@@ -51,6 +51,6 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 * **§IV.2.** Citizenship in the Free Republic of Liberland is a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
 * **§IV.3.** Citizenship and Permanent Residents in the Free Republic of Liberland shall be inalienable in all but the follwing two cases.
  * **§IV.3(1)** As a punishment for a crime.
- * **§IV.3(2)** Idintifying with hostile intities and/or ideologies.
+ * **§IV.3(2)** Idintifying with hostile entities and/or ideologies.
 
 
