@@ -18,7 +18,6 @@ All Individuals shall have the right to exercise full control over their life; m
 
 #### §I.3. Right to Property
 All Individuals shall have the right to own and homestead property; exercise full control over their property; freely trade with others; set up a business and exercise full control over it; produce and sell new products; own land and regulate all conduct on it.
-No form of taxation, forced redistribution of wealth, or eminent domain shall exist in the Free Republic of Liberland.
 
 #### §I.4. Right to Justice
 All Persons shall have the right to justice; to be fully compensated for any loss or damage to one's life, liberty or property which another person has caused; to a fair and public trial based on evidence and with due process before sanctions are applied on one’s rights and freedoms; to be assumed innocent until proven guilty; to be arrested only on probable cause; to defend oneself legally before, during and after a trial. 
@@ -37,7 +36,8 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 ### Article II - Clarifying Provisions
 * **§II.1.** All restrictions, sanctions and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and the natural rights described in Article I. 
 * **§II.2.** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
-* **§II.3.** The rights in this bill shall apply to colections of individuals as well, i.e. organizations, companies, communities.
+* **§II.3.** No form of taxation, forced redistribution of wealth, or eminent domain shall exist in the Free Republic of Liberland.
+* **§II.4.** The rights in this bill shall apply to colections of individuals as well, i.e. organizations, companies, communities.
 
 ### Article III - Overriding Provisions
 * **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
