@@ -47,7 +47,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§IV.1(a)** A *Citizan* - Shall have the right to reside in the Free Republic of Liberland and be reprasented in the United Cantons Assembly through their Canton. Citizanship shall be conditional upon swearing loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residents shall be conditional upon swering loyalty to the constitution.
- * **§IV.1(c)** A *Temporary Resident* - Can reside continuously in the Free Republic of Liberland for a duration prescribed in law which shall not exceed 3 years. Temporary Residents shall be conditional upon being a "safe" and law abiding person.  
+ * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed 3 years. Temporary Residents shall be conditional upon being a "safe" and law abiding person.  
 * **§IV.2.** Citizenship in the Free Republic of Liberland is a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
 * **§IV.3.** Citizenship and Permanent Residents in the Free Republic of Liberland shall be inalienable in all but the follwing two cases.
  * **§IV.3(1)** As a punishment for a crime.
