@@ -47,6 +47,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 * 
 
 * **§I.2.** All persons residing in the free republic of Liberland shall have the right to life, liberty, property, justice and self defence. 
+*  * **§I.2(1)**  The right to life being the the obligation of others to allow one to live and exist peacefully and be secure from any bodily harm, violent aggression and death so long as one respects the rights of others.
  * **§IV.1(a)** A *Citizan* - Shall have the right to reside in the Free Republic of Liberland and be reprasented in the United Cantons Assembly through their Canton. Citizanship shall be conditional upon swering loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residents shall be conditional upon swering loyalty to the constitution.
