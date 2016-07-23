@@ -35,7 +35,7 @@ All Persons shall have the right to their identity; to not have their humanity s
 as sub/non-humen; to be seen as having free will and moral responsibility; to be sacure from identity theft; to not have one's views and/or actions misrepresented or fabricated.
 
 ### Article II - Clarifying Provisions
-* **§II.1.** All restrictions, sanctions and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and the rights described in Article I. 
+* **§II.1.** All restrictions, sanctions and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and the natural rights described in Article I. 
 * **§II.2.** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
 * **§II.3.** The rights in this bill shall apply to colections of individuals as well, i.e. organizations, companies, communities.
 
