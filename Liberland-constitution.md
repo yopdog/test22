@@ -66,8 +66,12 @@ and shall collect their own revenue through voluntary membership fees.
 ### Article 2 - United Cantons Assembly 
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. 
-* **§II.2.** The UCA shall appoint a Chancellor who will be head of state and will represent the country abroad.
-* **§II.3.** No legal authority other then the Constitution shall exist over the Cantons.
-* **§II.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
-* **§II.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly. 
+* **§II.2.** The Assembly shall consist of thirty Assembly Representatives.
+ * **§II.2(1)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
+ Representative shall be provided by his Canton.
+
+provided by his Canton
+* **§II.3.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
+* **§II.4.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
+* **§II.5.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
 
