@@ -42,12 +42,12 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 ### Article III - Overriding Provisions
 * **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
 
-### Article IV - Citizenship
+### Article IV - Citizenship and Residency
 *   **§IV.1.** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) *Citizan*, (b) *Permanent Resident*, (c) *Temporary Resident*.
  * **§IV.1(a)** A *Citizan* - Shall have the right to reside in the Free Republic of Liberland and be reprasented in the United Cantons Assembly through their Canton. Citizanship shall be conditional upon swearing loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
- Permanent Residents shall be conditional upon swering loyalty to the constitution.
- * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed 3 years. Temporary Residents shall be conditional upon being a "safe" and law abiding person.  
+ Permanent Residency shall be conditional upon swering loyalty to the constitution.
+ * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed 3 years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
 * **§IV.2.** Citizenship in the Free Republic of Liberland is a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
 * **§IV.3.** Citizenship and Permanent Residents in the Free Republic of Liberland shall be inalienable in all but the follwing two cases.
  * **§IV.3(1)** As a punishment for a crime.
