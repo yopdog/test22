@@ -61,6 +61,6 @@ and shall collect their own revenue through voluntary membership fees.
 * **§I.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
 * **§I.3.** No legal athoraty other then the Constitution shall exist over the Cantons.
 * **§I.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize
-* **§I.5.** Cantons shall Represent their 'Citizen' members in the United Cantons Assembly
-* **§I.6.** No legal athoraty other then the Constitution shall exist over the Cantons.
+* **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly
+
 
