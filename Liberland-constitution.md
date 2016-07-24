@@ -47,7 +47,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§IV.1(a)** A *Citizan* - Shall have the right to reside in the Free Republic of Liberland and be reprasented in the United Cantons Assembly through their Canton. Citizanship shall be conditional upon swearing loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residency shall be conditional upon swering loyalty to the constitution.
- * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed 3 years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
+ * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed three years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
 * **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
 * **§IV.3.** Citizenship and Permanent Residency in the Free Republic of Liberland shall be inalienable in all but the follwing two cases.
  * **§IV.3(1)** As a punishment for a crime.
@@ -70,16 +70,18 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§II.1.** The United Cantons Assembly shall facilitate the registration of Cantons.
 * **§II.2.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
  * **§II.2(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
- * **§II.2(2)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
+ * **§II.2(2)** The Representation of Cantons in the Assembly shall be renewed once every four years
+ * **§II.2(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
 * **§IV.3.** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§IV.3(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§IV.3(2)** The Assembly Speaker shall head the Bureau of the Assembly.
 * **§IV.4.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
-* **§II.3.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of Assembly Representatives.
+* **§II.3.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland.
  * **§II.3(1)** The Chancellor shall be head of state and shall represent the country abroad and act as comander and chief
  of the armed forces of Liberland.
- * **§II.3(2)** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
-* **§II.4.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
-* **§II.5.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
+ * **§II.3(2)** The Chancellor shall be elected by the Representatives of the Assembely through a rating system. Each Canton
+shall put forword up to one of it's Representatives as a candidate for the Chancellor position. The Representatives shall then
+score each candidate. The candidate with the highest average score gets to become Chancellor.
+
 
