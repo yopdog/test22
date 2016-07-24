@@ -49,7 +49,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  Permanent Residency shall be conditional upon swering loyalty to the constitution.
  * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed 3 years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
 * **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
-* **§IV.3.** Citizenship and Permanent Residents in the Free Republic of Liberland shall be inalienable in all but the follwing two cases.
+* **§IV.3.** Citizenship and Permanent Residency in the Free Republic of Liberland shall be inalienable in all but the follwing two cases.
  * **§IV.3(1)** As a punishment for a crime.
  * **§IV.3(2)** Idintifying with hostile entities and/or ideologies.
 
