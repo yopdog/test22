@@ -70,7 +70,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§II.1.** The United Cantons Assembly shall facilitate the registration of Cantons.
 * **§II.2.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
  * **§II.2(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
- * **§II.2(2)** The Representation of Cantons in the Assembly shall be renewed once every four years
+ * **§II.2(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
  * **§II.2(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
  * **§II.2(3)** Representatives that hold no Cabinet position can be replaced by thier Canton up to once every year.
