@@ -72,7 +72,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.2(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
  * **§II.2(2)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
- * **§II.2(3)** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
+* **§II.3.** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
 
 provided by his Canton
 * **§II.3.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
