@@ -73,6 +73,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.2(2)** The Representation of Cantons in the Assembly shall be renewed once every four years
  * **§II.2(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
+ * **§II.2(3)** Representatives that hold no Cabinet position can be replaced by thier Canton up to once every year.
 * **§IV.3.** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§IV.3(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§IV.3(2)** The Assembly Speaker shall head the Bureau of the Assembly.
