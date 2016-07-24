@@ -55,5 +55,6 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 
 ## Chapter 2: Political Institutions
 
+### Article I - Cantons 
 
 
