@@ -59,8 +59,14 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 * **§I.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
 and shall collect their own revenue through voluntary membership fees.
 * **§I.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
-* **§I.3.** No legal athoraty other then the Constitution shall exist over the Cantons.
-* **§I.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize
-* **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly
+* **§I.3.** No legal authority other then the Constitution shall exist over the Cantons.
+* **§I.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
+* **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly. 
 
+### Article 2 - United Cantons Assembly 
+* **§II.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects
+* **§II.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
+* **§II.3.** No legal authority other then the Constitution shall exist over the Cantons.
+* **§II.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
+* **§II.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly. 
 
