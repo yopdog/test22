@@ -56,5 +56,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 ## Chapter 2: Political Institutions
 
 ### Article I - Cantons 
-
+* **§I.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
+and shall collect their own revenue through voluntary membership fees.
+* **§I.2.** No legal athoraty 
 
