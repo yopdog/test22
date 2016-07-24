@@ -67,7 +67,8 @@ and shall collect their own revenue through voluntary membership fees.
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. 
 * **§II.2.** The Assembly shall consist of thirty Assembly Representatives.
- * **§II.2(1)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
+ * **§II.2(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the regestured Cantons.
+ * **§II.2(2)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
 
 provided by his Canton
