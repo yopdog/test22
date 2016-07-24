@@ -76,12 +76,10 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.3(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§IV.3(2)** The Assembly Speaker shall head the Bureau of the Assembly.
 * **§IV.4.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
-
-*  **§II.3.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of Assembly Representatives.
+* **§II.3.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland, with a simple majority vote of the overall number of Assembly Representatives.
  * **§II.3(1)** The Chancellor shall be head of state and shall represent the country abroad and act as comander and chief
  of the armed forces of Liberland.
  * **§II.3(2)** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
- 
 * **§II.4.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
 * **§II.5.** The Assembly shall appoint a Chancellor who will be head of state and will represent the country abroad.
 
