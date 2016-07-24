@@ -53,7 +53,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§IV.3(1)** As a punishment for a crime.
  * **§IV.3(2)** Idintifying with hostile entities and/or ideologies.
 
-## Chapter 1: Political Institutions
+## Chapter 2: Political Institutions
 
 
 
