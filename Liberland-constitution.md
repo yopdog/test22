@@ -26,7 +26,7 @@ All Persons shall have the right to justice; to be fully compensated for any los
 All Persons shall have the right to Self-Defence; to defend their life, liberty and property from any threat or aggression and assist others in defending themselves; to own, manufacture, sell, and transfer arms and ammunition; to build cooperative defense ventures.
 
 #### §I.6. Right to Privacy
-All Persons shall have the right to Privacy; to be sacure from unwarranted intrusions and publucations of one's private information;
+All Persons shall have the right to Privacy; to be sacure from unwarranted intrusions and publications of one's private information;
 to not have one's private information collected without their knowledge and/or permission. 
 
 #### §I.7. Right to identity
