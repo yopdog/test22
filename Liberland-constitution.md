@@ -64,16 +64,16 @@ and shall collect their own revenue through voluntary membership fees.
 * **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
 * **§I.6.** Cantons must be be registered in the United Cantons Assembly.
 
-### Article 2 - United Cantons Assembly 
+#### Article 2 - United Cantons Assembly 
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
 * **§II.2.** The United Cantons Assembly shall facilitate the registration of Cantons.
 * **§II.3.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
- * **§II.3(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons, calculated in th Sainte-Laguë methode.
+ * **§II.3(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
  * **§II.3(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
  * **§II.3(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
- * **§II.3(3)** Representatives that hold no Cabinet position can be replaced by thier Canton up to once every year.
+ * **§II.3(3)** Representatives that hold no Cabinet or elected position can be replaced by thier Canton up to once every year.
 * **§II.4.** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§II.4(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§II.4(2)** The Assembly Speaker shall head the Bureau of the Assembly.
