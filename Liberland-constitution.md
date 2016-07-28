@@ -64,7 +64,7 @@ and shall collect their own revenue through voluntary membership fees.
 * **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
 * **§I.6.** Cantons must be be registered in the United Cantons Assembly.
 
-#### Article 2 - United Cantons Assembly 
+### Article 2 - United Cantons Assembly 
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
 * **§II.2.** The United Cantons Assembly shall facilitate the registration of Cantons.
