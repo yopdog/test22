@@ -80,9 +80,9 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§II.4(2)** The Assembly Speaker shall head the Bureau of the Assembly.
 * **§II.5.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
 * **§II.6.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland
- * **§II.6(1)** The Chancellor shall be head of state and shall represent the country abroad and act as comander and chief
+ * **§II.6(1)** The Chancellor shall be elected through a range voting system whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
+ * **§II.6(2)** The Chancellor shall be head of state and shall represent the country abroad and act as comander and chief
  of the armed forces of Liberland.
- * **§II.6(2)** The Chancellor shall be elected by the Representatives of the Assembely through a range voting system. Each Canton
-shall put forword up to one of it's Representatives as a candidate for the Chancellor position. 
+
 
 
