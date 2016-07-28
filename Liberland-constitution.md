@@ -74,7 +74,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.3(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
  * **§II.3(4)** Representatives that hold no Cabinet or elected position may be replaced by their Canton up to once every year.
- * **§II.3(5)** Assembly Representatives shall receive remuneration for their service directly from the treasury in accordance to the law. Representatives that hold Cabinet or elected positions shall receive remuneration exclusively from the treasury. 
+ * **§II.3(5)** Assembly Representatives shall receive remuneration for their service from the treasury in accordance to the law. Representatives that hold Cabinet or elected positions shall receive remuneration exclusively from the treasury. 
 * **§II.4.** The Assembly shall elect an Assembly Speaker with a simple majority vote of the overall number of Assembly Representatives.
   * **§II.4(1)** The Assembly Speaker shall chair the business of the Assembly.
   * **§II.4(2)** The Assembly Speaker shall head the Bureau of the Assembly.
