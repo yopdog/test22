@@ -75,12 +75,12 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  Representative shall be provided by his Canton.
  * **§II.3(4)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
  * **§II.3(5)** Assembly Representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance to the law.
-* **§II.4.** The Assembly shall elect an Assembly Speaker using a range voting system. 
-  * **§II.4(1)** The Assembly Speaker shall chair the business of the Assembly.
+* **§II.4.** The Assembly shall elect an Assembly Speaker who shall chair the business of the Assembly. 
+  * **§II.4(1)** The Assembly Speaker shall be elected through a range vote.
   * **§II.4(2)** The Assembly Speaker shall head the Bureau of the Assembly.
 * **§II.5.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
-* **§II.6.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall form the Cabinet of the Free Republic of Liberland
- * **§II.6(1)** The Chancellor shall be elected through a range voting system whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
+* **§II.6.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall be **head of state** of the Free Republic of Liberland
+ * **§II.6(1)** The Chancellor shall be elected through a range vote whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
  * **§II.6(2)** The Chancellor shall be head of state and shall represent the country abroad and act as comander and chief
  of the armed forces of Liberland.
 
