@@ -67,28 +67,29 @@ and shall collect their own revenue through voluntary membership fees.
 ### Article 2 - United Cantons Assembly 
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
-* **§II.2.** The United Cantons Assembly shall facilitate the registration of Cantons.
-* **§II.3.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
- * **§II.3(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
- * **§II.3(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
- * **§II.3(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
+* **§II.2.** The enforcement of Bills passed by the United Cantons Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
+* **§II.3.** The United Cantons Assembly shall facilitate the registration of Cantons.
+* **§II.4.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
+ * **§II.4(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
+ * **§II.4(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
+ * **§II.4(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
  * **§II.3(4)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
- * **§II.3(5)** Assembly Representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance to the law.
-* **§II.4.** The Assembly shall elect an Assembly Speaker who shall chair the business of the Assembly. 
-  * **§II.4(1)** The Assembly Speaker shall be elected through a range vote.
-  * **§II.4(2)** The Assembly Speaker shall head the Bureau of the Assembly.
-* **§II.5.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
- * **§II.5(1)** The Bureau of the Assembly shall supervise all Agents of the Assembly.
-* **§II.6.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
- * **§II.6(1)** The Chancellor shall be elected through a range vote whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
- * **§II.6(2)** The Chancellor shall form and preside over the Cabinet.
-* **§II.7.** The Assembly shall have the power to pass Bills for the following purposes only:
- * **§II.7(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their rights.
- * **§II.7(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
- * **§II.7(3)** to set the Citizenship fee.
- * **§II.7(4)** to conduct a fundraiser.
- * **§II.7(5)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
- * **§II.7(6)** to establish the common courts list.
- * **§II.7(7)** to assent to the incorporation of new territory to the Free Republic of Liberland.
+ * **§II.4(5)** Assembly Representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance to the law.
+* **§II.5.** The Assembly shall elect an Assembly Speaker who shall chair the business of the Assembly. 
+  * **§II.5(1)** The Assembly Speaker shall be elected through a range vote.
+  * **§II.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
+* **§II.6.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
+ * **§II.6(1)** The Bureau of the Assembly shall supervise all Agents of the Assembly.
+* **§II.7.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
+ * **§II.7(1)** The Chancellor shall be elected through a range vote whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
+ * **§II.7(2)** The Chancellor shall form and preside over the Cabinet.
+* **§II.8.** The Assembly shall have the power to pass Bills for the following purposes only:
+ * **§II.8(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their rights.
+ * **§II.8(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
+ * **§II.8(3)** to set the Citizenship fee.
+ * **§II.8(4)** to conduct a fundraiser.
+ * **§II.8(5)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
+ * **§II.8(6)** to establish the common courts list.
+ * **§II.8(7)** to assent to the incorporation of new territory to the Free Republic of Liberland.
  
