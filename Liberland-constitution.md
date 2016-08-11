@@ -93,8 +93,5 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.8(6)** to establish the common courts list.
 * **§II.9.** The Assembly shall have the power to pass Resolutions for the following purposes only:
  * **§II.9(1)** to appoint and impeach the Chancellor.
- * **§II.9(2)** to appoint and impeach the Chancellor.
-
-
-
- * **§II.9(5)** to assent to the incorporation of new territory to the Free Republic of Liberland.
+ * **§II.9(2)** to appoint and replace the Assembly Speaker.
+ * **§II.9(3)** to assent to the incorporation of new territory to the Free Republic of Liberland.
