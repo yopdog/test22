@@ -100,3 +100,11 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.10.*** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
 * **§IV.10(1)** One-fifth of the overall number of Assembly Representatives shall have the power to oblige the Cabinet to consider a draft of a Bill prepared by them, which may be rejected or accepted by the Cabinet as a future Bill.
 * **§IV.10(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
+* **§IV.11.** One-half of the overall number of Assembly Representatives shall have the power to propose a resolution instituting the Assembly Committee.
+  * **§IV.11(1)** The resolution shall be passed with a simple majority of the overall number of Assembly Representatives.
+  * **§IV.11(2)** The Assembly Committee shall be composed of five Assembly Representatives as proposed in the resolution.
+  * **§IV.11(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Agent or Member of the United Cantons Assembly in order to investigate the allegations.
+  * **§IV.11(4)** The Assembly Committee shall have the right to subpoena Agents and Members of the United Cantons Assembly to hear testimonies given under oath.
+  * **§IV.11(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence, if any, of said misconduct or mismanagement which shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
+  * **§IV.11(6)** Should any Agent or Member of the Public Administration be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
+  * **§IV.11(7)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
