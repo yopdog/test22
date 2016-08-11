@@ -108,3 +108,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.11(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence, if any, of said misconduct or mismanagement which shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
   * **§IV.11(6)** Should any Agent or Member of the Public Administration be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
   * **§IV.11(7)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
+  * **§IV.12.** The power to initiate a legislative procedure shall lie with the Cabinet only.
+  * **§IV.12(3)** A legislative procedure shall involve the Assembly and Cabinet debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
+  * **§IV.12(4)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
+  * **§IV.12(5)** Any Bill which is rejected by the Assembly or the Cabinet shall not be revived until at least one year has passed since it was last rejected.
