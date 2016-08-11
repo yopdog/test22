@@ -97,3 +97,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.9(2)** to appoint and replace the Assembly Speaker.
  * **§II.9(3)** to establish the Assembly Committee.
  * **§II.9(4)** to assent to the incorporation of new territory to the Free Republic of Liberland.
+* **§IV.10.*** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
+* **§IV.10(1)** One-fifth of the overall number of Assembly Representatives shall have the power to oblige the Cabinet to consider a draft of a Bill prepared by them, which may be rejected or accepted by the Cabinet as a future Bill.
+* **§IV.10(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
