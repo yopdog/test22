@@ -84,6 +84,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§II.7.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
  * **§II.7(1)** The Chancellor shall be elected through a range vote whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
  * **§II.7(2)** The Chancellor shall form and preside over the Cabinet.
+ * **§II.7(3)** The Assembly shall have the power to impeach the Chancellor, or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
 * **§II.8.** The Assembly shall have the power to pass Bills for the following purposes only:
  * **§II.8(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their rights.
  * **§II.8(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
