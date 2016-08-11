@@ -92,6 +92,3 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.7(6)** to establish the common courts list.
  * **§II.7(7)** to assent to the incorporation of new territory to the Free Republic of Liberland.
  
-
-
-
