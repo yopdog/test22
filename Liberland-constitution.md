@@ -94,4 +94,5 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§II.9.** The Assembly shall have the power to pass Resolutions for the following purposes only:
  * **§II.9(1)** to appoint and impeach the Chancellor.
  * **§II.9(2)** to appoint and replace the Assembly Speaker.
- * **§II.9(3)** to assent to the incorporation of new territory to the Free Republic of Liberland.
+ * **§II.9(3)** to establish the Assembly Committee;
+ * **§II.9(4)** to assent to the incorporation of new territory to the Free Republic of Liberland.
