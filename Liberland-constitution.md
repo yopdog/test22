@@ -82,7 +82,16 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.5(1)** The Bureau of the Assembly shall supervise all Agents of the Assembly.
 * **§II.6.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
  * **§II.6(1)** The Chancellor shall be elected through a range vote whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
- * **§II.6(2)** The Chancellor shall form  and preside over the Cabinet. 
+ * **§II.6(2)** The Chancellor shall form and preside over the Cabinet.
+* **§II.7.** The Assembly shall have the power to pass Bills for the following purposes only:
+ * **§II.7(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their rights.
+ * **§II.7(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
+ * **§II.7(3)** to set the Citizenship fee.
+ * **§II.7(4)** to conduct a fundraiser.
+ * **§II.7(5)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
+ * **§II.7(6)** to establish the common courts list.
+ * **§II.7(7)** to assent to the incorporation of new territory to the Free Republic of Liberland.
+ 
 
 
 
