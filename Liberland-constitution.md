@@ -91,4 +91,10 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.8(4)** to conduct a fundraiser.
  * **§II.8(5)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
  * **§II.8(6)** to establish the common courts list.
- * **§II.8(7)** to assent to the incorporation of new territory to the Free Republic of Liberland.
+* **§II.9.** The Assembly shall have the power to pass Resolutions for the following purposes only:
+ * **§II.9(1)** to appoint and impeach the Chancellor.
+ * **§II.9(2)** to appoint and impeach the Chancellor.
+
+
+
+ * **§II.9(5)** to assent to the incorporation of new territory to the Free Republic of Liberland.
