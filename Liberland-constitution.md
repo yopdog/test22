@@ -115,3 +115,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
  * **§IV.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution, and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
  * **§IV.13(2)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
+* **§IV.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
+  * **§IV.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
+  * **§IV.14(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
+  * **§IV.14(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
