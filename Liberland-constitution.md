@@ -112,3 +112,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.12(3)** A legislative procedure shall involve the Assembly and Cabinet debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
   * **§IV.12(4)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
   * **§IV.12(5)** Any Bill which is rejected by the Assembly or the Cabinet shall not be revived until at least one year has passed since it was last rejected.
+  * **§IV.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
+   * **§IV.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution, and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
+   * **§IV.13(2)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
