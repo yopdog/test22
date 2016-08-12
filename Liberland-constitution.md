@@ -119,3 +119,40 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
   * **§IV.14(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
   * **§IV.14(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
+* **§IV.15.** The Cabinet shall have the power to propose five types of Bills:
+  * **§IV.15(1)** an ordinary Bill;
+  * **§IV.15(2)** a Constitutional Bill;
+  * **§IV.15(3)** a Citizanship Fee Bill;
+  * **§IV.15(4)** a Treaty Bill;
+  * **§IV.15(5)** a Financial Bill.
+* **§IV.16.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
+  * **§IV.16(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.16(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
+* **§IV.16.** A Constitutional Bill shall propose an Amendment to this Constitution.
+  * **§IV.16(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §II.25.
+  * **§IV.16(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
+* **§IV.17.** A Citizanship Fee Bill shall propose to introduce, or to alter, the Citizanship Fee of the Free Republic of Liberland.
+  * **§IV.17(1)** All Citizanship Fee Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+  * **§IV.17(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §IV25.
+  * **§IV.17(3)** The Fee on land may be abolished by an ordinary Bill.
+  * **§IV.17(4)** The Fee shall be fixed per square metre of land.
+  * **§IV.17(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Act.
+  * **§IV.17(6)** The overall Fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
+  * **§IV.18(7)** The Fee shall be levied for one or more of the following purposes only:
+   * **§IV.18(7)(a)** maintaining the infrastructure of the Public Administration;
+   * **§IV.18(7)(b)** providing for Law Enforcement;
+   * **§IV.18(7)(c)** providing for the Courts of the Free Republic of Liberland;
+   * **§IV.18(7)(d)** providing for Agents and Members of the Public Administration;
+   * **§IV.18(7)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
+* **§IV.19.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
+  * **§IV.19(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.19(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
+  * **§IV.19(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
+  * **§IV.19(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
+* **§IV.20.** The Financial Bill shall contain the provisions of the Annual Budget.
+  * **§IV.20(1)** The Financial Bill shall be passed with a simple majority vote of the overall number of Assembly Representatives.
+  * **§IV.20(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
+  * **§IV.20(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
+  * **§IV.20(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
+  * **§IV.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the Public Administration.
+  * **§IV.20(6)** Under no circumstances shall the Cabinet lower the remuneration of Judges and/or Assembly Representatives unless with the express and informed consent of the relevant bodies.
