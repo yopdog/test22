@@ -53,9 +53,9 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§IV.3(1)** As a punishment for a crime.
  * **§IV.3(2)** For idintifying with hostile entities and/or ideologies.
 
-## Chapter 2: Political Institutions
+## Chapter 2: Cantons
 
-### Article I - Cantons 
+
 * **§I.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
 and shall collect their own revenue through voluntary membership fees.
 * **§I.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
@@ -64,7 +64,8 @@ and shall collect their own revenue through voluntary membership fees.
 * **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
 * **§I.6.** Cantons must be be registered in the United Cantons Assembly.
 
-### Article 2 - United Cantons Assembly 
+## Chapter 3: United Cantons Assembly 
+ 
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
 * **§II.2.** The enforcement of Bills passed by the United Cantons Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
