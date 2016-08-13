@@ -164,14 +164,14 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
   * **§IV.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was passed in the assembly
   * **§IV.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
-* **§IV.23.** All Constitutional Bills and Land Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to a mandatory referendum.
+* **§IV.23.** A Constitutional Bills peassed in the assembly shall be subject to a mandatory referendum.
   * **§IV.23(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
   * **§IV.23(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
 * **§IV.24.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
   * **§IV.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
   * **§IV.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
   * **§IV.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article pending the consideration by the Supreme Court.
-* **§IV.26.** A Bill shall become “Under Consideration” upon the declaration of constitutionality by the Supreme Court in accordance with the procedure laid down in Article VI pending the consideration by the Citizens.
-* **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.28., and either sixty days have passed and no referendum has been called in accordance with §IV.24., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.24. or §IV.25.
+* **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
+* **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
+* **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
 * **§IV.28.** An Act shall enter into force on a date prescribed therein but no sooner than after at least thirty days of vacatio legis from the date it became the law of the Free Republic of Liberland in accordane with §IV.29.
