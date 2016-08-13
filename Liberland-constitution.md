@@ -143,5 +143,4 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.20(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
   * **§IV.20(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
   * **§IV.20(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
-  * **§IV.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the Public Administration.
-  * **§IV.20(6)** Under no circumstances shall the Cabinet lower the remuneration of Judges and/or Assembly Representatives unless with the express and informed consent of the relevant bodies.
+  * **§IV.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the United Cantons Assembly.
