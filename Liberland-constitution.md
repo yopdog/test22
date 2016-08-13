@@ -55,7 +55,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 
 ## Chapter 2: Cantons
 
-
+* **§I.1.** The Executive Power shall be vested in the Cantons and the people of the free Republic of liberland.
 * **§I.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
 and shall collect their own revenue through voluntary membership fees.
 * **§I.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
@@ -63,6 +63,8 @@ and shall collect their own revenue through voluntary membership fees.
 * **§I.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
 * **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
 * **§I.6.** Cantons must be be registered in the United Cantons Assembly.
+* **§I.6.** Cantons have a defacto veto power on laws passed in the United Cantons Assembly if thay refuse to allow a law to be inforced on their members. The lagitimicy of such a veto shall be judged on a case by case bases in accordance to the constitution.
+* **§I.7.** disputes between Cantons shall be solved in peacefull and civic manner. 
 
 ## Chapter 3: United Cantons Assembly 
  
