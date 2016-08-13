@@ -174,4 +174,3 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
 * **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
 * **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
-* **§IV.28.** An Act shall enter into force on a date prescribed therein but no sooner than after at least thirty days of vacatio legis from the date it became the law of the Free Republic of Liberland in accordane with §IV.29.
