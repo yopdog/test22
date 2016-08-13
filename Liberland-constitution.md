@@ -133,11 +133,12 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.16(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§IV.16(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
 * **§IV.17.** A Constitutional Bill shall propose an Amendment to this Constitution.
-  * **§IV.17(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §II.25.
+  * **§IV.17(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+  * **§IV.17(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
   * **§IV.17(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
 * **§IV.18.** A Citizanship Fee Bill shall propose to alter the Citizanship Fee of the Free Republic of Liberland.
   * **§IV.18(1)** All Citizanship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
-  * **§IV.18(2)** All Citizanship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.25.
+  * **§IV.18(2)** All Citizanship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
   * **§IV.18(7)** The Citizanship Fee shall be levied for one or more of the following purposes only:
    * **§IV.18(7)(a)** maintaining the United Cantons Assembly and it's Departments;
    * **§IV.18(7)(b)** maintaining the High Court of the Free Republic of Liberland;
@@ -160,3 +161,17 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.21(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
   * **§IV.21(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Cantons who
   voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
+* **§IV.24.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
+  * **§IV.24(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was passed in the assembly
+  * **§IV.24(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
+* **§IV.25.** All Constitutional Bills and Land Bills passed by the Assembly and the Council and approved as constitutional by the Supreme Court shall be subject to a mandatory referendum.
+  * **§IV.25(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§IV.25(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
+* **§IV.26.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
+  * **§IV.26(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
+  * **§IV.26(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
+  * **§IV.26(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+* **§IV.27.** A Bill shall become “Passed” upon passage by the Assembly and the Council in accordance with the provisions of this Article pending the consideration by the Supreme Court.
+* **§IV.28.** A Bill shall become “Under Consideration” upon the declaration of constitutionality by the Supreme Court in accordance with the procedure laid down in Article VI pending the consideration by the Citizens.
+* **§IV.29.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.28., and either sixty days have passed and no referendum has been called in accordance with §IV.24., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.24. or §IV.25.
+* **§IV.30.** An Act shall enter into force on a date prescribed therein but no sooner than after at least thirty days of vacatio legis from the date it became the law of the Free Republic of Liberland in accordane with §IV.29.
