@@ -127,12 +127,16 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.16.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
   * **§IV.16(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§IV.16(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
-* **§IV.16.** A Constitutional Bill shall propose an Amendment to this Constitution.
-  * **§IV.16(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §II.25.
-  * **§IV.16(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
-* **§IV.17.** A Citizanship Fee Bill shall propose to alter the Citizanship Fee of the Free Republic of Liberland.
-  * **§IV.17(1)** All Citizanship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
-  * **§IV.17(2)** All Citizanship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.25.
+* **§IV.17.** A Constitutional Bill shall propose an Amendment to this Constitution.
+  * **§IV.17(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §II.25.
+  * **§IV.17(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
+* **§IV.18.** A Citizanship Fee Bill shall propose to alter the Citizanship Fee of the Free Republic of Liberland.
+  * **§IV.18(1)** All Citizanship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.18(2)** All Citizanship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.25.
+  * **§IV.18(7)** The Citizanship Fee shall be levied for one or more of the following purposes only:
+   * **§IV.18(7)(a)** maintaining the United Cantons Assembly and it's Departments;
+   * **§IV.18(7)(b)** maintaining the High Court of the Free Republic of Liberland;
+   * **§IV.18(7)(d)** maintaining the Armed Fources and the National Sacurity of the Free Republic of Liberland;   
 * **§IV.19.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
   * **§IV.19(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§IV.19(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
@@ -144,3 +148,10 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.20(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
   * **§IV.20(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
   * **§IV.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the United Cantons Assembly.
+ * **§IV.21.** The Annual Budget shall constitute the only source of financial provisions for the United Cantons Assembly.
+  * **§IV.21(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
+  * **§IV.21(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
+  * **§IV.21(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
+  * **§IV.21(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
+  * **§IV.21(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Cantons who
+  voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
