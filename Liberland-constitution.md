@@ -55,7 +55,6 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 
 ## Chapter 2: Cantons
 
-* **§I.1.** The Executive Power shall be vested in the Cantons and the people of the free Republic of liberland.
 * **§I.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
 and shall collect their own revenue through voluntary membership fees.
 * **§I.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
@@ -70,6 +69,9 @@ and shall collect their own revenue through voluntary membership fees.
  
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
+  * **§IV.1(1)** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
+  * **§IV.1(2)** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
+  * **§IV.1(3)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
 * **§II.2.** The enforcement of Bills passed by the United Cantons Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
 * **§II.3.** The United Cantons Assembly shall facilitate the registration of Cantons.
 * **§II.4.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
