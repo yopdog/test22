@@ -131,19 +131,9 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.16.** A Constitutional Bill shall propose an Amendment to this Constitution.
   * **§IV.16(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives and shall be subject to the power of general veto by the Citizens as provided in §II.25.
   * **§IV.16(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
-* **§IV.17.** A Citizanship Fee Bill shall propose to introduce, or to alter, the Citizanship Fee of the Free Republic of Liberland.
-  * **§IV.17(1)** All Citizanship Fee Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
-  * **§IV.17(2)** All Land Bills shall be subject to the power of general veto by the Citizens as provided in §IV25.
-  * **§IV.17(3)** The Fee on land may be abolished by an ordinary Bill.
-  * **§IV.17(4)** The Fee shall be fixed per square metre of land.
-  * **§IV.17(5)** The Fee shall be payable once a year by landowners, other than the Public Administration, as prescribed in the Act.
-  * **§IV.17(6)** The overall Fee revenue shall be calculated not to exceed 5% of the Gross Domestic Product of the Free Republic of Liberland of the preceding year.
-  * **§IV.18(7)** The Fee shall be levied for one or more of the following purposes only:
-   * **§IV.18(7)(a)** maintaining the infrastructure of the Public Administration;
-   * **§IV.18(7)(b)** providing for Law Enforcement;
-   * **§IV.18(7)(c)** providing for the Courts of the Free Republic of Liberland;
-   * **§IV.18(7)(d)** providing for Agents and Members of the Public Administration;
-   * **§IV.18(7)(e)** securing and promoting the interests of the Free Republic of Liberland worldwide.
+* **§IV.17.** A Citizanship Fee Bill shall propose to alter the Citizanship Fee of the Free Republic of Liberland.
+  * **§IV.17(1)** All Citizanship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.17(2)** All Citizanship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.25.
 * **§IV.19.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
   * **§IV.19(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
   * **§IV.19(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
