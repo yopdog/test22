@@ -4,7 +4,7 @@
 
 *We, the Citizens of the Free Republic of Liberland, in order to secure Liberty, Life and Property, for ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, attempting a harmonious consensus for the benefit of all those willing to assume responsibility over the course of their lives. Being aware of a long and shameful list of governments’ trespasses to the Rights of the sovereign Individuals, we hereby declare that the United Cantons governing the Free Republic of Liberland shall first and foremost respect the Bill of Rights and exercise power in good faith in order to secure the human rights which we consider inherent in all human beings.* 
 
-## Chapter 1: Bill of Rights
+##### Chapter 1: Bill of Rights
 
 The Bill of Rights shall constitute the integral part of the Constitution and shall be binding upon everyone, without exception. It recognises the rights inherent in Persons and Individuals. As such, the Bill of Rights shall be directly enforceable before all Courts of the Free Republic of Liberland. All rights in this Bill are conditional upon respecting the rights of others and can be balanced against the rights of others as well. The following rights shall be interpreted in good faith, literally and in a broad sense. The enumeration of certain rights shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland.
 
