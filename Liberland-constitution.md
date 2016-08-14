@@ -240,3 +240,31 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 ## Chapter 5: The Judiciary
 
 ## Chapter 6: Sacurity and The Armed Forces
+
+#### Article XXIII -
+#### Article XXIV -
+#### Article XXV -
+
+
+
+## Chapter 7: Final Provisions
+
+The Constitution of the Free Republic of Liberland shall be construed in the light of Overriding and Interpretive provisions and shall enter into force upon the conditions prescribed in the Transitional provisions.
+
+### Article XVII: Interpretive Provisions
+
+* **§XVII.1.** The jurisdiction of the Free Republic of Liberland shall extend to the whole territory of the Free Republic of Liberland, including premises of any of its extraterritorial diplomatic missions, its airspace, territorial waters, all vehicles registered therein whilst in an international space, and any area under the overall effective control of the Territorial Defence force.
+* **§XVII.2.** Any ambiguity in this Constitution and any laws passed in accordance therewith shall be resolved so as to give the greatest liberty from restraint imposed by law or this Constitution on any Person's conduct; and so as to provide for the least extensive power for any branch of the Public Administration, their Members and Agents, consistent with the clear meaning of the provision in question.
+* **§XVII.3.** The Constitution of the Free Republic of Liberland shall be interpreted in good faith and literally, as far as it does not produce any absurd result, with due regard to the original intention behind its provisions; in case of doubt, consideration may be given to any statements or notes related to the text made before or at the time of its adoption.
+* **§XVII.4.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated for any purpose envisaged in the Constitution; the term “Agent of the Public Administration” shall signify any Person working for any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify any Person who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify any Person holding citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "law" shall signify any Act passed by the Assembly in accordance with Article IV and any Executive Measures as issued by the Cabinet in accordance with Article V.
+
+### Article XVIII: Transitional Provisions
+
+* **§XVIII.1.** The first General Election shall be called by the Provisional Government of the Free Republic of Liberland in order to elect an Assembly composed of twenty members.
+* **§XVIII.2.** Immediately following the first General Election, the President of the Provisional Government shall put forward to the Assembly a draft of this Constitution of the Free Republic of Liberland along with the nomination of any five Persons for the positions of the first four Justices and the Chief Justice of the Supreme Court.
+* **§XVIII.3.** The Provisional Government shall disband once the Assembly officially ratifies the draft of the Constitution and judicial nominations or, should such draft be rejected, once another form of Government is established.
+* **§XVIII.4.** The Constitution of the Free Republic of Liberland shall enter into force upon the approval of a simple majority of the Assembly with the quorum of no fewer than fifteen Assembly Representatives. 
+* **§XVIII.5.** The Presidential nominations for the positions of the Justices and the Chief Justice of the Supreme Court shall enter into force upon the approval of the Constitution by the Assembly. 
+* **§XVIII.6.** Following the approval of the Constitution by the Assembly, it shall without delay elect the Chancellor of the Free Republic of Liberland who shall have a one-off power to initiate a legislative procedure with no time constraints. 
+* **§XVIII.7.** All Orders of the Provisional Government of continuous application shall remain binding following the first General Election in so far as they do not contravene the Constitution or their operation is not terminated or altered by an Act of the Assembly passed in accordance with the Constitution.
+* **§XVIII.8.** All Orders of the Provisional Government and decisions of the President, Vice-Presidents and the Ministers of the Provisional Government which have been completed or otherwise fulfilled shall remain fully valid following the first General Election.
