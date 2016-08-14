@@ -121,7 +121,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  
 ### Article VIII - Passing of Bills
 
- * **§IV.13.** The power to initiate a legislative procedure shall lie with the Cabinet only.
+* **§IV.13.** The power to initiate a legislative procedure shall lie with the Cabinet only.
   * **§IV.13(3)** A legislative procedure shall involve the Assembly and Cabinet debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
   * **§IV.13(4)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
   * **§IV.13(5)** Any Bill which is rejected by the Assembly or the Cabinet shall not be revived until at least one year has passed since it was last rejected.
@@ -187,11 +187,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 ### Article IX - Cabinet Structure and Proceedings
  
 ### Article X - Cabinet Powers
- 
-
-
- 
-  _________________________________________________________________________________________________________
 * **§V.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet of the Free Republic of Liberland.
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
   * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the five Secretaries of States, Under-Secretaries of State and any other Members the Chancellor may determine.
