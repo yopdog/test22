@@ -93,7 +93,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§II.7.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
  * **§II.7(1)** The Chancellor shall be elected through a range vote whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
  * **§II.7(2)** The Chancellor shall form and preside over the Cabinet.
- * 
+
 ### Article VII - Assembly Powers
 
 * **§II.7(3)** The Assembly shall have the power to impeach the Chancellor, or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
@@ -120,7 +120,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.11(6)** Should any Agent or Member of the United Cantons Assembly be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
   * **§IV.11(7)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
   * **§II.12.** The Assembly shall have the power to impeach the Chancellor, or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
-  * 
+ 
 ### Article VIII - Passing of Bills
 
  * **§IV.13.** The power to initiate a legislative procedure shall lie with the Cabinet only.
@@ -185,14 +185,15 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
 * **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
 * **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
-### Article IX - The Cabnet
+
+### Article IX - Cabinet Structure and Proceedings
  
-### Article X - Main principles 
+### Article X - Cabinet Powers
  
 
 
  
-* _________________________________________________________________________________________________________
+  _________________________________________________________________________________________________________
 * **§V.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet of the Free Republic of Liberland.
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
   * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the five Secretaries of States, Under-Secretaries of State and any other Members the Chancellor may determine.
