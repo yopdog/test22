@@ -44,14 +44,22 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 
 ### Article IV - Citizenship and Residency
 *   **§IV.1.** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) *Citizan*, (b) *Permanent Resident*, (c) *Temporary Resident*.
- * **§IV.1(a)** A *Citizan* - Shall have the right to reside in the Free Republic of Liberland and be reprasented in the United Cantons Assembly through their Canton. Citizanship shall be conditional upon swearing loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
+ * **§IV.1(a)** A *Citizan* - In addition to having the right to reside in the Free Republic of Liberland shall be intitled to Civil Rights described in Article V. Citizanship shall be conditional upon swearing loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residency shall be conditional upon swering loyalty to the constitution.
  * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed three years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
 * **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
 * **§IV.3.** Citizenship and Permanent Residency in the Free Republic of Liberland shall be inalienable in all but the following two cases.
  * **§IV.3(1)** As a punishment for a crime.
- * **§IV.3(2)** For idintifying with hostile entities and/or ideologies.
+ * **§IV.3(2)** As a consequence for idintifying with hostile entities and/or ideologies.
+
+### Article V - Civil Rights
+* **§V.1** Citizans shall have the right to be reprasented in the United Cantons Assembly by their Canton.
+* **§V.2** Citizans shall have the right to elect the Chief Justice of the High Court.
+* **§V.3** Citizans shall have the right to veto laws in Accordance to Article IX.
+* **§V.4** Citizans shall have the right to initiate a referendum to take control over the Armed Forces of Liberland.
+* **§V.5** Citizans shall have the right to accesses Public institutions.
+* **§V.6** Citizans shall have the right to accesses to information concerning the day to day affairs of the Assembly.
 
 ## Chapter 2: The Cantons
 
@@ -241,8 +249,8 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 
 ## Chapter 6: Sacurity and The Armed Forces
 
-#### Article XXIII -
-#### Article XXIV -
+#### Article XXIII - Main principles of the Armed Forces.
+#### Article XXIV - Deployment and control over the Armed Forces.
 #### Article XXV -
 
 
