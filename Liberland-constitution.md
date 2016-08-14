@@ -69,9 +69,9 @@ and shall collect their own revenue through voluntary membership fees.
 ## Chapter 3: The United Cantons Assembly 
  
  
-### Article VI - Main principles
+### Article VI - Assembly structure and proceedings
 
-### Article VII - Main principles
+### Article VII - Assembly Powers
 
 ### Article VIII - Main principles
 
