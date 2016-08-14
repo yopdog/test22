@@ -186,3 +186,64 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
 * **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
 * **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
+* _________________________________________________________________________________________________________
+* **§V.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet of the Free Republic of Liberland.
+* **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
+  * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the five Secretaries of States, Under-Secretaries of State and any other Members the Chancellor may determine.
+  * **§V.2(2)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
+  * **§V.2(3)** No Person shall hold the office of Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
+  * **§V.2(4)** Should the Chancellor, or Vice-Chancellor where applicable, cease to hold his or her office, all other Members of the Cabinet shall immediately cease to hold their offices.
+  * **§V.2(5)** Should the Chancellor, or Vice-Chancellor where applicable, resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article IV.
+* **§V.3.** Should the Chancellor become unable to perform one’s duties, the other Members of the Cabinet shall, amongst themselves, elect the Vice-Chancellor with a simple majority vote.
+  * **§V.3(1)** The inability of the Chancellor to perform one’s duties shall be declared by the Supreme Court upon request by a simple majority of all Members of the Cabinet.
+  * **§V.3(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence passed by the Assembly in accordance with Article IV.
+  * **§V.3(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
+* **§V.4.** The Cabinet shall fully, reasonably consistently and in good faith execute all laws passed by the Assembly in accordance with Article IV.
+* **§V.5.** The Cabinet shall secure the borders of the Free Republic of Liberland and duly maintain an immigration system as prescribed by law; in foreign affairs, the Cabinet shall work towards the maintenance of international peace and seek political and economic cooperation with other Nations as far as possible.
+* **§V.6.** The Chancellor, on behalf of the Cabinet, shall once a year, on the thirteenth day of April, publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article IV.
+* **§V.7.** The powers of the Cabinet shall be restricted to the following only:
+  * **§V.7(1)** to run day-to-day state affairs;
+  * **§V.7(2)** to initiate a legislative procedure;
+  * **§V.7(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
+  * **§V.7(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
+  * **§V.7(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
+  * **§V.7(6)** to appoint the most senior Justice of the Supreme Court to be a new Chief Justice of the Supreme Court;
+  * **§V.7(7)** to appoint a current or former Judge of the Civil Court or the Criminal Court for the position of Justice of the Supreme Court;
+  * **§V.7(8)** to maintain the State Treasury;
+  * **§V.7(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
+  * **§V.7(10)** to supervise all Agents of the executive branch of the Public Administration;
+  * **§V.7(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
+  * **§V.7(12)** to appoint and remove the Chief Commissioner;
+  * **§V.7(13)** to be the Commander-in-Chief of the voluntary Territorial Defence force, should it be constituted;
+  * **§V.7(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
+* **§V.8.** The Cabinet shall consist of the following Departments only:
+  * **§V.8(1)** Department of Justice;
+  * **§V.8(2)** Department of Internal Affairs;
+  * **§V.8(3)** Department of Security;
+  * **§V.8(4)** Department of Foreign Affairs;
+  * **§V.8(5)** Department of Treasury.
+* **§V.9.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
+  * **§V.9(1)** Departments may establish Agencies.
+  * **§V.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
+* **§V.10.** Each Department shall be headed by the Secretary of State for the respective Department.
+  * **§V.10(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+  * **§V.10(2)** All Secretaries of State may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
+* **§V.11.** The Chief Attorney of the Republic shall be independent and shall head the Office of the Chief Attorney of the Republic.
+  * **§V.11(1)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
+  * **§V.11(2)** The Chief Attorney of the Republic shall have the power to request the Supreme Court to issue a declaration as to the law or the Constitution of the Free Republic of Liberland.
+  * **§V.11(3)** The Office of the Chief Attorney of the Republic shall employ Attorneys of the Republic who shall represent all bodies of the Public Administration in all civil proceedings.
+  * **§V.11(4)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
+  * **§V.11(5)** The Chief Attorney of the Republic shall have the power to appoint Members of the Judicial Appointment Commission.
+  * **§V.11(6)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with precise and impartial advice as its powers and obligations under the Constitution, international law and current domestic law of the Free Republic of Liberland.
+* **§V.12.** The Chief Public Prosecutor shall be independent and shall head the Office of the Chief Public Prosecutor.
+  * **§V.12(1)** The Chief Public Prosecutor shall be appointed by the Chancellor for a term of six years.
+  * **§V.12(2)** The Chief Public Prosecutor shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§V.12(3)** The Office of the Chief Public Prosecutor shall employ Public Prosecutors acting in accordance with Article IV.
+  * **§V.12(4)** The Chief Public Prosecutor shall be under obligation to take all available measures to ensure all public prosecutions are undertaken in good faith and in the interest of a Victim or the Citizens of the Free Republic of Liberland where applicable.
+* **§V.13.** The Chief Commissioner shall supervise the work of Law Enforcement.
+  * **§V.13(1)** The Chief Commissioner shall be appointed by the Chancellor for a term not exceeding six years and shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+  * **§V.13(2)** The Chief Commissioner shall be removable from the office by the Citizens with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens registered to vote at the time of the last General Election.
+  * **§V.13(3)** The Chief Commissioner shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would jeopardise any Agent of Law Enforcement operating undercover pursuant to a Warrant.
+  * **§V.13(4)** The Chief Commissioner shall be under obligation to take all available measures to ensure the enforcement of law in the Free Republic of Liberland by Law Enforcement is conducted in the least intrusive and most peaceful manner possible.
+* **§V.14.** The Chief Public Prosecutor, Chief Attorney of the Republic and the Chief Commissioner shall not be deemed Members of the Cabinet.
+  * **§V.14(1)** No Person shall hold the office of the Chief Public Prosecutor, Chief Attorney of the Republic or the Chief Commissioner whilst holding any other public office concurrently.
