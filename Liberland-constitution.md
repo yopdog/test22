@@ -53,19 +53,20 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§IV.3(1)** As a punishment for a crime.
  * **§IV.3(2)** For idintifying with hostile entities and/or ideologies.
 
-## Chapter 2: Cantons
+## Chapter 2: The Cantons
 
-* **§I.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
+### Article V - Main principles of the Cantons
+* **§V.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
 and shall collect their own revenue through voluntary membership fees.
-* **§I.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
-* **§I.3.** No legal authority other then the Constitution shall exist over the Cantons.
-* **§I.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
-* **§I.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
-* **§I.6.** Cantons must be be registered in the United Cantons Assembly.
-* **§I.6.** Cantons have a defacto veto power on laws passed in the United Cantons Assembly if thay refuse to allow a law to be inforced on their members. The lagitimicy of such a veto shall be judged on a case by case bases in accordance to the constitution.
-* **§I.7.** disputes between Cantons shall be solved in peacefull and civic manner. 
+* **§V.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
+* **§V.3.** No legal authority other then the Constitution shall exist over the Cantons.
+* **§V.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
+* **§V.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
+* **§V.6.** Cantons must be be registered in the United Cantons Assembly.
+* **§V.6.** Cantons have a defacto veto power on laws passed in the United Cantons Assembly if thay refuse to allow a law to be inforced on their members. The lagitimicy of such a veto shall be judged on a case by case bases in accordance to the constitution.
+* **§V.7.** disputes between Cantons shall be solved in peacefull and civic manner. 
 
-## Chapter 3: United Cantons Assembly 
+## Chapter 3: The United Cantons Assembly 
  
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
