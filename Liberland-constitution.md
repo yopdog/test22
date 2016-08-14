@@ -72,20 +72,18 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  
 ### Article VI - Assembly Structure and Proceedings
 
-* **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
-the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
-  * **§IV.1(1)** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
-  * **§IV.1(2)** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
-  * **§IV.1(3)** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
-* **§II.2.** The enforcement of Bills passed by the United Cantons Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
-* **§II.3.** The United Cantons Assembly shall facilitate the registration of Cantons.
-* **§II.4.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
- * **§II.4(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
- * **§II.4(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
- * **§II.4(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
+* **§VI.1** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
+* **§VI.2** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
+* **§VI.3** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
+* **§VI.4.** The enforcement of Bills passed by the United Cantons Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
+* **§VI.5.** The United Cantons Assembly shall facilitate the registration of Cantons.
+* **§VI.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
+ * **§VI.6(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
+ * **§VI.6(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
+ * **§VI.6(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
- * **§II.3(4)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
- * **§II.4(5)** Assembly Representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance to the law.
+ * **§VI.6(4)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
+ * **§VI.6(5)** Assembly Representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance to the law.
 * **§II.5.** The Assembly shall elect an Assembly Speaker who shall chair the business of the Assembly. 
   * **§II.5(1)** The Assembly Speaker shall be elected through a range vote.
   * **§II.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
