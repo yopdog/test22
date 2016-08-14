@@ -227,14 +227,12 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
   * **§V.7(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
   * **§V.7(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
-  * **§V.7(6)** to appoint the most senior Justice of the Supreme Court to be a new Chief Justice of the Supreme Court;
-  * **§V.7(7)** to appoint a current or former Judge of the Civil Court or the Criminal Court for the position of Justice of the Supreme Court;
-  * **§V.7(8)** to maintain the State Treasury;
-  * **§V.7(9)** to appoint the Chief Public Prosecutor and the Chief Attorney of the Republic;
-  * **§V.7(10)** to supervise all Agents of the executive branch of the Public Administration;
-  * **§V.7(11)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
-  * **§V.7(12)** to appoint and remove the Chief Commissioner;
-  * **§V.7(13)** to be the Commander-in-Chief of the voluntary Territorial Defence force, should it be constituted;
-  * **§V.7(14)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
+ Supreme Court;
+  * **§V.7(6)** to maintain the State Treasury;
+  * **§V.7(7)** to appoint the the Chief Attorney of the Republic;
+  * **§V.7(8)** to supervise all Agents of the executive branch of the Public Administration;
+  * **§V.7(9)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
+  * **§V.7(10)** to be the Commander-in-Chief of the Armed forces of Liberland;
+  * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
 
