@@ -68,6 +68,17 @@ and shall collect their own revenue through voluntary membership fees.
 
 ## Chapter 3: The United Cantons Assembly 
  
+ 
+### Article VI - Main principles
+
+### Article VII - Main principles
+
+### Article VIII - Main principles
+
+### Article IX - Main principles
+ 
+### Article X - Main principles 
+ 
 * **§II.1.** The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
   * **§IV.1(1)** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
