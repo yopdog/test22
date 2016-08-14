@@ -95,7 +95,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 
 ### Article VII - Assembly Powers
 
-* **§II.7(3)** The Assembly shall have the power to impeach the Chancellor, or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
 * **§II.8.** The Assembly shall have the power to pass Bills for the following purposes only:
  * **§II.8(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their rights.
  * **§II.8(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
