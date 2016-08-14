@@ -163,7 +163,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.20(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
   * **§IV.20(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
   * **§IV.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the United Cantons Assembly.
- * **§IV.21.** The Annual Budget shall constitute the only source of financial provisions for the United Cantons Assembly.
+* **§IV.21.** The Annual Budget shall constitute the only source of financial provisions for the United Cantons Assembly.
   * **§IV.21(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
   * **§IV.21(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
   * **§IV.21(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
