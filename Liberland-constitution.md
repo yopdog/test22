@@ -170,6 +170,11 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.21(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
   * **§IV.21(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Cantons who
   voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
+* **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
+* **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
+* **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
+
+### Article IX - Citizen Veto Power
 * **§IV.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
   * **§IV.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was passed in the assembly
   * **§IV.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
@@ -180,13 +185,11 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
   * **§IV.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
   * **§IV.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
-* **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
-* **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
 
-### Article IX - Cabinet Structure and Proceedings
+
+### Article X - Cabinet Structure and Proceedings
  
-### Article X - Cabinet Powers
+### Article XI - Cabinet Powers
 * **§V.1.** The executive power in the Free Republic of Liberland shall be vested in the Cabinet of the Free Republic of Liberland.
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor, who shall be the Head of State.
   * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the five Secretaries of States, Under-Secretaries of State and any other Members the Chancellor may determine.
