@@ -75,7 +75,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§VI.1** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
 * **§VI.2** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
 * **§VI.3** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
-* **§VI.4.** The enforcement of Bills passed by the United Cantons Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
+* **§VI.4.** The enforcement of Bills passed by the Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
 * **§VI.5.** The United Cantons Assembly shall facilitate the registration of Cantons.
 * **§VI.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
  * **§VI.6(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
