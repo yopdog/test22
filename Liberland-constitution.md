@@ -54,12 +54,13 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§IV.3(2)** As a consequence for idintifying with hostile entities and/or ideologies.
 
 ### Article V - Civil Rights
-* **§V.1** Citizans shall have the right to be reprasented in the United Cantons Assembly by their Canton.
-* **§V.2** Citizans shall have the right to elect the Chief Justice of the High Court.
-* **§V.3** Citizans shall have the right to veto laws in Accordance to Article IX.
-* **§V.4** Citizans shall have the right to initiate a referendum to take control over the Armed Forces of Liberland.
-* **§V.5** Citizans shall have the right to accesses Public institutions.
-* **§V.6** Citizans shall have the right to accesses to information concerning the day to day affairs of the Assembly.
+* **§V.1** All Citizans of the Free Republic of Liberland shall have the following Civil Rights: 
+ * **§V.1(1)** to be reprasented in the United Cantons Assembly by their Canton;
+ * **§V.1(2)** to elect the Chief Justice of the High Court;
+ * **§V.1(3)** to veto laws in Accordance to Article IX;
+ * **§V.1(4)** to initiate a referendum to take control over the Armed Forces of Liberland;
+ * **§V.1(5)** to accesses Public institutions;
+ * **§V.1(6)** to accesses to information concerning the day to day affairs of the Assembly.
 
 ## Chapter 2: The Cantons
 
