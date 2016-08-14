@@ -55,7 +55,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 
 ## Chapter 2: The Cantons
 
-### Article V - Main principles of the Cantons
+### Article V - Main principles
 * **§V.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
 and shall collect their own revenue through voluntary membership fees.
 * **§V.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
