@@ -14,7 +14,7 @@ The Bill of Rights shall constitute the integral part of the Constitution and sh
 All Persons shall have the right to live and exist peacefully; be secure from bodily harm, violent aggression, death, danger and threats to one's life and well being.
 
 #### §I.2. Right to Liberty
-All Individuals shall have the right to exercise full control over their life; make one’s own decisions; take risks; enter into any contract thay choose; form voluntary relations and cooperative ventures; control their bodies; express their views and beliefs; share information with others; choose where to work and live.
+All Individuals shall have the right to exercise full control over their life; make one’s own decisions; take risks; enter into any contract thay choose; form voluntary relations and cooperative ventures; control their bodies; express their views and beliefs; share information with others; trade one's labor; choose where to work and live.
 
 #### §I.3. Right to Property
 All Individuals shall have the right to own and homestead property; exercise full control over their property and do with it as they see fit; freely trade with others; to set up a business and exercise full control over it; produce and sell new products; own land and regulate all conduct on it.
@@ -38,6 +38,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 * **§II.2.** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
 * **§II.3.** No form of taxation, forced redistribution of wealth, or eminent domain shall exist in the Free Republic of Liberland.
 * **§II.4.** The rights in this bill shall apply to collections of individuals as well, i.e. organizations, companies, communities.
+* **§II.5.** Collection of private information or the searching of private property may be otherized if a Warrant, based on probable cause and limited scope, is issued by a respectable court.
 
 ### Article III - Overriding Provisions
 * **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
