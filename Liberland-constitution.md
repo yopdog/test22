@@ -245,6 +245,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
 ## Chapter 4: The High Court
+#### Article XX - Main principles of the Armed Forces.
 
 ## Chapter 5: The Judiciary
 
