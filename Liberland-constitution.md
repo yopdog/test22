@@ -41,7 +41,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 * **§II.5.** Collection of private information or the searching of private property may be otherized if a Warrant, based on probable cause and limited scope, is issued by a respectable court.
 
 ### Article III - Overriding Provisions
-* **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
+* **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons Assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
 
 ### Article IV - Citizenship and Residency
 *   **§IV.1.** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) *Citizan*, (b) *Permanent Resident*, (c) *Temporary Resident*.
