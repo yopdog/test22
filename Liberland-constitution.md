@@ -59,8 +59,8 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§V.1(2)** to elect the Chief Justice of the High Court;
  * **§V.1(3)** to veto laws in Accordance to Article IX;
  * **§V.1(4)** to initiate a referendum to take control over the Armed Forces of Liberland;
- * **§V.1(5)** to accesses Public institutions;
- * **§V.1(6)** to accesses to information concerning the day to day affairs of the Assembly.
+ * **§V.1(5)** to access Public institutions;
+ * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly.
 
 ## Chapter 2: The Cantons
 
