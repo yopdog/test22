@@ -245,8 +245,22 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(10)** to be the Commander-in-Chief of the Armed forces of Liberland;
   * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
-## Chapter 4: The High Court
-#### Article XX - Main principles of the Armed Forces.
+## Chapter 4: The High Court and the Judiciary
+
+#### Article XX - High Court Structure and Proceedings
+
+* **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
+* **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizans of Liberland by use of a range vote.
+ * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then 35 years of age and must be quilified lawyers who have surved at least 7 years as a judge in a respectable court.
+ * **§XX.3.** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
+ 
+ 
+  * **§VI.8** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
+ 
+  * **§VI.8** The Chief Justice or any Justice of the High Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
+  * **§VI.8(4)** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by the most senior of Judges of the Civil Court and the Criminal Court who has not been involved in the case before it is heard by the Supreme Court.
+
+#### Article XX - High Court Powers
 
 ## Chapter 5: The Judiciary
 
