@@ -68,6 +68,21 @@ The Citizens of the free republic of Liberland are integral in shaping the futur
  * **§V.1(5)** to access Public institutions;
  * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly.
 
+### Article IX - Citizen Veto Power
+* **§IX.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
+  * **§IX.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens, and shall be submitted within sixty days after the Bill was passed in the assembly
+  * **§IX.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
+* **§IV.23.** A Constitutional Bills peassed in the assembly shall be subject to a mandatory referendum.
+  * **§IX.23(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§IX.23(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
+* **§IX.24.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
+  * **§IX.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
+  * **§IX.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
+  * **§IX.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+ **§IX.25.** The annual budget of the High Court shall be subject to the right of general veto by the Citizens as expressed in a referendum.
+  * **§IX.25(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens,and shall be submitted within sixty days after the Budget has been set by the Chief Justice of the High Court.
+  * **§IX.25(2)** The Budget shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
+
 ## Chapter 3: The Cantons
 The Cantons shall be established for the purpose of defending the rights of the people of the Free Republic of Liberland. The Cantons shall be Independent and shall be responsible for inforcing the law. Cantons can be established through private initiative and their is no limit to the number of Cantons that can be established. In addition to defending the rights of the people the Cantons shall reprasent citizans in the United Cantons Assembly.
 
@@ -188,23 +203,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
 * **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
 * **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
-
-### Article IX - Citizen Veto Power
-* **§IX.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
-  * **§IX.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens, and shall be submitted within sixty days after the Bill was passed in the assembly
-  * **§IX.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
-* **§IV.23.** A Constitutional Bills peassed in the assembly shall be subject to a mandatory referendum.
-  * **§IX.23(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
-  * **§IX.23(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
-* **§IX.24.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
-  * **§IX.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
-  * **§IX.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
-  * **§IX.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
- **§IX.25.** The annual budget of the High Court shall be subject to the right of general veto by the Citizens as expressed in a referendum.
-  * **§IX.25(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens,and shall be submitted within sixty days after the Budget has been set by the Chief Justice of the High Court.
-  * **§IX.25(2)** The Budget shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
-
-
 
 ### Article X - Cabinet Structure and Proceedings
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor of the Free republic of Liberland.
