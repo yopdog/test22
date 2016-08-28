@@ -254,13 +254,17 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 * **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizans of Liberland by use of a range vote.
  * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then 35 years of age and must be quilified lawyers who have surved at least 7 years as a judge in a respectable court.
- * **§XX.3.** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
+ * **§XX.2(2).** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
+ * **§XX.2(3).** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
  
+   * **§XX.4** The Chief Justice or any Justice of the High Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
+  
+  * **§XX.4** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
  
-  * **§VI.8** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
- 
-  * **§VI.8** The Chief Justice or any Justice of the High Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
-  * **§VI.8(4)** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by the most senior of Judges of the Civil Court and the Criminal Court who has not been involved in the case before it is heard by the Supreme Court.
+  
+  * **§VI.9** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
+
+
 
 #### Article XX - High Court Powers
 
