@@ -282,9 +282,9 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 ## Chapter 7: Sacurity and The Armed Forces
 
-#### Article XXIII - Main principles of the Armed Forces.
-#### Article XXIV - Deployment and control over the Armed Forces.
-#### Article XXV -
+### Article XXIII - Main principles of the Armed Forces.
+### Article XXIV - Deployment and control over the Armed Forces.
+### Article XXV -
 
 
 
