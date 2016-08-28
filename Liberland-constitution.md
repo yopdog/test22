@@ -43,6 +43,9 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 ### Article III - Overriding Provisions
 * **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons Assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
 
+## Chapter 2: Citizenship and Civil Rights
+The Citizens of the free republic of Liberland are integral in shaping the future of the republic, and are therefore the primary factor in perserving it's freedoms and rights.    
+
 ### Article IV - Citizenship and Residency
 *   **§IV.1.** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) *Citizan*, (b) *Permanent Resident*, (c) *Temporary Resident*.
  * **§IV.1(a)** A *Citizan* - In addition to having the right to reside in the Free Republic of Liberland shall be intitled to Civil Rights described in Article V. Citizanship shall be conditional upon swearing loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
@@ -65,7 +68,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§V.1(5)** to access Public institutions;
  * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly.
 
-## Chapter 2: The Cantons
+## Chapter 3: The Cantons
 The Cantons shall be established for the purpose of defending the rights of the people of the Free Republic of Liberland. The Cantons shall be Independent and shall be responsible for inforcing the law. Cantons can be established through private initiative and their is no limit to the number of Cantons that can be established. In addition to defending the rights of the people the Cantons shall reprasent citizans in the United Cantons Assembly.
 
 ### Article V - Main Principles of The Cantons
@@ -79,7 +82,7 @@ and shall collect their own revenue through voluntary membership fees.
 * **§V.6.** Cantons have a defacto veto power on laws passed in the United Cantons Assembly if thay refuse to allow a law to be inforced on their members. The lagitimicy of such a veto shall be judged on a case by case bases in accordance to the constitution.
 * **§V.7.** disputes between Cantons shall be solved in peacefull and civic manner. 
 
-## Chapter 3: The United Cantons Assembly 
+## Chapter 4: The United Cantons Assembly 
 The United Cantons Assembly shall be established for the purpose of facilitating negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. The United Cantons Assembly shall act only as a legislature with the power of inforcment reserved to the Cantons and the People. The United Cantons Assembly shall be composed of the Assembly and the Cabinet each with their own powers as defined in this Chapter. 
  
@@ -251,7 +254,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(10)** to be the Commander-in-Chief of the Armed forces of Liberland;
   * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
-## Chapter 4: The High Court
+## Chapter 5: The High Court
 The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The High Court shall also act as the Court of last resort in the Free Republic of Liberland.
 
 ### Article XX - High Court Structure and Proceedings
@@ -275,9 +278,9 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 ### Article XXI - High Court Powers
 
-## Chapter 5: The Judiciary
+## Chapter 6: The Judiciary
 
-## Chapter 6: Sacurity and The Armed Forces
+## Chapter 7: Sacurity and The Armed Forces
 
 #### Article XXIII - Main principles of the Armed Forces.
 #### Article XXIV - Deployment and control over the Armed Forces.
@@ -285,7 +288,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 
 
-## Chapter 7: Final Provisions
+## Chapter 8: Final Provisions
 
 The Constitution of the Free Republic of Liberland shall be construed in the light of Overriding and Interpretive provisions and shall enter into force upon the conditions prescribed in the Transitional provisions.
 
