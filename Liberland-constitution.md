@@ -247,7 +247,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
 ## Chapter 4: The High Court
-The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The high court shall also act as the Court of last resort in the Free Republic of Liberland.
+The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The High Court shall also act as the Court of last resort in the Free Republic of Liberland.
 
 #### Article XX - High Court Structure and Proceedings
 
