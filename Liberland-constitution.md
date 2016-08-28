@@ -256,17 +256,11 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then 35 years of age and must be quilified lawyers who have surved at least 7 years as a judge in a respectable court.
  * **§XX.2(2).** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
  * **§XX.2(3).** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
- 
-   * **§XX.4** The Chief Justice or any Justice of the High Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
-  
-  * **§XX.4** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
- 
-  
-  * **§VI.9** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
+* **§XX.3** The Chief Justice or any Justice of the High Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
+* **§XX.4** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
+* **§XX.5** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
 
-
-
-#### Article XX - High Court Powers
+#### Article XXI - High Court Powers
 
 ## Chapter 5: The Judiciary
 
