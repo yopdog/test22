@@ -131,7 +131,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§II.12.** The Assembly shall have the power to impeach the Chancellor, or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
  
 ### Article VIII - Passing of Bills
-
 * **§IV.13.** The power to initiate a legislative procedure shall lie with the Cabinet only.
   * **§IV.13(3)** A legislative procedure shall involve the Assembly and Cabinet debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
   * **§IV.13(4)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
