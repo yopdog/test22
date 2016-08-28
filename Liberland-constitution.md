@@ -79,7 +79,7 @@ The Citizens of the free republic of Liberland are integral in shaping the futur
   * **§IX.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
   * **§IX.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
   * **§IX.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
- **§IX.25.** The annual budget of the High Court shall be subject to the right of general veto by the Citizens as expressed in a referendum.
+ * **§IX.25.** The annual budget of the High Court shall be subject to the right of general veto by the Citizens as expressed in a referendum.
   * **§IX.25(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens,and shall be submitted within sixty days after the Budget has been set by the Chief Justice of the High Court.
   * **§IX.25(2)** The Budget shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
 
