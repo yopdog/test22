@@ -249,7 +249,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 ## Chapter 4: The High Court
 The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The High Court shall also act as the Court of last resort in the Free Republic of Liberland.
 
-#### Article XX - High Court Structure and Proceedings
+### Article XX - High Court Structure and Proceedings
 
 * **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizans of Liberland by use of a range vote.
@@ -260,7 +260,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 * **§XX.4** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
 * **§XX.5** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
 
-#### Article XXI - High Court Powers
+### Article XXI - High Court Powers
 
 ## Chapter 5: The Judiciary
 
