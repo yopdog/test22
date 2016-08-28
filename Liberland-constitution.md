@@ -64,6 +64,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly.
 
 ## Chapter 2: The Cantons
+The Cantons shall be established for the purpose of defending the rights of the people of the Free Republic of Liberland. The Cantons shall be Independent and shall be responsible for inforcing the law. Cantons can be established through private initiative and their is no limit to the number of Cantons that can be established. In addition to defending the rights of the people the Cantons shall reprasent citizans in the United Cantons Assembly.
 
 ### Article V - Main Principles of The Cantons
 * **§V.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
@@ -77,7 +78,7 @@ and shall collect their own revenue through voluntary membership fees.
 * **§V.7.** disputes between Cantons shall be solved in peacefull and civic manner. 
 
 ## Chapter 3: The United Cantons Assembly 
-The United Cantons Assembly shall be astablished for the purpose of facilitating negotiotions, agreements, and consensus among
+The United Cantons Assembly shall be established for the purpose of facilitating negotiotions, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. The United Cantons Assembly shall act only as a legislature with the power of inforcment reserved to the Cantons and the People. The United Cantons Assembly shall be composed of the Assembly and the Cabinet each with their own powers as defined in this Chapter. 
  
 ### Article VI - Assembly Structure and Proceedings
@@ -246,7 +247,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
 ## Chapter 4: The High Court
-The High Court of the Free Republic of Liberland shall be astablished for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The high court shall also act as the Court of last resort in the Free Republic of Liberland.
+The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The high court shall also act as the Court of last resort in the Free Republic of Liberland.
 
 #### Article XX - High Court Structure and Proceedings
 
