@@ -77,8 +77,8 @@ and shall collect their own revenue through voluntary membership fees.
 * **§V.7.** disputes between Cantons shall be solved in peacefull and civic manner. 
 
 ## Chapter 3: The United Cantons Assembly 
-The purpose of the United Cantons Assembly is to facilitate negotiotions, agreements, and consensus among
-the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations.
+The United Cantons Assembly shall be astablished for the purpose of facilitating negotiotions, agreements, and consensus among
+the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. The United Cantons Assembly shall act only as a legislature with the power of inforcment reserved to the Cantons and the People. The United Cantons Assembly shall be composed of the Assembly and the Cabinet each with their own powers defined in this Chapter. 
  
 ### Article VI - Assembly Structure and Proceedings
 
@@ -245,7 +245,8 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(10)** to be the Commander-in-Chief of the Armed forces of Liberland;
   * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
-## Chapter 4: The High Court and the Judiciary
+## Chapter 4: The High Court
+The high courts job 
 
 #### Article XX - High Court Structure and Proceedings
 
