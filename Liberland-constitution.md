@@ -78,7 +78,7 @@ and shall collect their own revenue through voluntary membership fees.
 
 ## Chapter 3: The United Cantons Assembly 
 The United Cantons Assembly shall be astablished for the purpose of facilitating negotiotions, agreements, and consensus among
-the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. The United Cantons Assembly shall act only as a legislature with the power of inforcment reserved to the Cantons and the People. The United Cantons Assembly shall be composed of the Assembly and the Cabinet each with their own powers defined in this Chapter. 
+the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. The United Cantons Assembly shall act only as a legislature with the power of inforcment reserved to the Cantons and the People. The United Cantons Assembly shall be composed of the Assembly and the Cabinet each with their own powers as defined in this Chapter. 
  
 ### Article VI - Assembly Structure and Proceedings
 
