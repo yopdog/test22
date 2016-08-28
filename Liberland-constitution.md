@@ -186,16 +186,17 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
 
 ### Article IX - Citizen Veto Power
-* **§IV.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
-  * **§IV.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was passed in the assembly
-  * **§IV.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
+* **§IX.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
+  * **§IX.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens registered to vote at the time of the last General Election, and shall be submitted within sixty days after the Bill was passed in the assembly
+  * **§IX.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
 * **§IV.23.** A Constitutional Bills peassed in the assembly shall be subject to a mandatory referendum.
-  * **§IV.23(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
-  * **§IV.23(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
-* **§IV.24.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
-  * **§IV.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
-  * **§IV.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
-  * **§IV.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+  * **§IX.23(1)** The mandatory referendum shall take place within sixty days after the Bill was declared constitutional by the Supreme Court.
+  * **§IX.23(2)** The Bill shall be deemed vetoed unless a majority of two-thirds of all Citizens taking part in the referendum vote “Aye”.
+* **§IX.24.** Any Bill vetoed by the Citizens in the referendum shall be considered void.
+  * **§IX.24(1)** Should an ordinary Bill or a Treaty Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least three years.
+  * **§IX.24(2)** Should a Constitutional Bill or Land Bill be vetoed, neither it nor any substantially similar Bill shall be resubmitted to the Assembly for at least ten years.
+  * **§IX.24(3)** Should a Financial Bill be vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
+ **§IX.25.** The annual budget 
 
 
 ### Article X - Cabinet Structure and Proceedings
@@ -254,11 +255,18 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 * **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizans of Liberland by use of a range vote.
  * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then 35 years of age and must be quilified lawyers who have surved at least 7 years as a judge in a respectable court.
- * **§XX.2(2).** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
- * **§XX.2(3).** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
-* **§XX.3** The Chief Justice or any Justice of the High Court shall nevertheless be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
-* **§XX.4** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
-* **§XX.5** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
+ * **§XX.2(2)** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
+ * **§XX.2(3)** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
+* **§XX.3.** The Chief Justice or any Justice of the High Court shall be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
+* **§XX.4.** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
+* **§XX.5.** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
+* **§XX.6.** The High Courts annual budget shall be determined by the Chief Justice and shall come directly from the treasury.
+* **§XX.6(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article IX.
+* **§XX.7.** 
+* **§XX.8.**
+* **§XX.9.**
+* **§XX.10.**
+* **§XX.11.**
 
 ### Article XXI - High Court Powers
 
