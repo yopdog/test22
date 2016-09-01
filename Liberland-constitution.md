@@ -44,7 +44,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 * **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons Assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be intruduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
 
 ## Chapter 2: Citizenship and Civil Rights
-The Citizens of the Free Republic of Liberland are integral in shaping the future of the Republic, and are therefore the primary factor in perserving it's freedoms and rights. Only Citizens shall have the exclusive right to claim ownership of the Republic. Citizenship in the Free Republic of Liberland shall act as a contract whereby the Citizen agrees to be loyal to the principals of this Constitution and to the Republic. Citizens shall have the right of representation in The United Cantons Assembly as well as other Civil Rights described in this chapter. In addition to Citizenship, The Free Republic of Liberland shall recognize the rights of Residents living within it's borders in acordance to the Articles in this Chapter.           
+The Citizens of the Free Republic of Liberland are integral in shaping the future of the Republic, and are therefore the primary factor in perserving it's freedoms and rights. Only Citizens shall have the exclusive right to claim ownership of the Republic. Citizenship in the Free Republic of Liberland shall act as a contract whereby the Citizen agrees to be loyal to the principals of this Constitution and to the Republic. Citizens shall have the right of representation in The United Cantons Assembly as well as other Civil Rights described in this Chapter. In addition to Citizenship, The Free Republic of Liberland shall recognize the rights of Residents living within it's borders in acordance to the Articles in this Chapter.           
 
 ### Article IV - Citizenship and Residency
 *   **§IV.1.** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) *Citizan*, (b) *Permanent Resident*, (c) *Temporary Resident*.
@@ -53,9 +53,10 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  Permanent Residency shall be conditional upon swering loyalty to the constitution.
  * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed three years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
 * **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
-* **§IV.3.** Citizenship and Permanent Residency in the Free Republic of Liberland shall be inalienable in all but the following two cases.
+* **§IV.3.** The Free Republic of Liberland shall reserve the right to Denaturalize and strip away Residency in the following three cases.
  * **§IV.3(1)** As a punishment for a crime.
  * **§IV.3(2)** As a consequence for idintifying with hostile entities and/or ideologies.
+ * **§IV.3(2)** As a consequence for any behavior and/or speech wich grossly underminds the constitution and the values on which this Republic has been formed.
 
 ### Article V - Civil Rights
 * **§V.1** All Citizans of the Free Republic of Liberland shall have the following Civil Rights: 
