@@ -258,7 +258,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The High Court shall also act as the Court of last resort in the Free Republic of Liberland.
 
 ### Article XX - High Court Structure and Proceedings
-
 * **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizens of Liberland by use of a range vote.
  * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then thirty-five years of age and must be quilified lawyers who have surved at least seven years as a judge in a respectable court.
@@ -272,12 +271,19 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XX.6(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article IX.
 
 ### Article XXI - High Court Powers
-* **§XX.7.** 
-* **§XX.8.**
-* **§XX.9.**
-* **§XX.10.**
-* **§XX.11.**
-## Chapter 6: The Judiciary
+* **§XXI.1.** The powers of the High Court shall be restricted to the following only:
+ * **§XXI.1(1)** to provide opinions on past and future Bills;
+ * **§XXI.1(2)** to judge the legality and fairness of referendums and the business of the United Cantons Assembly; 
+ * **§XXI.1(3)** to provide opinions on the Constitution and its interpretation;
+ * **§XXI.1(4)** to act as a court of last resort in the Free republic of Liberland;
+ * **§XXI.1(5)** to judge the ligitimacy of the use of a veto by any Canton;
+* **§XXI.2** Under no circumstances shall the High Court have the power to strike down Bills or be involved in legislation in any way. 
+### Article XXII - Obligations of the High Court
+* **§XXI.1** The High Court shall have the following Obligations:
+ * **§XXI.1(1)** to safeguard the rights and liberties of the people of the Free Republic of Liberland; 
+ * **§XXI.1(2)** to interpret the Constitution in good faith.
+ * **§XXI.1(3)** to ensure that this Constitution is carried out as intended. 
+ * **§XXI.1(4)** to ensure that justice prevails.
 
 ## Chapter 7: Sacurity and The Armed Forces
 
