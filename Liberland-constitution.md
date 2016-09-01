@@ -286,7 +286,11 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XXI.1(3)** to ensure that this Constitution is carried out as intended. 
  * **§XXI.1(4)** to ensure that justice prevails.
 
-## Chapter 7: Sacurity and The Armed Forces
+
+## Chapter 7: The Judiciary
+
+
+## Chapter 8: Sacurity and The Armed Forces
 
 ### Article XXIII - Main principles of the Armed Forces.
 ### Article XXIV - Deployment and control over the Armed Forces.
@@ -294,7 +298,9 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 
 
-## Chapter 8: Final Provisions
+
+
+## Chapter 9: Final Provisions
 
 The Constitution of the Free Republic of Liberland shall be construed in the light of Overriding and Interpretive provisions and shall enter into force upon the conditions prescribed in the Transitional provisions.
 
