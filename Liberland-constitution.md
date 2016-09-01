@@ -35,18 +35,18 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 
 
 ### Article II - Right to Liberty
-#### 1 All Individuals shall have the right to exercise full control over their life: 
-####  * **§II.1(1)** to make one’s own decisions;
-####  * **§II.1(2)** to take risks;
-####  * **§II.1(3)** to enter into any contract one chooses;
-####  * **§II.1(4)** to form voluntary relations and cooperative ventures of any kind;
-####  * **§II.1(5)** to control one's body;
-####  * **§II.1(6)** to consume any substance; 
-####  * **§II.1(7)** to express one's views and beliefs;
-####  * **§II.1(8)** to share information with others;
-####  * **§II.1(9)** to trade one's labor;
-####  * **§II.1(10)** to freely move from place to place;
-####  * **§II.1(11)** to choose where to work and live. 
+#### All Individuals shall have the right to exercise full control over their life: 
+#### to make one’s own decisions;
+#### to take risks;
+#### to enter into any contract one chooses;
+#### to form voluntary relations and cooperative ventures of any kind;
+#### to control one's body;
+#### to consume any substance; 
+#### to express one's views and beliefs;
+#### to share information with others;
+#### to trade one's labor;
+#### to freely move from place to place;
+#### to choose where to work and live. 
  
 
 ### Article II - Clarifying Provisions
