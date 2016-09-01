@@ -46,7 +46,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
  * **§II.1(8)** to share information with others;
  * **§II.1(9)** to trade one's labor;
  * **§II.1(10)** to freely move from place to place;
- * **§II.1(11)** choose where to work and live. 
+ * **§II.1(11)** to choose where to work and live. 
  
 
 ### Article II - Clarifying Provisions
