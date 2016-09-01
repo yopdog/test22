@@ -56,7 +56,7 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
 * **§IV.3.** The Free Republic of Liberland shall reserve the right to Denaturalize and strip away Residency in the following three cases.
  * **§IV.3(1)** As a punishment for a crime.
  * **§IV.3(2)** As a consequence for idintifying with hostile entities and/or ideologies.
- * **§IV.3(2)** As a consequence for any behavior and/or speech which grossly undermines the Constitution and the values on which this Republic has been formed.
+ * **§IV.3(3)** As a consequence for any behavior and/or speech which grossly undermines the Constitution and the values on which this Republic has been formed.
 
 ### Article V - Civil Rights
 * **§V.1** All Citizans of the Free Republic of Liberland shall have the following Civil Rights: 
