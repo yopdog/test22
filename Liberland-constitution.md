@@ -139,7 +139,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 ### Article VIII - Passing of Bills
 * **§IV.13.** The power to initiate a legislative procedure shall lie with the Cabinet only.
   * **§IV.13(3)** A legislative procedure shall involve the Assembly and Cabinet debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
-  * **§IV.13(4)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet until the next State of the Republic Address.
+  * **§IV.13(4)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet.
   * **§IV.13(5)** Any Bill which is rejected by the Assembly or the Cabinet shall not be revived until at least one year has passed since it was last rejected.
 * **§IV.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
  * **§IV.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution, and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
@@ -148,47 +148,48 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
   * **§IV.14(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
   * **§IV.14(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
-* **§IV.15.** The Cabinet shall have the power to propose five types of Bills:
-  * **§IV.15(1)** an ordinary Bill;
-  * **§IV.15(2)** a Constitutional Bill;
-  * **§IV.15(3)** a Citizanship Fee Bill;
-  * **§IV.15(4)** a Treaty Bill;
-  * **§IV.15(5)** a Financial Bill.
-* **§IV.16.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
-  * **§IV.16(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
-  * **§IV.16(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
-* **§IV.17.** A Constitutional Bill shall propose an Amendment to this Constitution.
-  * **§IV.17(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
-  * **§IV.17(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
-  * **§IV.17(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
-* **§IV.18.** A Citizanship Fee Bill shall propose to alter the Citizanship Fee of the Free Republic of Liberland.
-  * **§IV.18(1)** All Citizanship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
-  * **§IV.18(2)** All Citizanship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
-  * **§IV.18(7)** The Citizanship Fee shall be levied for one or more of the following purposes only:
-   * **§IV.18(7)(a)** maintaining the United Cantons Assembly and it's Departments;
-   * **§IV.18(7)(b)** maintaining the High Court of the Free Republic of Liberland;
-   * **§IV.18(7)(d)** maintaining the Armed Fources and the National Sacurity of the Free Republic of Liberland;   
-* **§IV.19.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
-  * **§IV.19(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
-  * **§IV.19(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
-  * **§IV.19(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
-  * **§IV.19(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
-* **§IV.20.** The Financial Bill shall contain the provisions of the Annual Budget.
-  * **§IV.20(1)** The Financial Bill shall be passed with a simple majority vote of the overall number of Assembly Representatives.
-  * **§IV.20(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
-  * **§IV.20(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
-  * **§IV.20(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
-  * **§IV.20(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the United Cantons Assembly.
-* **§IV.21.** The Annual Budget shall constitute the only source of financial provisions for the United Cantons Assembly.
-  * **§IV.21(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
-  * **§IV.21(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
-  * **§IV.21(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
-  * **§IV.21(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
-  * **§IV.21(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Cantons who
+* **§IV.15.**  Any Bill proposed to the assembly must pass a review period by the High Court before any vote can take place. The High Court shall give its opinion on the proposed Bill within a timeframe of three weeks after which the Bill must be voted on.  
+* **§IV.16.** The Cabinet shall have the power to propose five types of Bills:
+  * **§IV.16(1)** an ordinary Bill;
+  * **§IV.16(2)** a Constitutional Bill;
+  * **§IV.16(3)** a Citizanship Fee Bill;
+  * **§IV.16(4)** a Treaty Bill;
+  * **§IV.16(5)** a Financial Bill.
+* **§IV.17.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
+  * **§IV.17(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.17(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
+* **§IV.18.** A Constitutional Bill shall propose an Amendment to this Constitution.
+  * **§IV.18(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+  * **§IV.18(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
+  * **§IV.18(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
+* **§IV.19.** A Citizanship Fee Bill shall propose to alter the Citizanship Fee of the Free Republic of Liberland.
+  * **§IV.19(1)** All Citizanship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.19(2)** All Citizanship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
+  * **§IV.19(3)** The Citizanship Fee shall be levied for one or more of the following purposes only:
+   * **§IV.19(3)(a)** maintaining the United Cantons Assembly and it's Departments;
+   * **§IV.19(3)(b)** maintaining the High Court of the Free Republic of Liberland;
+   * **§IV.19(3)(d)** maintaining the Armed Fources and the National Sacurity of the Free Republic of Liberland;   
+* **§IV.20.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
+  * **§IV.20(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+  * **§IV.20(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
+  * **§IV.20(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
+  * **§IV.20(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
+* **§IV.21.** The Financial Bill shall contain the provisions of the Annual Budget.
+  * **§IV.21(1)** The Financial Bill shall be passed with a simple majority vote of the overall number of Assembly Representatives.
+  * **§IV.21(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
+  * **§IV.21(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
+  * **§IV.21(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
+  * **§IV.21(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the United Cantons Assembly.
+* **§IV.22.** The Annual Budget shall constitute the only source of financial provisions for the United Cantons Assembly.
+  * **§IV.22(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
+  * **§IV.22(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
+  * **§IV.22(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
+  * **§IV.22(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
+  * **§IV.22(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Cantons who
   voted in favour of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
-* **§IV.25.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
-* **§IV.26.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
-* **§IV.27.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
+* **§IV.23.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
+* **§IV.24.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
+* **§IV.25.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
 
 ### Article IX - Citizen Veto Power
 * **§IX.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
@@ -260,7 +261,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 * **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizens of Liberland by use of a range vote.
- * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then 35 years of age and must be quilified lawyers who have surved at least 7 years as a judge in a respectable court.
+ * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then thirty-five years of age and must be quilified lawyers who have surved at least seven years as a judge in a respectable court.
  * **§XX.2(2)** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
  * **§XX.2(3)** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
  * **§XX.2(4)** The Chief Justice shall be subject to impeachment by the Citizens as described in article IX. 
@@ -268,15 +269,14 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 * **§XX.4.** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
 * **§XX.5.** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
 * **§XX.6.** The High Courts annual budget shall be determined by the Chief Justice and shall come directly from the treasury.
-* **§XX.6(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article IX.
+ * **§XX.6(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article IX.
+
+### Article XXI - High Court Powers
 * **§XX.7.** 
 * **§XX.8.**
 * **§XX.9.**
 * **§XX.10.**
 * **§XX.11.**
-
-### Article XXI - High Court Powers
-
 ## Chapter 6: The Judiciary
 
 ## Chapter 7: Sacurity and The Armed Forces
