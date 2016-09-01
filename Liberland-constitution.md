@@ -35,7 +35,7 @@ as sub/non-humen; to be seen as having free will and moral responsibility; to be
 
 
 ### Article II - Right to Liberty
-#### * **§II.1.** All Individuals shall have the right to exercise full control over their life: 
+#### 1 All Individuals shall have the right to exercise full control over their life: 
 ####  * **§II.1(1)** to make one’s own decisions;
 ####  * **§II.1(2)** to take risks;
 ####  * **§II.1(3)** to enter into any contract one chooses;
