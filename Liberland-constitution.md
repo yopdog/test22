@@ -48,7 +48,7 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
 
 ### Article IV - Citizenship and Residency
 *   **§IV.1.** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) *Citizan*, (b) *Permanent Resident*, (c) *Temporary Resident*.
- * **§IV.1(a)** A *Citizan* - In addition to having the right to reside in the Free Republic of Liberland shall be intitled to Civil Rights described in Article V. Citizanship shall be conditional upon swearing loyalty to the country, to the constitution and the payment of the Citizanship Fee.   
+ * **§IV.1(a)** A *Citizan* - In addition to having the right to reside in the Free Republic of Liberland shall be intitled to Civil Rights described in Article V. Citizanship shall be conditional upon swearing loyalty to the Republic, to the constitution and the payment of the Citizanship Fee.   
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residency shall be conditional upon swering loyalty to the constitution.
  * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed three years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
