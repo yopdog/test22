@@ -148,7 +148,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§IV.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
   * **§IV.14(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
   * **§IV.14(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
-* **§IV.15.**  Any Bill proposed to the assembly must pass a review period by the High Court before any vote can take place. The High Court shall give its opinion on the proposed Bill within a timeframe of three weeks after which the Bill must be voted on.  
+* **§IV.15.**  Any Bill proposed to the assembly must pass a review by the High Court before any vote can take place. The High Court shall give its opinion on the proposed Bill within a timeframe of three weeks after which the Bill must be voted on.  
 * **§IV.16.** The Cabinet shall have the power to propose five types of Bills:
   * **§IV.16(1)** an ordinary Bill;
   * **§IV.16(2)** a Constitutional Bill;
