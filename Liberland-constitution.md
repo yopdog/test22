@@ -33,22 +33,6 @@ to not have one's private information collected without their knowledge and/or p
 All Persons shall have the right to their identity; to not have their humanity striped away from them i.e. be idintified 
 as sub/non-humen; to be seen as having free will and moral responsibility; to be sacure from identity theft; to not have one's views and/or actions misrepresented or fabricated.
 
-
-### Article II - Right to Liberty
-#### ALL INDIVIDUALS SHALL HAVE THE RIGHT TO EXERCISE FULL CONTROL OVER THEIR LIFE: 
- * **§II.1(1)** to make one’s own decisions;
- * **§II.1(2)** to take risks;
- * **§II.1(3)** to enter into any contract one chooses;
- * **§II.1(4)** to form voluntary relations and cooperative ventures of any kind;
- * **§II.1(5)** to control one's body;
- * **§II.1(6)** to consume any substance; 
- * **§II.1(7)** to express one's views and beliefs;
- * **§II.1(8)** to share information with others;
- * **§II.1(9)** to trade one's labor;
- * **§II.1(10)** to freely move from place to place;
- * **§II.1(11)** to choose where to work and live. 
- 
-
 ### Article II - Clarifying Provisions
 * **§II.1.** All restrictions, sanctions and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and the natural rights described in Article I. 
 * **§II.2.** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
