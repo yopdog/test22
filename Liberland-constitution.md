@@ -113,7 +113,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 ### Article VII - Assembly Powers
 
 * **§II.8.** The Assembly shall have the power to pass Bills for the following purposes only:
- * **§II.8(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their rights.
+ * **§II.8(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their right  in accordance with this Constitution.
  * **§II.8(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
  * **§II.8(3)** to set the Citizenship fee.
  * **§II.8(4)** to conduct a fundraiser.
