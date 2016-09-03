@@ -288,7 +288,9 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 
 ## Chapter 7: The Judiciary
-The Judiciary in the Free Republic of Liberland shall be composed of independent Private Courts who shall run thier own own affairs and be in charge of their own financing. The Private Courts of the Free Republic of Liberland shall have no power of enforcement on their own, but shall rely on the Cantons to enforce their verdicts. 
+The Judiciary in the Free Republic of Liberland shall be composed of independent Private Courts who shall run thier own own affairs and be in charge of their own financing. The Private Courts of the Free Republic of Liberland shall have no power of enforcement on their own, but shall rely on the Cantons and the People to enforce their verdicts. The following Chapter will lay down the Constitutional Standerd for Private Courts in the Free Republic of Liberland. Private Courts who do not follow this standerd shall be considered Unconstitutional and shall not have their verdicts inforced by the Cantons and the People.   
+
+### Article XXIII - 
 
 
 ## Chapter 8: Sacurity and The Armed Forces
