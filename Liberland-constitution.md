@@ -208,29 +208,29 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 
 ### Article X - Cabinet Structure and Proceedings
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor of the Free republic of Liberland.
-  * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the five Secretaries of States, Under-Secretaries of State and any other Members the Chancellor may determine.
+  * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the Vice-Chancellor, Four Secretaries of their respective departments, and three additional Secretaries with no official position.
+  * **§V.2(2)** All Members of the Cabinet shall have full participation in all in all matters concerning the Republic. This shall include the right to vote on Cabinet decisions and acceses to classified information. No spicial or limited Cabinat shall be established in The United Cantons Assembly.   
   * **§V.2(2)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
-  * **§V.2(3)** No Person shall hold the office of Member of the Cabinet whilst holding any other public office within the legislative or judicial branch of the Public Administration concurrently.
+  * **§V.2(3)** No Person shall hold the office of Member of the Cabinet whilst holding any position in The United Cantons assembly or in the private sector concurrently.
   * **§V.2(4)** Should the Chancellor, or Vice-Chancellor where applicable, cease to hold his or her office, all other Members of the Cabinet shall immediately cease to hold their offices.
   * **§V.2(5)** Should the Chancellor, or Vice-Chancellor where applicable, resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article IV.
-* **§V.3.** Should the Chancellor become unable to perform one’s duties, the other Members of the Cabinet shall, amongst themselves, elect the Vice-Chancellor with a simple majority vote.
-  * **§V.3(1)** The inability of the Chancellor to perform one’s duties shall be declared by the Supreme Court upon request by a simple majority of all Members of the Cabinet.
+* **§V.3.** Should the Chancellor become unable to perform one’s duties, the Vice-Chancellor shall take his place.
+  * **§V.3(1)** The inability of the Chancellor to perform one’s duties shall be declared by the High Court upon request by a simple majority of all Members of the Cabinet.
   * **§V.3(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence passed by the Assembly in accordance with Article IV.
   * **§V.3(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
 * **§V.5.** The Cabinet shall secure the borders of the Free Republic of Liberland and duly maintain an immigration system as prescribed by law; in foreign affairs, the Cabinet shall work towards the maintenance of international peace and seek political and economic cooperation with other Nations as far as possible.
 * **§V.6.** The Chancellor, on behalf of the Cabinet, shall once a year, on the thirteenth day of April, publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article IV.
 * **§V.8.** The Cabinet shall consist of the following Departments only:
-  * **§V.8(1)** Department of Justice;
   * **§V.8(2)** Department of Internal Affairs;
-  * **§V.8(3)** Department of Security;
+  * **§V.8(3)** Department of Defence;
   * **§V.8(4)** Department of Foreign Affairs;
   * **§V.8(5)** Department of Treasury.
 * **§V.9.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
   * **§V.9(1)** Departments may establish Agencies.
   * **§V.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
-* **§V.10.** Each Department shall be headed by the Secretary of State for the respective Department.
-  * **§V.10(1)** All Secretaries of State shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-  * **§V.10(2)** All Secretaries of State may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
+* **§V.10.** Each Department shall be headed by the Secretaries for the respective Department.
+  * **§V.10(1)** All Secretaries shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
+  * **§V.10(2)** All Secretaries may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
 * **§V.11.** The Chief Attorney of the Republic shall be independent and shall head the Office of the Chief Attorney of the Republic.
   * **§V.11(1)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
   * **§V.11(2)** The Chief Attorney of the Republic shall have the power to request the High Court to issue a declaration as to the law or the Constitution of the Free Republic of Liberland.
@@ -272,7 +272,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 ### Article XXI - High Court Powers
 * **§XXI.1.** The powers of the High Court shall be restricted to the following only:
- * **§XXI.1(1)** to provide opinions on past and future Bills;
+ * **§XXI.1(1)** to provide opinions on past and future Bills in accordance to this constitution;
  * **§XXI.1(2)** to judge the legality and fairness of referendums and the business of the United Cantons Assembly; 
  * **§XXI.1(3)** to provide opinions on the Constitution and its interpretation;
  * **§XXI.1(4)** to act as a court of last resort in the Free republic of Liberland;
