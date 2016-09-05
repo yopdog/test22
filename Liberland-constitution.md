@@ -207,7 +207,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 ### Article X - Cabinet Structure and Proceedings
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor of the Free republic of Liberland.
   * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the Vice-Chancellor, Four Secretaries of their respective departments, and three additional Secretaries with no official position.
-  * **§V.2(2)** All Members of the Cabinet shall have full participation in all in all matters concerning the Republic. This shall include the right to vote on Cabinet decisions and acceses to classified information. No spicial or limited Cabinat shall be established in The United Cantons Assembly.   
+  * **§V.2(2)** All Members of the Cabinet shall have full participation in all in all matters concerning the Republic. This shall include the right to vote on Cabinet decisions and acceses to classified information. No special or limited Cabinat shall be established in The United Cantons Assembly.   
   * **§V.2(2)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
   * **§V.2(3)** No Person shall hold the office of Member of the Cabinet whilst holding any position in The United Cantons assembly or in the private sector concurrently.
   * **§V.2(4)** Should the Vice-Chancellor or any Secretarie cease to hold his or her office, the Chancellor shall be responsible for finding a replacement.
