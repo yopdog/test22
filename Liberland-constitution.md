@@ -215,7 +215,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.2(4)** Should the Chancellor, or Vice-Chancellor where applicable, cease to hold his or her office, all other Members of the Cabinet shall immediately cease to hold their offices.
   * **§V.2(5)** Should the Chancellor, or Vice-Chancellor where applicable, resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article IV.
 * **§V.3.** Should the Chancellor become unable to perform one’s duties, the Vice-Chancellor shall take his place.
-  * **§V.3(1)** The inability of the Chancellor to perform one’s duties shall be declared by the High Court upon request by a simple majority of all Members of the Cabinet.
   * **§V.3(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence passed by the Assembly in accordance with Article IV.
   * **§V.3(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
 * **§V.5.** The Cabinet shall secure the borders of the Free Republic of Liberland and duly maintain an immigration system as prescribed by law; in foreign affairs, the Cabinet shall work towards the maintenance of international peace and seek political and economic cooperation with other Nations as far as possible.
@@ -233,7 +232,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.10(2)** All Secretaries may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
 * **§V.11.** The Chief Attorney of the Republic shall be independent and shall head the Office of the Chief Attorney of the Republic.
   * **§V.11(1)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
-  * **§V.11(2)** The Chief Attorney of the Republic shall have the power to request the High Court to issue a declaration as to the law or the Constitution of the Free Republic of Liberland.
+  * **§V.11(2)** The Chief Attorney of the Republic shall have the power to request the High Court to issue a declaration as to the Law or the Constitution of the Free Republic of Liberland.
   * **§V.11(3)** The Office of the Chief Attorney of the Republic shall employ Attorneys of the Republic who shall represent all bodies of the United Cantons Assembly in all civil proceedings.
   * **§V.11(4)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
   * **§V.11(5)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with precise and impartial advice as its powers and obligations under the Constitution, international law and current domestic law of the Free Republic of Liberland.
@@ -267,8 +266,9 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 * **§XX.3.** The Chief Justice or any Justice of the High Court shall be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
 * **§XX.4.** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
 * **§XX.5.** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporary taken by a replacement Justice appointed by the Chief Justice of the High Court.
-* **§XX.6.** The High Courts annual budget shall be determined by the Chief Justice and shall come directly from the treasury.
- * **§XX.6(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article IX.
+* **§XX.6.** The High Court shall choose which cases and requests and it will take with the exception to requests by the Chief Attorney.
+* **§XX.7.** The High Courts annual budget shall be determined by the Chief Justice and shall come directly from the treasury.
+ * **§XX.7(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article IX.
 
 ### Article XXI - High Court Powers
 * **§XXI.1.** The powers of the High Court shall be restricted to the following only:
@@ -277,6 +277,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XXI.1(3)** to provide opinions on the Constitution and its interpretation;
  * **§XXI.1(4)** to act as a court of last resort in the Free republic of Liberland;
  * **§XXI.1(5)** to judge the ligitimacy of the use of a veto by any Canton;
+ * **§XXI.1(5)** 
 * **§XXI.2** Under no circumstances shall the High Court have the power to strike down Bills or be involved in legislation in any way.
 
 ### Article XXII - Obligations of the High Court
@@ -284,7 +285,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XXI.1(1)** to safeguard the rights and liberties of the people of the Free Republic of Liberland; 
  * **§XXI.1(2)** to interpret the Constitution in good faith.
  * **§XXI.1(3)** to ensure that this Constitution is carried out as intended. 
- * **§XXI.1(4)** to ensure that justice prevails.
+ * **§XXI.1(4)** to answer to requests sent by the Chief Attorney. 
 
 
 ## Chapter 7: The Judiciary
