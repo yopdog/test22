@@ -88,7 +88,6 @@ The United Cantons Assembly shall be established for the purpose of facilitating
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defence and international relations. The United Cantons Assembly shall act only as a legislature with the power of inforcment reserved to the Cantons and the People. The United Cantons Assembly shall be composed of the Assembly and the Cabinet each with their own powers as defined in this Chapter. 
  
 ### Article VI - Assembly Structure and Proceedings
-
 * **§VI.1** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
 * **§VI.2** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
 * **§VI.3** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
@@ -108,10 +107,9 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§II.6(1)** The Bureau of the Assembly shall supervise all Agents of the Assembly.
 * **§II.7.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
  * **§II.7(1)** The Chancellor shall be elected through a range vote whereby each Canton puts forword up to one of it's Representatives as a candidate for the Chancellor position. 
- * **§II.7(2)** The Chancellor shall form and preside over the Cabinet.
+ * **§II.7(2)** Upon election the Chancellor shall choose eight representatives from the assembly to form the Cabinet.
 
 ### Article VII - Assembly Powers
-
 * **§II.8.** The Assembly shall have the power to pass Bills for the following purposes only:
  * **§II.8(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their right  in accordance with this Constitution.
  * **§II.8(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
@@ -212,13 +210,13 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.2(2)** All Members of the Cabinet shall have full participation in all in all matters concerning the Republic. This shall include the right to vote on Cabinet decisions and acceses to classified information. No spicial or limited Cabinat shall be established in The United Cantons Assembly.   
   * **§V.2(2)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
   * **§V.2(3)** No Person shall hold the office of Member of the Cabinet whilst holding any position in The United Cantons assembly or in the private sector concurrently.
-  * **§V.2(4)** Should the Chancellor, or Vice-Chancellor where applicable, cease to hold his or her office, all other Members of the Cabinet shall immediately cease to hold their offices.
+  * **§V.2(4)** Should the Vice-Chancellor or any Secretarie cease to hold his or her office, the Chancellor shall be responsible for finding a replacement.
   * **§V.2(5)** Should the Chancellor, or Vice-Chancellor where applicable, resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article IV.
 * **§V.3.** Should the Chancellor become unable to perform one’s duties, the Vice-Chancellor shall take his place.
-  * **§V.3(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence passed by the Assembly in accordance with Article IV.
-  * **§V.3(3)** Should the Chancellor's ability to return be in question, the Vice-Chancellor shall request the Supreme Court to rule on the issue.
-* **§V.5.** The Cabinet shall secure the borders of the Free Republic of Liberland and duly maintain an immigration system as prescribed by law; in foreign affairs, the Cabinet shall work towards the maintenance of international peace and seek political and economic cooperation with other Nations as far as possible.
-* **§V.6.** The Chancellor, on behalf of the Cabinet, shall once a year, on the thirteenth day of April, publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary thereby initiating a legislative procedure in accordance with the provisions of Article IV.
+  * **§V.3(2)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence passed by the Assembly in accordance with Article VI.
+  * **§V.3(3)** Should the Chancellor's not return or be expected to return within sixty days, the assembly shall elect a new Chancellor in accordance with Article VI.
+* **§V.5.** The Cabinet shall secure the borders of the Free Republic of Liberland and duly maintain an immigration system as prescribed by law; in foreign affairs, the Cabinet shall above all act in the interests of the Free Republic of Liberland.
+* **§V.6.** The Chancellor, on behalf of the Cabinet, shall once a year, on the thirteenth day of April, publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary.
 * **§V.8.** The Cabinet shall consist of the following Departments only:
   * **§V.8(2)** Department of Internal Affairs;
   * **§V.8(3)** Department of Defence;
@@ -227,31 +225,28 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§V.9.** No special Department shall be established, nor shall any Department operate outside its jurisdiction.
   * **§V.9(1)** Departments may establish Agencies.
   * **§V.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
-* **§V.10.** Each Department shall be headed by the Secretaries for the respective Department.
+* **§V.10.** Each Department shall be headed by the Secretarie for the respective Department.
   * **§V.10(1)** All Secretaries shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
   * **§V.10(2)** All Secretaries may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
 * **§V.11.** The Chief Attorney of the Republic shall be independent and shall head the Office of the Chief Attorney of the Republic.
   * **§V.11(1)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
-  * **§V.11(2)** The Chief Attorney of the Republic shall have the power to request the High Court to issue a declaration as to the Law or the Constitution of the Free Republic of Liberland.
+  * **§V.11(2)** The Chief Attorney of the Republic shall have the power to request the High Court to issue a declaration as to the law or the Constitution of the Free Republic of Liberland.
   * **§V.11(3)** The Office of the Chief Attorney of the Republic shall employ Attorneys of the Republic who shall represent all bodies of the United Cantons Assembly in all civil proceedings.
-  * **§V.11(4)** The Chief Attorney of the Republic shall have the power to apply to the Civil Court to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
+  * **§V.11(4)** The Chief Attorney of the Republic shall have the power to apply to the Judiciary to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
   * **§V.11(5)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with precise and impartial advice as its powers and obligations under the Constitution, international law and current domestic law of the Free Republic of Liberland.
 
 ### Article XI - Cabinet Powers
-
 * **§V.7.** The powers of the Cabinet shall be restricted to the following only:
   * **§V.7(1)** to run day-to-day state affairs;
   * **§V.7(2)** to initiate a legislative procedure;
   * **§V.7(3)** to protect and promote the interests of the Free Republic of Liberland worldwide;
-  * **§V.7(4)** to sign international treaties provided the Supreme Court confirms the constitutionality of such treaties;
+  * **§V.7(4)** to sign international treaties;
   * **§V.7(5)** to produce byelaws in the form of Executive Measures under the powers expressly granted by Acts of the Assembly;
- Supreme Court;
   * **§V.7(6)** to maintain the State Treasury;
   * **§V.7(7)** to appoint the the Chief Attorney of the Republic;
-  * **§V.7(8)** to supervise all Agents of the executive branch of the Public Administration;
   * **§V.7(9)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
   * **§V.7(10)** to be the Commander-in-Chief of the Armed forces of Liberland;
-  * **§V.7(11)** to grant citizenship of the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
+  * **§V.7(11)** to grant Citizenship and Residency in the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
 ## Chapter 5: The High Court
 The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The High Court shall also act as the Court of last resort in the Free Republic of Liberland.
