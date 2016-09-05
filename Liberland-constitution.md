@@ -317,7 +317,12 @@ The Constitution of the Free Republic of Liberland shall be construed in the lig
 * **§XVII.3.** The Constitution of the Free Republic of Liberland shall be interpreted in good faith and literally, as far as it does not produce any absurd result, with due regard to the original intention behind its provisions; in case of doubt, consideration may be given to any statements or notes related to the text made before or at the time of its adoption.
 * **§XVII.4.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated for any purpose envisaged in the Constitution; the term “Agent of the Public Administration” shall signify any Person working for any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify any Person who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify any Person holding citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "law" shall signify any Act passed by the Assembly in accordance with Article IV and any Executive Measures as issued by the Cabinet in accordance with Article V.
 
-### Article XVIII: Shareholders Rights  
+### Article XVIII: Shareholders Rights
+* **§XVIII.1.** Shares in the Free Republic of Liberland shall be non-transferable and shall exist for the lifespan of the Shareholder.
+* **§XVIII.2.** Shareholders shall collectively privately own one-hundred percent of the land in the Free Republic of Liberland.
+* **§XVIII.3.** Each Shareholder shall have the right to acquire one-hundred square meters of land exchange for holding one share. 
+
+
 
 ### Article XVIV: Transitional Provisions
 
