@@ -272,7 +272,6 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XXI.1(3)** to provide opinions on the Constitution and its interpretation;
  * **§XXI.1(4)** to act as a court of last resort in the Free republic of Liberland;
  * **§XXI.1(5)** to judge the ligitimacy of the use of a veto by any Canton;
- * **§XXI.1(5)** 
 * **§XXI.2** Under no circumstances shall the High Court have the power to strike down Bills or be involved in legislation in any way.
 
 ### Article XXII - Obligations of the High Court
