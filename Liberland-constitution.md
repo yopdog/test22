@@ -94,7 +94,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§VI.4.** The enforcement of Bills passed by the Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
 * **§VI.5.** The United Cantons Assembly shall facilitate the registration of Cantons.
 * **§VI.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
- * **§VI.6(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizans that hold membership in each of the registered Cantons.
+ * **§VI.6(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of votes for each of the registered Cantons.
  * **§VI.6(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
  * **§VI.6(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
