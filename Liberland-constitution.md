@@ -318,8 +318,13 @@ The Constitution of the Free Republic of Liberland shall be construed in the lig
 
 ### Article XVIII: Shareholders Rights
 * **§XVIII.1.** Shares in the Free Republic of Liberland shall be non-transferable and shall exist for the lifespan of the Shareholder.
-* **§XVIII.2.** Shareholders shall collectively privately own one-hundred percent of the land in the Free Republic of Liberland.
-* **§XVIII.3.** Each Shareholder shall have the right to acquire one-hundred square meters of land exchange for holding one share. 
+* **§XVIII.2.** One-hundred and forty thousand shares shall exist in total.
+* **§XVIII.3.** Each share owned by a shareholder shall give him the following rights:
+ * **§XVIII.3(1)** to acquire a randomly chosen fifty square meter plot of land in the Free Republic of Liberland at the time of it's establishment.
+ * **§XVIII.3(2)** to 
+ * **§XVIII.3(3)**
+ * **§XVIII.3(4)**
+ * **§XVIII.3(4)**
 
 
 
