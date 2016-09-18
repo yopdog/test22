@@ -52,7 +52,7 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residency shall be conditional upon swering loyalty to the constitution.
  * **§IV.1(c)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed in law which shall not exceed three years. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
-* **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this bill of rights.
+* **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this Bill of Rights.
 * **§IV.3.** The Free Republic of Liberland shall reserve the right to denaturalize and strip away Residency in the following three cases.
  * **§IV.3(1)** As a punishment for a crime.
  * **§IV.3(2)** As a consequence for idintifying with hostile entities and/or ideologies.
