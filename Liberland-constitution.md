@@ -67,7 +67,10 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  * **§V.1(3)** to impeach the Chief Justice of the High Court. 
  * **§V.1(4)** to initiate a referendum to take control over the Armed Forces of Liberland;
  * **§V.1(5)** to access Public institutions;
- * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly.
+ * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly;
+ * **§V.1(7)** to hold any position in the United Cantons Assembly;
+ * **§V.1(7)** to become a High Court justice or run for the Chief Justice position;
+ * **§V.1(7)** to hold any commanding position in the Armed Forces in the Armed Forces of liberland.
 
 ## Chapter 3: The Cantons
 The Cantons shall be established for the purpose of defending the rights of the people of the Free Republic of Liberland. The Cantons shall be Independent and shall be responsible for inforcing the law. Cantons can be established through private initiative and their is no limit to the number of Cantons that can be established. In addition to defending the rights of the people the Cantons shall reprasent citizans in the United Cantons Assembly.
@@ -95,11 +98,12 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§VI.5.** The United Cantons Assembly shall facilitate the registration of Cantons.
 * **§VI.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
  * **§VI.6(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizens who hold membership in each of the registered Cantons.
- * **§VI.6(2)** The Representation of Cantons in the Assembly shall be renewed once every four years.
- * **§VI.6(3)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
+ * **§VI.6(2)** All Representatives must be Citizens.
+ * **§VI.6(3)** The Representation of Cantons in the Assembly shall be renewed once every four years.
+ * **§VI.6(4)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  Representative shall be provided by his Canton.
- * **§VI.6(4)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
- * **§VI.6(5)** Assembly Representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance to the law.
+ * **§VI.6(5)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
+ * **§VI.6(6)** Assembly Representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance to the law.
 * **§II.5.** The Assembly shall elect an Assembly Speaker who shall chair the business of the Assembly. 
   * **§II.5(1)** The Assembly Speaker shall be elected through a range vote.
   * **§II.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
@@ -227,13 +231,15 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.9(2)** All Agencies shall be supervised by relevant Departments and no Agency shall operate outside its own jurisdiction or the jurisdiction of its Department.
 * **§V.10.** Each Department shall be headed by the Secretarie for the respective Department.
   * **§V.10(1)** All Secretaries shall answer to the Chancellor and shall be removable from the office by the Chancellor at any time.
-  * **§V.10(2)** All Secretaries may appoint and remove up to five Under-Secretaries of State for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
+  * **§V.10(2)** All Secretaries may appoint and remove up to five Under-Secretaries for their Departments who shall act as their deputies supervising a specific section of the work of the Department.
+  * **§V.10(3)** All Under-Secretaries and workers employed in each Department must hold full Citizinship. 
 * **§V.11.** The Chief Attorney of the Republic shall be independent and shall head the Office of the Chief Attorney of the Republic.
   * **§V.11(1)** The Chief Attorney of the Republic shall be appointed by the Chancellor for a term of six years.
   * **§V.11(2)** The Chief Attorney of the Republic shall have the power to request the High Court to issue a declaration as to the law or the Constitution of the Free Republic of Liberland.
   * **§V.11(3)** The Office of the Chief Attorney of the Republic shall employ Attorneys of the Republic who shall represent all bodies of the United Cantons Assembly in all civil proceedings.
   * **§V.11(4)** The Chief Attorney of the Republic shall have the power to apply to the Judiciary to issue Publication Orders preventing any natural or legal Person from publishing and/or sharing any information which would undermine the secrecy of any information classified as a state secret in accordance with this Constitution
   * **§V.11(5)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with precise and impartial advice as its powers and obligations under the Constitution, international law and current domestic law of the Free Republic of Liberland.
+  * **§V.11(6)** The Chief Attorney and all Attorneys employed in the Office of the Chief Attorney must hold full Citizinship.
 
 ### Article XI - Cabinet Powers
 * **§V.7.** The powers of the Cabinet shall be restricted to the following only:
@@ -254,10 +260,11 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 ### Article XX - High Court Structure and Proceedings
 * **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizens once every twenty years by use of a range vote.
- * **§XX.2(1).** All candidates for the Chief Justice position must be no younger then thirty-five years of age and must be quilified lawyers who have surved at least seven years as a judge in a respectable court.
+ * **§XX.2(1).** All candidates for the Chief Justice position must: (a) be no younger then thirty-five years of age (b) be quilified lawyers who have surved at least seven years as a judge in a respectable court. (c) hold full Citizenship.
  * **§XX.2(2).** No Citizen may run twice for the Chief Justice position.
  * **§XX.2(3)** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
- * **§XX.2(4)** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
+ * **§XX.2(4)** The four Justices of the High Court must hold full Citizenship.
+ * **§XX.2(5)** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
  * **§XX.2(5)** The Chief Justice shall be subject to impeachment by the Citizens as described in article IX. 
 * **§XX.3.** The Chief Justice or any Justice of the High Court shall be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds vote in a referendum called by 10% of the overall number of Citizens.
 * **§XX.4.** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise in this Constitution.
