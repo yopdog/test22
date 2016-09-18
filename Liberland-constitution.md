@@ -322,7 +322,7 @@ The Constitution of the Free Republic of Liberland shall be construed in the lig
 * **§XVIII.2.** No individual shall acquire more than two thousand shares.
 * **§XVIII.3.** Each share owned by a Shareholder shall give him the following two rights:
  * **§XVIII.3(1)** to acquire a randomly chosen fifty square meter plot of land in the Free Republic of Liberland at the time of it's establishment. 
- * **§XVIII.3(2)** to extra representation as a citizen equal to 1/140 percent of the total number of citizens.
+ * **§XVIII.3(2)** to extra representation as a Citizen equal to 1/140 percent of the total number of Citizens.
 * **§XVIII.4.** All plots of land owned by a Shareholder shall be adjacent to one another and shall be distributed to him as one plot of land.
 
 
