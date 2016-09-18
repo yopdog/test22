@@ -70,7 +70,7 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly;
  * **§V.1(7)** to hold any position in the United Cantons Assembly;
  * **§V.1(7)** to become a High Court justice or run for the Chief Justice position;
- * **§V.1(7)** to hold any commanding position in the Armed Forces in the Armed Forces of liberland.
+ * **§V.1(7)** to hold any commanding position in the Armed Forces of liberland.
 
 ## Chapter 3: The Cantons
 The Cantons shall be established for the purpose of defending the rights of the people of the Free Republic of Liberland. The Cantons shall be Independent and shall be responsible for inforcing the law. Cantons can be established through private initiative and their is no limit to the number of Cantons that can be established. In addition to defending the rights of the people the Cantons shall reprasent citizans in the United Cantons Assembly.
