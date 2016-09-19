@@ -58,42 +58,47 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  * **§IV.3(2)** As a consequence for idintifying with hostile entities and/or ideologies.
  * **§IV.3(3)** As a consequence for any behavior and/or speech which grossly undermines the Constitution and the values on which this Republic has been formed.
 
-### Article V - Civil Rights
-* **§V.1** All Citizans of the Free Republic of Liberland shall have the following Civil Rights: 
- * **§V.1(1)** to be reprasented in the United Cantons Assembly through their Canton;
- * **§V.1(2)** to elect the Chief Justice of the High Court;
- * **§V.1(3)** to veto Bills in Accordance to Article IX;
- * **§V.1(3)** to veto the High Courts Budget in Accordance to Article IX;
- * **§V.1(3)** to impeach the Chief Justice of the High Court. 
- * **§V.1(4)** to initiate a referendum to take control over the Armed Forces of Liberland;
- * **§V.1(5)** to access Public institutions;
- * **§V.1(6)** to access to information concerning the day to day affairs of the Assembly;
- * **§V.1(7)** to hold any position in the United Cantons Assembly;
- * **§V.1(8)** to become a High Court justice or run for the Chief Justice position;
- * **§V.1(9)** to hold any commanding position in the Armed Forces of liberland.
+### Article V - Citizanship Fee
+* **§V.1.* All Citizens of the Free Republic of Liberland must pay the Citizanship Fee.
+* **§V.2.* The Citizanship Fee must be paid once one reaches twenty-one of age.
+* **§V.3.* The Citizanship Fee shall be a fixed amount of money paid each month to the Treasury Department.
+* **§V.3.* All Citizens shall pay the same fixed fee as everyone else with the exeption of the following:
+ * **§V.3(1)* Citizens between the ages of twenty-one and twenty-nine may pay up to eighty percent less in accordance to Bills passed by the assembly.
+ * **§V.3(2)* In rare occasions certain Citizins who have real financial difficulties paying the fee may get a discount of up to ninety percent. Such discounts shall be set in accordance to Bills passed by the assembly.
+
+### Article VI - Civil Rights
+* **§VI.1** All Citizans of the Free Republic of Liberland shall have the following Civil Rights: 
+ * **§VI.1(1)** to be reprasented in the United Cantons Assembly through their Canton;
+ * **§VI.1(2)** to elect the Chief Justice of the High Court;
+ * **§VI.1(3)** to veto Bills in Accordance to Article IX;
+ * **§VI.1(3)** to veto the High Courts Budget in Accordance to Article IX;
+ * **§VI.1(3)** to impeach the Chief Justice of the High Court. 
+ * **§VI.1(4)** to initiate a referendum to take control over the Armed Forces of Liberland;
+ * **§VI.1(5)** to access Public institutions;
+ * **§VI.1(6)** to access to information concerning the day to day affairs of the Assembly;
+ * **§VI.1(7)** to hold any position in the United Cantons Assembly;
+ * **§VI.1(8)** to become a High Court justice or run for the Chief Justice position;
+ * **§VI.1(9)** to hold any commanding position in the Armed Forces of liberland.
 
 ## Chapter 3: The Cantons
 The Cantons shall be established for the purpose of defending the rights of the people of the Free Republic of Liberland. The Cantons shall be Independent and shall be responsible for inforcing the law. Cantons can be established through private initiative and their is no limit to the number of Cantons that can be established. In addition to defending the rights of the people the Cantons shall reprasent citizans in the United Cantons Assembly.
 
-### Article V - Main Principles of The Cantons
-* **§V.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
+### Article VII - Main Principles of The Cantons
+* **§VII.1.** The Cantons of the Free Republic of Liberland shall be completely Independent in all aspects. Thay shall be self governing
 and shall collect their own revenue through voluntary membership fees.
-* **§V.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
-* **§V.3.** No legal authority other then the Constitution shall exist over the Cantons.
-* **§V.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
-* **§V.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
-* **§V.5.** Cantons need to be registered in the United Cantons Assembly in order to participate in it. 
-* **§V.6.** Cantons have a defacto veto power on laws passed in the United Cantons Assembly if thay refuse to allow a law to be inforced on their members. The lagitimicy of such a veto shall be judged on a case by case bases in accordance to the constitution.
-* **§V.7.** disputes between Cantons shall be solved in peacefull and civic manner.
+* **§VII.2.** Cantons shall provide protection to their members by enforcing the law and giving power to court verdicts.
+* **§VII.3.** No legal authority other then the Constitution shall exist over the Cantons.
+* **§VII.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
+* **§VII.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
+* **§VII.5.** Cantons need to be registered in the United Cantons Assembly in order to participate in it. 
+* **§VII.6.** Cantons have a defacto veto power on laws passed in the United Cantons Assembly if thay refuse to allow a law to be inforced on their members. The lagitimicy of such a veto shall be judged on a case by case bases in accordance to the constitution.
+* **§VII.7.** disputes between Cantons shall be solved in peacefull and civic manner.
 
-### Article VI - Canton Registration Requirements
-* **§VI.1.** All Cantons must meet the following Requirements:
- * **§VI.1(1).** thay must be in the business of offering protection and sacurity to their members.
- * **§VI.1(2).** thay must be legaly owned by Citizins.
- * **§VI.1(3).** thay must not recieve financial contributions from any forigin government.
- * **§VI.1(3).** thay must not recieve financial contributions from any forigin government. 
-
- 
+### Article VIII - Canton Registration Requirements
+* **§VIII.1.** All Cantons must meet the following Requirements:
+ * **§VIII.1(1).** thay must be in the business of offering protection and sacurity services to their members.
+ * **§VIII.1(2).** thay must be legaly owned by Citizins.
+ * **§VIII.1(3).** thay must not recieve financial contributions from any forigin government.
 
 ## Chapter 4: The United Cantons Assembly 
 The United Cantons Assembly shall be established for the purpose of facilitating negotiotions, agreements, and consensus among
