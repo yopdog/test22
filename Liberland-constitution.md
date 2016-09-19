@@ -64,9 +64,9 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
 * **§V.1.** All Citizens of the Free Republic of Liberland must pay the Citizanship Fee.
 * **§V.2.** The Citizanship Fee must be paid once one reaches twenty-one years of age.
 * **§V.3.** The Citizanship Fee shall be a fixed amount of money paid each month to the Treasury Department.
-* **§V.3.** All Citizens shall pay the same fixed fee as everyone else with the exeption of the following:
- * **§V.3(1)** Citizens between the ages of twenty-one and twenty-nine may pay up to eighty percent less in accordance to Bills passed by the assembly.
- * **§V.3(2)** In rare occasions certain Citizins who have real financial difficulties paying the fee may get a discount of up to ninety percent. Such discounts shall be set in accordance to Bills passed by the assembly.
+* **§V.4.** All Citizens shall pay the same fixed fee as everyone else with the exeption of the following:
+ * **§V.4(1)** Citizens between the ages of twenty-one and twenty-nine may pay up to eighty percent less in accordance to Bills passed by the assembly.
+ * **§V.4(2)** In rare occasions certain Citizins who have real financial difficulties paying the fee may get a discount of up to ninety percent. Such discounts shall be set in accordance to Bills passed by the assembly.
 
 ### Article VI - Civil Rights
 * **§VI.1** All Citizans of the Free Republic of Liberland shall have the following Civil Rights: 
