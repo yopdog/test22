@@ -56,9 +56,9 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
 * **§IV.3.** Children born to Citizens shall automatically receive a status of Permanent Residency. Should they later wish to become Citizens, they shall apply for Citizenship like any other person.
 * **§IV.4.** Persons applying for Citizenship must be at least eighteen years of age. Residency, on the other hand, may be acquired at any age.
 * **§IV.5.** The Free Republic of Liberland shall reserve the right to denaturalize and strip away Residency in the following three cases.
- * **§IV.6(1)** As a punishment for a crime.
- * **§IV.6(2)** As a consequence for idintifying with hostile entities and/or ideologies.
- * **§IV.6(3)** As a consequence for any behavior and/or speech which grossly undermines the Constitution and the values on which this Republic has been formed.
+ * **§IV.5(1)** As a punishment for a crime.
+ * **§IV.5(2)** As a consequence for idintifying with hostile entities and/or ideologies.
+ * **§IV.5(3)** As a consequence for any behavior and/or speech which grossly undermines the Constitution and the values on which this Republic has been formed.
 
 ### Article V - Citizanship Fee
 * **§V.1.** All Citizens of the Free Republic of Liberland must pay the Citizanship Fee.
