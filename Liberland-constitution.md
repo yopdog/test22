@@ -109,8 +109,6 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§VI.2** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
 * **§VI.3** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
 * **§VI.4.** The enforcement of Bills passed by the Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
-* **§VI.5.** The United Cantons Assembly shall facilitate the registration of Cantons.
- * **§VI.5(1).** The United Cantons Assembly shall be obligated to register Cantons that meet the Registration Requirements described in Article VI.
 * **§VI.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
  * **§VI.6(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizens who hold membership in each of the registered Cantons.
  * **§VI.6(2)** All Representatives must be Citizens.
@@ -268,6 +266,14 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
   * **§V.7(9)** to bestow honours and awards on Persons who have achieved a great deal in service of Liberland and/or the idea of liberty worldwide;
   * **§V.7(10)** to be the Commander-in-Chief of the Armed forces of Liberland;
   * **§V.7(11)** to grant Citizenship and Residency in the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
+
+### Article VI - Cabinet obligations and limitations
+* **§VI.1.** The Cabinet shall facilitate the registration of Cantons through the Department of Internal Affairs.
+ * **§VI.1(1).** The Cabinet shall be obligated to register Cantons that meet the Registration Requirements as described in Article VI.
+* **§VI.2.** The Cabinet shall be obligated to ensure the transperacy of it's own bussines and that of the assembly.
+* **§VI.3.** The Cabinet or any other body in the United Cantons Assembly shall be forbidden from holding private information such as fingerprints, DNA, religion or political affiliation on any Citizens or Resident in the Republic. Information on Citizens shall be kept to the minimum necessary in order to identify them as persons holding Citizenship in the Republic.
+* **§VI.4.** The Cabinet or any other body in the United Cantons Assembly shall have the obligation to remove any information collected on a Citizen or Resident living in the Republic upon his or her request.  
+
 
 ## Chapter 5: The High Court
 The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The High Court shall also act as the Court of last resort in the Free Republic of Liberland.
