@@ -82,9 +82,18 @@ and shall collect their own revenue through voluntary membership fees.
 * **§V.3.** No legal authority other then the Constitution shall exist over the Cantons.
 * **§V.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
 * **§V.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
-* **§V.6.** Cantons must be be registered in the United Cantons Assembly.
+* **§V.5.** Cantons need to be registered in the United Cantons Assembly in order to participate in it. 
 * **§V.6.** Cantons have a defacto veto power on laws passed in the United Cantons Assembly if thay refuse to allow a law to be inforced on their members. The lagitimicy of such a veto shall be judged on a case by case bases in accordance to the constitution.
-* **§V.7.** disputes between Cantons shall be solved in peacefull and civic manner. 
+* **§V.7.** disputes between Cantons shall be solved in peacefull and civic manner.
+
+### Article VI - Canton Registration Requirements
+* **§VI.1.** All Cantons must meet the following Requirements:
+ * **§VI.1(1).** thay must be in the business of offering protection and sacurity to their members.
+ * **§VI.1(2).** thay must be legaly owned by Citizins.
+ * **§VI.1(3).** thay must not recieve financial contributions from any forigin government.
+ * **§VI.1(3).** thay must not recieve financial contributions from any forigin government. 
+
+ 
 
 ## Chapter 4: The United Cantons Assembly 
 The United Cantons Assembly shall be established for the purpose of facilitating negotiotions, agreements, and consensus among
@@ -96,6 +105,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§VI.3** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
 * **§VI.4.** The enforcement of Bills passed by the Assembly shall remain exclusivily the responsibilaty of the Cantons and the people of the Free Republic of Liberland.  
 * **§VI.5.** The United Cantons Assembly shall facilitate the registration of Cantons.
+ * **§VI.5(1).** The United Cantons Assembly shall be obligated to register Cantons that meet the Registration Requirements described in Article VI.
 * **§VI.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
  * **§VI.6(1)** Each Canton shall be in charge of choosing it's own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizens who hold membership in each of the registered Cantons.
  * **§VI.6(2)** All Representatives must be Citizens.
