@@ -269,7 +269,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 
 ### Article VI - Cabinet obligations and limitations
 * **§VI.1.** The Cabinet shall facilitate the registration of Cantons through the Department of Internal Affairs.
- * **§VI.1(1).** The Cabinet shall be obligated to register Cantons that meet the Registration Requirements as described in Article VI.
+ * **§VI.1(1).** The department of Internal Affairs shall be obligated to register Cantons that meet the Registration Requirements as described in Article VI.
 * **§VI.2.** The Cabinet shall be obligated to ensure the transperacy of it's own bussines and that of the assembly.
 * **§VI.3.** The Cabinet or any other body in the United Cantons Assembly shall be forbidden from holding private information such as fingerprints, DNA, religion or political affiliation on any Citizens or Resident in the Republic. Information on Citizens shall be kept to the minimum necessary in order to identify them as persons holding Citizenship in the Republic.
 * **§VI.4.** The Cabinet or any other body in the United Cantons Assembly shall have the obligation to remove any information collected on a Citizen or Resident living in the Republic upon his or her request.  
