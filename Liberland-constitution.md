@@ -319,8 +319,8 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 ### Article XXIII - Principals of the Judiciary
 * **§XXIII.1** The purpose of the Judiciary is to safeguard the rights of the People, and provide them with Justice to the best of it's abilities.  
 * **§XXIII.2** All disputes between peoples and institutions shall fall within the scope of the Judiciary. This shall include disputes involving the Cantons, The United Cantons Assembly, The Armed Forces, and the Judiciary itself.
-* **§XXIII.3** The Judiciary in The Free Republic of Liberland shall resolve disputes in accordance to this constitution which it shall interpret in good faith. 
-
+* **§XXIII.3** The Judiciary shall resolve disputes in accordance to this constitution which it shall interpret in good faith. 
+* **§XXIII.4** The Judiciary shall rely on objective facts and evidence in order to reach its verdict. 
 ### Article XXIII - Judiciary Structure and Proceedings
 
 
