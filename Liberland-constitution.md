@@ -317,12 +317,16 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 The Judiciary in the Free Republic of Liberland, in addition to The High Court, shall be composed of independent Private Courts who shall run thier own own affairs and be in charge of their own financing. The Private Courts of the Free Republic of Liberland shall have no power of enforcement on their own, but shall rely on the Cantons and the People to enforce their verdicts. The following Chapter will lay down the Constitutional Standerd for Private Courts in the Free Republic of Liberland. Private Courts who do not follow this standerd shall be considered Unconstitutional and shall not have their verdicts inforced by the Cantons and the People.   
 
 ### Article XXIII - Principals of the Judiciary
-* **§XXIII.1** The purpose of the Judiciary is to safeguard the rights of the People, and provide them with Justice to the best of it's abilities.  
-* **§XXIII.2** All disputes between peoples and institutions shall fall within the scope of the Judiciary. This shall include disputes involving the Cantons, The United Cantons Assembly, The Armed Forces, and the Judiciary itself.
-* **§XXIII.3** The Judiciary shall resolve disputes in accordance to this constitution which it shall interpret in good faith. 
-* **§XXIII.4** The Judiciary shall rely on objective facts and evidence in order to reach its verdict. 
+* **§XXIII.1.** The purpose of the Judiciary is to safeguard the rights of the People, and provide them with Justice to the best of it's abilities.  
+* **§XXIII.2.** All disputes between peoples and institutions shall fall within the scope of the Judiciary. This shall include disputes involving the Cantons, The United Cantons Assembly, The Armed Forces, and the Judiciary itself.
+* **§XXIII.3.** The Judiciary shall resolve disputes in accordance to this constitution which it shall interpret in good faith. 
+* **§XXIII.4.** The Judiciary shall rely on objective facts and evidence in order to reach its verdict. 
 
 ### Article XXIV - Judiciary Structure and Proceedings
+* **§XXIV.1.**
+* **§XXIV.2.**
+* **§XXIV.3.**
+* **§XXIV.4.**
 
 ### Article XXV - Granting of Warrents
 
