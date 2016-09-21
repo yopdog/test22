@@ -344,7 +344,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
    * **§XXIV.5(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
    * **§XXIV.5(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
   * **§XXIV.5(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
-* **§XXIV.6.**
+* **§XXIV.6.** 
 
 ### Article XXV - Granting of Warrents
 
