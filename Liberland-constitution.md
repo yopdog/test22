@@ -323,10 +323,28 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXIII.4.** The Judiciary shall rely on objective facts and evidence in order to reach its verdict. 
 
 ### Article XXIV - Judiciary Structure and Proceedings
-* **§XXIV.1.**
-* **§XXIV.2.**
-* **§XXIV.3.**
-* **§XXIV.4.**
+* **§XXIV.1.** All trials in a court shall take place before a judge, a panal of judges, or a jury. 
+* **§XXIV.2.** trials before a panal of judges shall begin with no more then eight judges. 
+* **§XXIV.3.** A trial shall proceed according to common courtroom Etiquette.
+* **§XXIV.4.** A trial before a jury shall begin with at least six and no more than fifteen members who shall give a verdict of “Guilty” or “Not guilty”.
+  * **§XXIV.4(1)** The Jury shall be composed Citizens and Residence chosen at random.
+  * **§XXIV.4(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
+  * **§XXIV.4(3)** The Jury shall deliberate in camera and shall not be required to disclose reasons behind the verdict or be reprimanded for it.
+  * **§XXIV.4(4)** The Jury shall, under all circumstances, retain the unequivocal right to acquit and shall be informed of this right.
+  * **§XXIV.4(5)** An acquittal of a defendant by the Jury shall be final and no appeal from such a verdict shall be allowed.
+  * **§XXIV.4(7)** The Jury shall render the verdict free from any form of coercion and, should the sitaution require, the Judge may order sequestration of the Jurors in order to ensure their independence.
+  * **§XXIV.4(8)** The Judge shall have the power to order a retrial where the Jury is not able to render a verdict within reasonable time or where he or she has reasonable grounds to question its independence.
+  * **§XXIV.4(9)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
+  * **§XXIV.4(10)** The Court may exercise jurisdiction over international crimes provided the accused is present within the jurisdiction of the Free Republic of Liberland.
+* **§XXIV.5.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
+  * **§XXIV.5(1)** A defendant at a Preliminary Hearing shall enter his or her positions in relation to the claim or prosecution brought against him or her.
+  * **§XXIV.5(2)** The Judge at a Preliminary Hearing shall have the power to issue preliminary Warrants which shall be reviewable at a full trial.
+  * **§XXIV.5(3)** The Judge at a Preliminary Hearing shall review the prima facie validity of the claim or prosecution and shall dismiss the case before it proceeds to a full trial where:
+   * **§XXIV.5(3)(a)** no probable cause has been proven to the satisfaction of the Court;
+   * **§XXIV.5(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
+   * **§XXIV.5(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
+  * **§XXIV.5(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
+* **§XXIV.6.**
 
 ### Article XXV - Granting of Warrents
 
