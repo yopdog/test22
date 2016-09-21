@@ -330,7 +330,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 
 ### Article XXVII - Defendant rights
 
-### Article XXVII - Prosecutor rights
+### Article XXVIII - Prosecutor rights
 
 
 
