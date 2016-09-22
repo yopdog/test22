@@ -324,7 +324,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 
 ### Article XXIV - Judiciary Structure and Proceedings
 * **§XXIV.1.** All trials in a court shall take place before a judge, a panal of judges, or a jury. 
-* **§XXIV.2.** trials before a panal of judges shall begin with no more then eight judges. 
+* **§XXIV.2.** trials before a panal of judges shall begin with no more then eight judges who shall give a verdict of “Guilty” or “Not guilty. 
 * **§XXIV.3.** A trial shall proceed according to common courtroom Etiquette.
 * **§XXIV.4.** A trial before a jury shall begin with at least six and no more than fifteen members who shall give a verdict of “Guilty” or “Not guilty”.
   * **§XXIV.4(1)** The Jury shall be composed Citizens and Residence chosen at random.
@@ -344,10 +344,16 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
    * **§XXIV.5(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
    * **§XXIV.5(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
   * **§XXIV.5(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
-* **§XXIV.6.** 
 
-### Article XXV - Granting of Warrents
-
+### Article XXV - Issuing of Warrants
+ * **§XXV.1.** The Judiciary shall have the ability to issue Warrants granting the use of force against individuals.
+* **§XXV.2.** Warrents issued by the Judiciary shall fall into five categories: (1) Search Warrent, (2) Arrest Warrent, (3) forfeiture Warrant (4) Penalty Warrent
+ * **§XXV.2(1)** A Search Warrent shall be granted by a court only upon probable cause. The Warrent shall allow for the searching of a persons property and belongings. 
+ * **§XXV.2(2)** An Arrest Warrant shall be granted by a court only upon probable cause. The Warrant shall allow for the detention and interrogation of an individual for up to seventy-two hours. The detainee shall be informed of the cause of his or her detention and of relevant rights he or she enjoys under this Constitution and any laws passed in accordance therewith. During the arrest, the detainee shall have the right to: (a) communicate with close ones provided it puts no one in danger (b) a lawyer. 
+ * **§XXV.2(3)** A forfeiture Warrant shall be granted by a court to force a guilty individual to payback a debt or return stolen property.
+ * **§XXV.2(4)** A Penalty Warrent shall be granted by a court only when a person has been proved guilty of a crime beyond a reasonable doubt. The Warrant shall allow for sanctions to be applied on a persons rights and freedoms.
+  
+ 
 ### Article XXVI - Rules of the Court
 
 ### Article XXVII - Defendant rights
