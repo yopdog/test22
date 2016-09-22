@@ -346,7 +346,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
   * **§XXIV.5(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defence as well as all court fees unless there is compelling reason otherwise.
 
 ### Article XXV - Issuing of Warrants
- * **§XXV.1.** The Judiciary shall have the ability to issue Warrants granting the use of force against individuals.
+* **§XXV.1.** The Judiciary shall have the ability to issue Warrants granting the use of force against individuals.
 * **§XXV.2.** Warrents issued by the Judiciary shall fall into five categories: (1) Search Warrent, (2) Arrest Warrent, (3) forfeiture Warrant (4) Penalty Warrent
  * **§XXV.2(1)** A Search Warrent shall be granted by a court only upon probable cause. The Warrent shall allow for the searching of a persons property and belongings. 
  * **§XXV.2(2)** An Arrest Warrant shall be granted by a court only upon probable cause. The Warrant shall allow for the detention and interrogation of an individual for up to seventy-two hours. The detainee shall be informed of the cause of his or her detention and of relevant rights he or she enjoys under this Constitution and any laws passed in accordance therewith. During the arrest, the detainee shall have the right to: (a) communicate with close ones provided it puts no one in danger (b) a lawyer. 
