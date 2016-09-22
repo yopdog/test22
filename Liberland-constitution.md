@@ -347,10 +347,10 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 
 ### Article XXV - Issuing of Warrants
 * **§XXV.1.** The Judiciary shall have the ability to issue Warrants granting the use of force against individuals.
-* **§XXV.2.** Warrents issued by the Judiciary shall fall into five categories: (1) Search Warrent, (2) Arrest Warrent, (3) forfeiture Warrant (4) Penalty Warrent
+* **§XXV.2.** Warrents issued by the Judiciary shall fall into five categories: (1) Search Warrent, (2) Arrest Warrent, (3) Forfeiture Warrant (4) Penalty Warrent
  * **§XXV.2(1)** A Search Warrent shall be granted by a court only upon probable cause. The Warrent shall allow for the searching of a persons property and belongings. 
  * **§XXV.2(2)** An Arrest Warrant shall be granted by a court only upon probable cause. The Warrant shall allow for the detention and interrogation of an individual for up to seventy-two hours. The detainee shall be informed of the cause of his or her detention and of relevant rights he or she enjoys under this Constitution and any laws passed in accordance therewith. During the arrest, the detainee shall have the right to: (a) communicate with close ones provided it puts no one in danger (b) a lawyer. 
- * **§XXV.2(3)** A forfeiture Warrant shall be granted by a court to force a guilty individual to payback a debt or return stolen property.
+ * **§XXV.2(3)** A Forfeiture Warrant shall be granted by a court to force a guilty individual to payback a debt or return stolen property.
  * **§XXV.2(4)** A Penalty Warrant shall be granted by a court only when a person has been proved guilty of a crime beyond a reasonable doubt. The Warrant shall allow for sanctions to be applied on a person's rights and freedoms.
 * **§XXV.3.** All Warrants shall be of limited scope and shall include specific details about (a) type of Warrant (b) who is allowed to carry out the warrant (c) to whom the Warrant is subject to (d) reason for the Warrant (e) time and date for carrying out the Warrant (f) the method by which the Warrant will be carried out.
  
