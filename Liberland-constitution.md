@@ -359,7 +359,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXVI.2.** Before a trial begins each party to the case must place in escrow the full fee for the court. At the end of the trial, only the losing side shall be obliged to pay the court fee. 
 * **§XXVI.3.** Should no court be agreed upon by parties involved in a case within thirty days or should the accused party not cooperate in the process of choosing a court the prosecuting party shall have the right to request a reasonably priced court to be chosen in random or by a neutral third party. Such a request shall be carried out and supervised by any court chosen by the prosecuting party.
 * **§XXVI.4.** Should a party refuse to pay the court fee the court may issue a Forfeiture Warrant forcing the party to pay.
-* **§XXVI.5.** Should the accused party be financially unable to pay the court fee, the fee shall be paid by the prosecuting party alone. Should the accused party lose the case, he or she will be indebted to the prosecuting party to an amount equal to the original court fee.
+* **§XXVI.5.** Should the accused party be financially unable to pay the court fee, the fee shall be paid by the prosecuting party alone. Should the accused party then lose the case, he or she will be indebted to the prosecuting party to an amount equal to the original court fee.
 * **§XXVI.5.** Fallowing a verdict by a court the defendant shall reserve the right to appeal to another court if he or she believes there was a mistake. The process for choosing an appellate court shall be the same as choosing a trial court only that this time it is the defendant who shall have the right to request court as described in provision XXVI.3.
 
 ### Article XXVII - Defendant rights
