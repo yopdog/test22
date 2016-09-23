@@ -323,7 +323,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXIII.4.** The Judiciary shall rely on objective facts and evidence in order to reach its verdict. 
 
 ### Article XXIV - Judiciary Structure and Proceedings
-* **§XXIV.1.** All trials in a court shall take place before a judge, a panal of judges, or a jury. 
+* **§XXIV.1.** All trials in a court shall take place before ether a judge, a panal of judges, or a jury. 
 * **§XXIV.2.** trials before a panal of judges shall begin with no more then eight judges who shall give a verdict of “Guilty” or “Not guilty. 
 * **§XXIV.3.** A trial shall proceed according to common courtroom Etiquette.
 * **§XXIV.4.** A trial before a jury shall begin with at least six and no more than fifteen members who shall give a verdict of “Guilty” or “Not guilty”.
@@ -352,9 +352,12 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
  * **§XXV.2(2)** An Arrest Warrant shall be granted by a court only upon probable cause. The Warrant shall allow for the detention and interrogation of an individual for up to seventy-two hours. The detainee shall be informed of the cause of his or her detention and of relevant rights he or she enjoys under this Constitution and any laws passed in accordance therewith. During the arrest, the detainee shall have the right to: (a) communicate with close ones provided it puts no one in danger (b) a lawyer. 
  * **§XXV.2(3)** A Forfeiture Warrant shall be granted by a court to force a guilty individual to payback a debt or return stolen property.
  * **§XXV.2(4)** A Penalty Warrant shall be granted by a court only when a person has been proved guilty of a crime beyond a reasonable doubt. The Warrant shall allow for sanctions to be applied on a person's rights and freedoms.
-* **§XXV.3.** All Warrants shall be of limited scope and shall include specific details about (a) type of Warrant (b) who is allowed to carry out the warrant (c) to whom the Warrant is subject to (d) reason for the Warrant (e) time and date for carrying out the Warrant (f) the method by which the Warrant will be carried out.
+* **§XXV.3.** All Warrants shall be of limited scope and shall include specific details about (a) type of Warrant (b) who is allowed to carry out the Warrant (c) to whom the Warrant is subject to (d) reason for the Warrant (e) time and date for carrying out the Warrant (f) the method by which the Warrant will be carried out.
  
 ### Article XXVI - Rules of the Court
+* **§XXVI.1.** No trial shall begin unless the court in which the trial is taking place has been agreed to by all parties involved in the case.  
+* **§XXVI.2.** Before a trial begins each party to the case must place in escrow the full fee for the court. At the end of the trial, only the losing side shall be obliged to pay the court fee. 
+* **§XXVI.3.** should no court be agreed upon by parties involved in a case within thirty days or should the accused party not cooperate in the process of choosing a court the prosecuting party shall have the right to request a reasonably priced court to be chosen in random or by a neutral third party. Such a request shall be carried out and supervised by any court chosen by the prosecuting party.
 
 ### Article XXVII - Defendant rights
 
