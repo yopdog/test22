@@ -353,6 +353,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
  * **§XXV.2(3)** A Forfeiture Warrant shall be granted by a court to force a guilty individual to payback a debt or return stolen property.
  * **§XXV.2(4)** A Penalty Warrant shall be granted by a court only when a person has been proved guilty of a crime beyond a reasonable doubt. The Warrant shall allow for sanctions to be applied on a person's rights and freedoms.
 * **§XXV.3.** All Warrants shall be of limited scope and shall include specific details about (a) type of Warrant (b) who is allowed to carry out the Warrant (c) to whom the Warrant is subject to (d) reason for the Warrant (e) time and date for carrying out the Warrant (f) the method by which the Warrant will be carried out.
+* **§XXV.4.** In addition to the issuing Warrants, the Judiciary shall have the ability to issue a Law Enforcement permit. Such a permit shall grant an institution or individual the right to arrest a person suspected of committing a crime or a misendeavor for up to ten hours. Any Law Enforcement permit shall be given only to institutions and individuals whom the court believes to be responsible and professional. Once the Permit is issued it shall last for seven years after which it must be renewed.
  
 ### Article XXVI - Rules of the Court
 * **§XXVI.1.** No trial shall begin unless the court in which the trial is taking place has been agreed to by all parties involved in the case.  
