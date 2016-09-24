@@ -373,10 +373,13 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 The Armed Forces of the free republic of liberland, under the command the chief of general staff, shall be responsible for defending the existence of the Republic and the safety of its population against any external threats.
 
 ### Article XXIII - Main principles of the Armed Forces.
-* **§XXVII.3.** 
-* 
+* **§XXVIII.1.** The Armed Forces shall be under the command the Chief of General Staff who shall answer directly to the Cabinet.  
+* **§XXVIII.2.** The Armed Forces shall defend against external enemies only and under no circumstances should it be used for domestic purposes.
+* **§XXVIII.3.** 
+* **§XXVIII.4.**
+ 
 ### Article XXIV - Deployment and control over the Armed Forces.
-### Article XXV -
+
 
 
 
