@@ -361,13 +361,12 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXVI.4.** Should a party refuse to pay the court fee the court may issue a Forfeiture Warrant forcing the party to pay.
 * **§XXVI.5.** Should the accused party be financially unable to pay the court fee, the fee shall be paid by the prosecuting party alone. Should the accused party then lose the case, he or she will be indebted to the prosecuting party to an amount equal to the original court fee.
 * **§XXVI.5.** Fallowing a verdict by the court, the defendant shall reserve the right to appeal to another court if he or she believes there was a mistake. The process for choosing an appellate court shall be the same as choosing a trial court only that this time it is the defendant who shall have the right to request court as described in provision XXVI.3.
+* **§XI.14.** No evidence which has been obtained contrary to law or the Constitution shall be admitted in the Court unless such evidence has already been made public.
 
 ### Article XXVII - Defendant rights
-
-### Article XXVIII - Prosecutor rights
-
-
-
+* **§XXVII.1.** All defendants in criminal proceedings shall have the right to a speedy trial and sentencing; in any event, no Person shall be convicted of a criminal offence later than a year after a Warrant permitting the detention of such Person was executed in connection with that offence; should said Person escape or allegedly commit any subsequent criminal offence, he or she may be subjected to another full year of detention.
+* **§XXVII.2.** All defendants in criminal proceedings shall have the right to attend Court proceedings, to be informed of criminal charges and of his or her rights, to request witnesses to appear in Court for examination, to confront the accuser and to examine all evidence gathered against him or her.
+* **§XXVII.3.** All defendants in criminal proceedings shall have the right to be presumed innocent until proven guilty and to not be compelled to be a witness against himself or herself, or such other Persons as may be prescribed by law, without any negative inference; the Prosecution shall at all times carry the legal burden of proof, discharged beyond reasonable doubt, in relation to the defendant's guilt, including disproving any defence envisaged by the law which he or she might raise; nothing in this provision shall prevent the creation of defences which require the defendant to discharge the evidential burden of proof by raising the issue of defence available to him or her.
 
 ## Chapter 8: Sacurity and The Armed Forces
 
