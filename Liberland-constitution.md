@@ -370,7 +370,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXVII.3.** All defendants in criminal proceedings shall have the right to be presumed innocent until proven guilty and to not be compelled to be a witness against himself or herself, or such other Persons as may be prescribed by law, without any negative inference; the Prosecution shall at all times carry the legal burden of proof, discharged beyond reasonable doubt, in relation to the defendant's guilt, including disproving any defence envisaged by the law which he or she might raise; nothing in this provision shall prevent the creation of defences which require the defendant to discharge the evidential burden of proof by raising the issue of defence available to him or her.
 
 ## Chapter 8: Sacurity and The Armed Forces
-The Armed Forces of the free republic of liberland, under the command the Chief of General Staff, shall be responsible for defending the existence of the Republic and the safety of its population against external threats.
+The Armed Forces of the Free Republic of Liberland, under the command the Chief of General Staff, shall be responsible for defending the existence of the Republic and the safety of its population against external threats.
 
 ### Article XXIII - Main principles of the Armed Forces.
 * **§XXVIII.1.** The Armed Forces shall be under the command the Chief of General Staff who shall answer directly to the Cabinet.  
