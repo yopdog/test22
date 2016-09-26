@@ -374,8 +374,10 @@ The Armed Forces of the free republic of liberland, under the command the chief 
 
 ### Article XXIII - Main principles of the Armed Forces.
 * **§XXVIII.1.** The Armed Forces shall be under the command the Chief of General Staff who shall answer directly to the Cabinet.  
-* **§XXVIII.2.** The Armed Forces shall defend against external enemies only and under no circumstances should it be used for domestic purposes.
-
+* **§XXVIII.2.** The Armed Forces shall defend against external threats only and under no circumstances should it be used for domestic purposes.
+* **§XXVIII.3.** The Armed Forces shall not be deployed for any purpose other than that which serves the national security interests of the Republic
+* **§XXVIII.4.** The Armed Forces shall at all times function as a professional army and shall under no circumstances introduce any form of forced conscription.
+* **§XXVIII.4.** 
  
 ### Article XXIV - Deployment and control over the Armed Forces.
 
