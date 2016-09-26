@@ -377,15 +377,17 @@ The Armed Forces of the free republic of liberland, under the command the chief 
 * **§XXVIII.2.** The Armed Forces shall defend against external threats only and under no circumstances should it be used for domestic purposes.
 * **§XXVIII.3.** The Armed Forces shall not be deployed for any purpose other than that which serves the national security interests of the Republic
 * **§XXVIII.4.** The Armed Forces shall at all times function as a professional army and shall under no circumstances introduce any form of forced conscription.
+
 ### Article XXIV - Deployment and control over the Armed Forces.
 * **§XXVIV.1.** The Armed Forces shall be deployed only upon an order passed down form the Cabinet.
 * **§XXVIV.2.** Any deployment or operation of the Armed Forces which could lead to an armed conflict must have the full backing of the Chancellor of the Republic. 
- **§XXVIV.3.** At any time the Citizens of the Republic shall have the right to initiate a referendum to take control of the Armed Forces. 
-  **§XXVIV.3(1)** Such a referendum shall be triggered by no less the 30% of the Citizens.
-  **§XXVIV.3(2)** Before voting can begin, the referendum must list twenty Citizens who will form a Council which will take control of the Armed Forces.
-  **§XXVIV.3(3)** The referendum shall pass with a majority of the two-thirds of the overall number of Citizens.
-  **§XXVIV.3(4)** Should the referendum pass, the Armed Forces shall move under the full control of the council. The Chief of General Staff shall at this point answer exclusively to the council.
-  **§XXVIV.3(4)** The transfer of power created by this referendum shall be temporary and shall last no longer than six months after which the Armed Forces shall move back to the control of the Cabinet.
+**§XXVIV.3.** At any time the Citizens of the Republic shall have the right to initiate a referendum to take control of the Armed Forces. 
+ **§XXVIV.3(1)** Such a referendum shall be triggered by no less the 30% of the Citizens.
+ **§XXVIV.3(2)** Before voting can begin, the referendum must list twenty Citizens who will form a Council which will take control of the Armed Forces.
+ **§XXVIV.3(3)** The referendum shall pass with a majority of the two-thirds of the overall number of Citizens.
+ **§XXVIV.3(4)** Should the referendum pass, the Armed Forces shall move under the full control of the council. The Chief of General Staff shall at this point answer exclusively to the council.
+ **§XXVIV.3(4)** The transfer of power created by this referendum shall be temporary and shall last no longer than six months after which the Armed Forces shall move back to the control of the Cabinet.
+ 
 ## Chapter 9: Final Provisions
 
 The Constitution of the Free Republic of Liberland shall be construed in the light of Overriding and Interpretive provisions and shall enter into force upon the conditions prescribed in the Transitional provisions.
