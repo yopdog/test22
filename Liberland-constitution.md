@@ -92,9 +92,9 @@ and shall collect their own revenue through voluntary membership fees.
 * **§VII.3.** No legal authority other than the Constitution shall exist over the Cantons.
 * **§VII.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
 * **§VII.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
-* **§VII.5.** Cantons need to be registered in the United Cantons Assembly in order to participate in it. 
-* **§VII.6.** Cantons have a de facto veto power on laws passed in the United Cantons Assembly if they refuse to allow a law to be enforced on their members. The legitimacy of such a veto shall be judged on a case by case basis in accordance to the constitution.
-* **§VII.7.** disputes between Cantons shall be solved in peaceful and civic manner.
+* **§VII.6.** Cantons need to be registered in the United Cantons Assembly in order to participate in it. 
+* **§VII.7.** Cantons have a de facto veto power on laws passed in the United Cantons Assembly if they refuse to allow a law to be enforced on their members. The legitimacy of such a veto shall be judged on a case by case basis in accordance to the constitution.
+* **§VII.8.** disputes between Cantons shall be solved in peaceful and civic manner.
 
 ### Article VIII - Canton Registration Requirements
 * **§VIII.1.** All Cantons must meet the following Requirements:
@@ -106,109 +106,109 @@ and shall collect their own revenue through voluntary membership fees.
 The United Cantons Assembly shall be established for the purpose of facilitating negotiations, agreements, and consensus among
 the Cantons of the Free Republic of Liberland. This shall include voting on bills and working towards common goals such as national defense and international relations. The United Cantons Assembly shall act only as a legislature with the power of enforcement reserved to the Cantons and the People. The United Cantons Assembly shall be composed of the Assembly and the Cabinet each with their own powers as defined in this Chapter. 
  
-### Article VI - Assembly Structure and Proceedings
-* **§VI.1** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
-* **§VI.2** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
-* **§VI.3** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
-* **§VI.4.** The enforcement of Bills passed by the Assembly shall remain exclusively the responsibility of the Cantons and the people of the Free Republic of Liberland.  
-* **§VI.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
- * **§VI.6(1)** Each Canton shall be in charge of choosing its own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizens who hold membership in each of the registered Cantons.
- * **§VI.6(2)** All Representatives must be Citizens.
- * **§VI.6(3)** The Representation of Cantons in the Assembly shall be renewed once every four years.
- * **§VI.6(4)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
+### Article IX - Assembly Structure and Proceedings
+* **§IX.1** The Assembly shall ordinarily be in session for one week of every month for nine months a year.
+* **§IX.2** The Assembly may extend or shorten its session with a simple majority vote of the overall number of Assembly Representatives.
+* **§IX.3** The Assembly may reconvene at any time whatsoever upon the call of the Assembly Speaker sua sponte or upon request of one-fifth of the overall number of Assembly Representatives.
+* **§IX.4.** The enforcement of Bills passed by the Assembly shall remain exclusively the responsibility of the Cantons and the people of the Free Republic of Liberland.  
+* **§IX.6.** The Assembly shall consist of thirty Assembly Representatives, representing their respective Cantons
+ * **§IX.6(1)** Each Canton shall be in charge of choosing its own Representatives. The number of Representatives sent by each Canton shall be proportional to the number of Citizens who hold membership in each of the registered Cantons.
+ * **§IX.6(2)** All Representatives must be Citizens.
+ * **§IX.6(3)** The Representation of Cantons in the Assembly shall be renewed once every four years.
+ * **§IX.6(4)** Should any Assembly Representative step down or become incapable of participating, a supplementary 
  representative shall be provided by his Canton.
- * **§VI.6(5)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
- * **§VI.6(6)** Assembly representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance with the law.
-* **§II.5.** The Assembly shall elect an Assembly Speaker who shall chair the business of the Assembly. 
- * **§II.5(1)** The Assembly Speaker shall be elected through a range vote.
- * **§II.5(2)** The Assembly Speaker shall head the Bureau of the Assembly.
-* **§II.6.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
- * **§II.6(1)** The Bureau of the Assembly shall supervise all Agents of the Assembly.
-* **§II.7.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
- * **§II.7(1)** The Chancellor shall be elected by a range vote whereby each Canton puts forward up to one of its Representatives as a candidate for the Chancellor position. 
- * **§II.7(2)** Upon election, the Chancellor shall choose eight representatives from the assembly to form the Cabinet.
+ * **§IX.6(5)** Representatives that hold no special positions may be replaced by their Canton up to once every year.
+ * **§IX.6(6)** Assembly representatives who hold no special positions shall receive their salary from their respective Cantons. Representatives that hold Cabinet or elected positions shall receive remuneration for their service exclusively from the treasury in accordance with the law.
+* **§IX.7.** The Assembly shall elect an Assembly Speaker who shall chair the business of the Assembly. 
+ * **§IX.7(1)** The Assembly Speaker shall be elected through a range vote.
+ * **§IX.7(2)** The Assembly Speaker shall head the Bureau of the Assembly.
+* **§IX.8.** The business of the Assembly shall be administered by the Bureau of the Assembly of the Free Republic of Liberland.
+ * **§IX.8(1)** The Bureau of the Assembly shall supervise all Agents of the Assembly.
+* **§IX.9.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, who shall act as *head of state* of the Free Republic of Liberland
+ * **§IX.9(1)** The Chancellor shall be elected by a range vote whereby each Canton puts forward up to one of its Representatives as a candidate for the Chancellor position. 
+ * **§IX.9(2)** Upon election, the Chancellor shall choose eight representatives from the assembly to form the Cabinet.
 
-### Article VII - Assembly Powers
-* **§II.8.** The Assembly shall have the power to pass Bills for the following purposes only:
- * **§II.8(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their right  in accordance with this Constitution.
- * **§II.8(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
- * **§II.8(3)** to set the Citizenship fee.
- * **§II.8(4)** to conduct a fundraiser.
- * **§II.8(5)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
-* **§II.9.** The Assembly shall have the power to pass Resolutions for the following purposes only:
- * **§II.9(1)** to appoint and impeach the Chancellor.
- * **§II.9(2)** to appoint and replace the Assembly Speaker.
- * **§II.9(3)** to establish the Assembly Committee.
- * **§II.9(4)** to assent to the incorporation of new territory to the Free Republic of Liberland.
-* **§IV.10.** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
- * **§IV.10(1)** One-fifth of the overall number of Assembly Representatives shall have the power to oblige the Cabinet to consider a draft of a Bill prepared by them, which may be rejected or accepted by the Cabinet as a future Bill.
- * **§IV.10(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
-* **§IV.11.** One-half of the overall number of Assembly Representatives shall have the power to propose a resolution instituting the Assembly Committee.
- * **§IV.11(1)** The resolution shall be passed by a simple majority of the overall number of Assembly Representatives.
- * **§IV.11(2)** The Assembly Committee shall be composed of five Assembly Representatives as proposed in the resolution.
- * **§IV.11(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Agent or Member of the United Cantons Assembly in order to investigate the allegations.
- * **§IV.11(4)** The Assembly Committee shall have the right to subpoena Agents and Members of the United Cantons Assembly to hear testimonies given under oath.
- * **§IV.11(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence, if any, of said misconduct or mismanagement which shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
- * **§IV.11(6)** Should any Agent or Member of the United Cantons Assembly be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
- * **§IV.11(7)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
-* **§II.12.** The Assembly shall have the power to impeach the Chancellor or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
+### Article X - Assembly Powers
+* **§X.1.** The Assembly shall have the power to pass Bills for the following purposes only:
+ * **§X.1(1)** to establish rules and clarifications regarding the peaceful coexistence of Persons, their security, and their right  in accordance with this Constitution.
+ * **§X.1(2)** to conduct the financial affairs of the United Cantons Assembly as provided in Financial Bills;
+ * **§X.1(3)** to set the Citizenship fee.
+ * **§X.1(4)** to conduct a fundraiser.
+ * **§X.1(5)** to ratify international treaties signed by the Chancellor as provided in Treaty Bills.
+* **§X.2.** The Assembly shall have the power to pass Resolutions for the following purposes only:
+ * **§X.2(1)** to appoint and impeach the Chancellor.
+ * **§X.2(2)** to appoint and replace the Assembly Speaker.
+ * **§X.2(3)** to establish the Assembly Committee.
+ * **§X.2(4)** to assent to the incorporation of new territory to the Free Republic of Liberland.
+* **§X.3.** The Assembly Representatives shall have the power to debate on matters important to the well-being of the Republic and inquire into any aspect of work of the Chancellor or any Member of the Cabinet, who shall be under obligation to provide accurate and truthful information.
+ * **§X.3(1)** One-fifth of the overall number of Assembly Representatives shall have the power to oblige the Cabinet to consider a draft of a Bill prepared by them, which may be rejected or accepted by the Cabinet as a future Bill.
+ * **§X.3(2)** Should the Draft be rejected, the Cabinet shall publicly give detailed reasons behind its decision.
+* **§X.4.** One-half of the overall number of Assembly Representatives shall have the power to propose a resolution instituting the Assembly Committee.
+ * **§X.4(1)** The resolution shall be passed by a simple majority of the overall number of Assembly Representatives.
+ * **§X.4(2)** The Assembly Committee shall be composed of five Assembly Representatives as proposed in the resolution.
+ * **§X.4(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Agent or Member of the United Cantons Assembly in order to investigate the allegations.
+ * **§X.4(4)** The Assembly Committee shall have the right to subpoena Agents and Members of the United Cantons Assembly to hear testimonies given under oath.
+ * **§X.4(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence, if any, of said misconduct or mismanagement which shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
+ * **§X.4(6)** Should any Agent or Member of the United Cantons Assembly be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
+ * **§X.4(7)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
+* **§X.5.** The Assembly shall have the power to impeach the Chancellor or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
  
-### Article VIII - Passing of Bills
-* **§IV.13.** The power to initiate a legislative procedure shall lie with the Cabinet only.
- * **§IV.13(3)** A legislative procedure shall involve the Assembly and Cabinet debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
- * **§IV.13(4)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet.
- * **§IV.13(5)** Any Bill which is rejected by the Assembly or the Cabinet shall not be revived until at least one year has passed since it was last rejected.
-* **§IV.13.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
- * **§IV.13(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution, and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
- * **§IV.13(2)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
-* **§IV.14.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
- * **§IV.14(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
- * **§IV.14(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
- * **§IV.14(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
-* **§IV.15.**  Any Bill proposed to the assembly must pass a review by the High Court before any vote can take place. The High Court shall give its opinion on the proposed Bill within a timeframe of three weeks after which the Bill must be voted on.  
-* **§IV.16.** The Cabinet shall have the power to propose five types of Bills:
- * **§IV.16(1)** an ordinary Bill;
- * **§IV.16(2)** a Constitutional Bill;
- * **§IV.16(3)** a Citizenship Fee Bill;
- * **§IV.16(4)** a Treaty Bill;
- * **§IV.16(5)** a Financial Bill.
-* **§IV.17.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
- * **§IV.17(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
- * **§IV.17(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
-* **§IV.18.** A Constitutional Bill shall propose an Amendment to this Constitution.
- * **§IV.18(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
- * **§IV.18(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
- * **§IV.18(2)** a Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
-* **§IV.19.** A Citizenship Fee Bill shall propose to alter the Citizenship Fee of the Free Republic of Liberland.
- * **§IV.19(1)** All Citizenship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
- * **§IV.19(2)** All Citizenship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
- * **§IV.19(3)** The Citizenship Fee shall be levied for one or more of the following purposes only:
-  * **§IV.19(3)(a)** maintaining the United Cantons Assembly and it's Departments;
-  * **§IV.19(3)(b)** maintaining the High Court of the Free Republic of Liberland;
-  * **§IV.19(3)(d)** maintaining the Armed Forces and the National Security of the Free Republic of Liberland;   
-* **§IV.20.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
- * **§IV.20(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
- * **§IV.20(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
- * **§IV.20(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
-  * **§IV.20(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
-* **§IV.21.** The Financial Bill shall contain the provisions of the Annual Budget.
- * **§IV.21(1)** The Financial Bill shall be passed by a simple majority vote of the overall number of Assembly Representatives.
- * **§IV.21(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
- * **§IV.21(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
- * **§IV.21(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
- * **§IV.21(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the United Cantons Assembly.
-* **§IV.22.** The Annual Budget shall constitute the only source of financial provisions for the United Cantons Assembly.
- * **§IV.22(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
- * **§IV.22(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
- * **§IV.22(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
- * **§IV.22(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
- * **§IV.22(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Cantons who
+### Article XI - Passing of Bills
+* **§XI.1.** The power to initiate a legislative procedure shall lie with the Cabinet only.
+ * **§XI.1(1)** A legislative procedure shall involve the Assembly and Cabinet debating on and passing or rejecting any Bill or Bills submitted by the Cabinet.
+ * **§XI.1(2)** The Assembly and the Cabinet shall be under obligation to vote on each and every Bill submitted by the Cabinet.
+ * **§XI.1(3)** Any Bill which is rejected by the Assembly or the Cabinet shall not be revived until at least one year has passed since it was last rejected.
+* **§XI.2.** Any Bill proposed to the Assembly by the Cabinet shall be debated and voted on once only.
+ * **§XI.2(1)** No vote whatsoever shall take place unless the Bureau of the Assembly has published in advance a schedule of the affairs of the Assembly, including the contents of any proposed Bill or Resolution, and made an official record of the Yeas and Nays of all Assembly Representatives taking part in the vote.
+ * **§XI.2(2)** Every Assembly Representative shall have the right to express his or her opinion on the proposed Bill or Resolution at least once before the vote takes place, without any time limit.
+* **§XI.3.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title.
+ * **§XI.3(1)** The Bill shall state that which it is intended to procure and the means by which those objectives shall be procured including as precise an estimate as practicable of the direct effect of the Bill, if any, upon the Annual Budget.
+ * **§XI.3(2)** The Bill shall specify under which power delegated by this Constitution to the Assembly it is proposed.
+ * **§XI.3(3)** The Bill shall be read aloud in its entirety by the Assembly Speaker before it is voted on.
+* **§XI.4.**  Any Bill proposed to the assembly must pass a review by the High Court before any vote can take place. The High Court shall give its opinion on the proposed Bill within a timeframe of three weeks after which the Bill must be voted on.  
+* **§XI.5.** The Cabinet shall have the power to propose five types of Bills:
+ * **§XI.5(1)** an ordinary Bill;
+ * **§XI.5(2)** a Constitutional Bill;
+ * **§XI.5(3)** a Citizenship Fee Bill;
+ * **§XI.5(4)** a Treaty Bill;
+ * **§XI.5(5)** a Financial Bill.
+* **§XI.6.** An ordinary Bill shall pertain to any matter within the powers of the Assembly which is not reserved for any other type of Bill.
+ * **§XI.6(1)** All ordinary Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+ * **§XI.6(2)** All ordinary Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
+* **§XI.7.** A Constitutional Bill shall propose an Amendment to this Constitution.
+ * **§XI.7(1)** All Constitutional Bills shall be passed with a majority of three-quarters of the overall number of Assembly Representatives.
+ * **§XI.7(2)** All Constitutional Bills shall be subject to the power of general veto by the Citizens as provided in §II.25.
+ * **§XI.7(3)** A Constitutional Bills that sets to make changes to the Bill of Rights must, in addition to being passed in the assembly, pass in a national referendum with over three-quarters approval.
+* **§XI.8.** A Citizenship Fee Bill shall propose to alter the Citizenship Fee of the Free Republic of Liberland.
+ * **§XI.8(1)** All Citizenship Fee Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+ * **§XI.8(2)** All Citizenship Fee Bills shall be subject to the power of general veto by the Citizens as provided in §IV.24.
+ * **§XI.8(3)** The Citizenship Fee shall be levied for one or more of the following purposes only:
+  * **§XI.8(3)(a)** maintaining the United Cantons Assembly and it's Departments;
+  * **§XI.8(3)(b)** maintaining the High Court of the Free Republic of Liberland;
+  * **§XI.8(3)(c)** maintaining the Armed Forces and the National Security of the Free Republic of Liberland;   
+* **§XI.9.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
+ * **§XI.9(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
+ * **§XI.9(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
+ * **§XI.9(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
+ * **§XI.9(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
+* **§XI.10.** The Financial Bill shall contain the provisions of the Annual Budget.
+ * **§XI.10(1)** The Financial Bill shall be passed by a simple majority vote of the overall number of Assembly Representatives.
+ * **§XI.10(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
+ * **§XI.10(3)** The Financial Bill shall contain an Alteration Clause which shall enable the Cabinet to exercise delegated power in order to alter the provisions of the Annual Budget.
+ * **§XI.10(4)** The Alteration Clause shall be exercisable should it become apparent that the actual revenue will not meet the anticipated revenue as provided in the Annual Budget.
+ * **§XI.10(5)** The Executive Measure altering the provisions of the Annual Budget shall only be capable of reducing the spending of the United Cantons Assembly.
+* **§XI.11.** The Annual Budget shall constitute the only source of financial provisions for the United Cantons Assembly.
+ * **§XI.11(1)** The Annual Budget shall be financed from the State Treasury maintained by the Department of Treasury.
+ * **§XI.11(2)** No provision of the Annual Budget shall provide for any spending which is not authorised by this Constitution.
+ * **§XI.11(3)** The Annual Budget shall be calculated using realistic assumptions as to the anticipated revenue so that the anticipated revenue does not exceed the actual revenue.
+ * **§XI.11(4)** The size of the Annual Budget shall not exceed the previous year’s actual revenue.
+ * **§XI.11(5)** Should the funds gathered in the State Treasury not be able to cover the deficit, all Cantons who
   voted in favor of the Financial Bill shall cover the remaining difference with their own personal assets, divided equally.
-* **§IV.23.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
-* **§IV.24.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
-* **§IV.25.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
+* **§XI.12.** A Bill shall become “Passed” upon passage by the Assembly and provisions of this Article.
+* **§XI.13.** A Bill shall become “Under Consideration” upon passing in the assembly pending the consideration by the Citizens.
+* **§XI.14.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act”, once it has become “Under Consideration” in accordance with §IV.26., and either sixty days have passed and no referendum has been called in accordance with §IV.22., or on the day the Bill obtained the assent of the Citizens in referendum under §IV.22. or §IV.23.
 
-### Article IX - Citizen Veto Power
+### Article XII - Citizen Veto Power
 * **§IX.22.** All ordinary Bills, Treaty Bills and Financial Bills passed by the Assembly be subject to the right of general veto by the Citizens as expressed in a referendum.
  * **§IX.22(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens, and shall be submitted within sixty days after the Bill was passed in the assembly
  * **§IX.22(2)** The Bill shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
@@ -223,7 +223,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§IX.25(1)** Such referendum shall be triggered by the request of 5% of the overall number of Citizens,and shall be submitted within sixty days after the Budget has been set by the Chief Justice of the High Court.
  * **§IX.25(2)** The Budget shall be deemed vetoed unless a simple majority of all Citizens taking part in the referendum vote “Aye”.
 
-### Article X - Cabinet Structure and Proceedings
+### Article XIII - Cabinet Structure and Proceedings
 * **§V.2.** The Cabinet shall be formed and presided over by the Chancellor of the Free republic of Liberland.
  * **§V.2(1)** The Cabinet shall be composed of the Chancellor, the Vice-Chancellor, Four Secretaries of their respective departments, and three additional Secretaries with no official position.
  * **§V.2(2)** All Members of the Cabinet shall have full participation in all matters concerning the Republic. This shall include the right to vote on Cabinet decisions and access to classified information. No special or limited Cabinet shall be established in The United Cantons Assembly.   
@@ -256,7 +256,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§V.11(5)** The Chief Attorney of the Republic shall be under obligation to take all available measures to ensure the Cabinet is provided with precise and impartial advice as to its powers and obligations under the Constitution, international law and the current domestic law of the Free Republic of Liberland.
  * **§V.11(6)** The Chief Attorney and all Attorneys employed in the Office of the Chief Attorney must hold full Citizenship.
 
-### Article XI - Cabinet Powers
+### Article XIV - Cabinet Powers
 * **§V.7.** The powers of the Cabinet shall be restricted to the following only:
  * **§V.7(1)** to run day-to-day state affairs;
  * **§V.7(2)** to initiate a legislative procedure;
@@ -269,7 +269,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§V.7(10)** to be the Commander-in-Chief of the Armed forces of Liberland;
  * **§V.7(11)** to grant Citizenship and Residency in the Free Republic of Liberland in accordance with this Constitution and any laws passed in accordance therewith.
 
-### Article VI - Cabinet obligations and limitations
+### Article XV - Cabinet obligations and limitations
 * **§VI.1.** The Cabinet shall facilitate the registration of Cantons through the Department of Internal Affairs.
  * **§VI.1(1).** The department of Internal Affairs shall be obligated to register Cantons that meet the Registration Requirements as described in Article VI.
 * **§VI.2.** The Cabinet shall be obligated to ensure the transparency of its own business and that of the assembly.
@@ -280,7 +280,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 ## Chapter 5: The High Court
 The High Court of the Free Republic of Liberland shall be established for the purpose of judging and nothing else. It shall offer opinions on a range of topics as defined in this chapter. Such opinions shall include offering statments on the constitutionality of Bills passed in the assembly as well as supervising referendums and the business of the United Cantons Assembly. The High Court shall also act as the Court of last resort in the Free Republic of Liberland.
 
-### Article XX - High Court Structure and Proceedings
+### Article XVI - High Court Structure and Proceedings
 * **§XX.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XX.2.** The Chief Justice of the High Court shall be elected by the Citizens once every twenty years by use of a range vote.
  * **§XX.2(1).** All candidates for the Chief Justice position must: (a) be no younger than thirty-five years of age (b) be qualified lawyers who have served at least seven years as a judge in a Constitutional ourt. (c) hold full Citizenship.
@@ -296,7 +296,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 * **§XX.7.** The High Courts annual budget shall be determined by the Chief Justice and shall come directly from the treasury.
  * **§XX.7(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article IX.
 
-### Article XXI - High Court Powers
+### Article XVII - High Court Powers
 * **§XXI.1.** The powers of the High Court shall be restricted to the following only:
  * **§XXI.1(1)** to provide opinions on past and future Bills in accordance with this constitution;
  * **§XXI.1(2)** to judge the legality and fairness of referendums and the business of the United Cantons Assembly; 
@@ -305,7 +305,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XXI.1(5)** to judge the legitimacy of the use of a veto by any Canton;
 * **§XXI.2** Under no circumstances shall the High Court have the power to strike down Bills or be involved in legislation in any way.
 
-### Article XXII - Obligations of the High Court
+### Article XVIII - Obligations of the High Court
 * **§XXI.1** The High Court shall have the following Obligations:
  * **§XXI.1(1)** to safeguard the rights and liberties of the people of the Free Republic of Liberland; 
  * **§XXI.1(2)** to interpret the Constitution in good faith.
@@ -316,13 +316,13 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 ## Chapter 7: The Judiciary
 The Judiciary in the Free Republic of Liberland, in addition to The High Court, shall be composed of independent Private Courts who shall run their own affairs and be in charge of their own financing. The Private Courts of the Free Republic of Liberland shall have no power of enforcement on their own, but shall rely on the Cantons and the People to enforce their verdicts. The following Chapter will lay down the Constitutional Standard for Private Courts in the Free Republic of Liberland. Private Courts who do not follow this standard shall be considered Unconstitutional and shall not have their verdicts enforced by the Cantons and the People.   
 
-### Article XXIII - Principals of the Judiciary
+### Article XIX - Principals of the Judiciary
 * **§XXIII.1.** The purpose of the Judiciary is to safeguard the rights of the People and provide them with justice to the best of its abilities.  
 * **§XXIII.2.** All disputes between peoples and institutions shall fall within the scope of the Judiciary. This shall include disputes involving the Cantons, The United Cantons Assembly, The Armed Forces, and the Judiciary itself.
 * **§XXIII.3.** The Judiciary shall resolve disputes in accordance with this constitution which it shall interpret in good faith. 
 * **§XXIII.4.** The Judiciary shall rely on objective facts and evidence in order to reach its verdict. 
 
-### Article XXIV - Judiciary Structure and Proceedings
+### Article XX - Judiciary Structure and Proceedings
 * **§XXIV.1.** All trials in a court shall take place before either a judge, a panel of judges, or a jury. 
 * **§XXIV.2.** trials before a panel of judges shall begin with no more than eight judges who shall give a verdict of “Guilty” or “Not guilty. 
 * **§XXIV.3.** A trial shall proceed according to common courtroom Etiquette.
@@ -345,7 +345,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
   * **§XXIV.5(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
  * **§XXIV.5(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defense as well as all court fees unless there is a compelling reason otherwise.
 
-### Article XXV - Issuing of Warrants
+### Article XXI - Issuing of Warrants
 * **§XXV.1.** The Judiciary shall have the ability to issue Warrants granting the use of force against individuals.
 * **§XXV.2.** Warrants issued by the Judiciary shall fall into four categories: (1) Search Warrant, (2) Arrest Warrant, (3) Forfeiture Warrant, (4) Penalty Warrant
  * **§XXV.2(1)** A Search Warrant shall be granted by a court only upon probable cause. The Warrant shall allow for the searching of a person's property and belongings. 
@@ -355,7 +355,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXV.3.** All Warrants shall be of limited scope and shall include specific details about (a) type of Warrant (b) who is allowed to carry out the Warrant (c) to whom the Warrant is subject to (d) reason for the Warrant (e) time and date for carrying out the Warrant (f) the method by which the Warrant will be carried out.
 * **§XXV.4.** In addition to the issuing Warrants, the Judiciary shall have the ability to issue a Law Enforcement permit. Such a permit shall grant an institution or individual the right to arrest a person suspected of committing a crime or a misendeavor for up to ten hours. Any Law Enforcement permit shall be given only to institutions and individuals whom the court believes to be responsible and professional. Once the Permit is issued it shall last for seven years after which it must be renewed.
  
-### Article XXVI - Rules of the Court
+### Article XXII - Rules of the Court
 * **§XXVI.1.** No trial shall begin unless the court in which the trial is taking place has been agreed to by all parties involved in the case.  
 * **§XXVI.2.** Before a trial begins each party to the case must place in escrow the full fee for the court. At the end of the trial, only the losing side shall be obliged to pay the court fee. 
 * **§XXVI.3.** Should no court be agreed upon by parties involved in a case within thirty days or should the accused party not cooperate in the process of choosing a court the prosecuting party shall have the right to request a reasonably priced court to be chosen in random or by a neutral third party. Such a request shall be carried out and supervised by any court chosen by the prosecuting party.
@@ -364,7 +364,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXVI.5.** Fallowing a verdict by the court, the defendant shall reserve the right to appeal to another court if he or she believes there was a mistake. The process for choosing an appellate court shall be the same as choosing a trial court only that this time, it is the defendant who shall have the right to request court as described in provision XXVI.3.
 * **§XI.14.** No evidence which has been obtained contrary to law or the Constitution shall be admitted in the Court unless such evidence has already been made public.
 
-### Article XXVII - Defendant rights
+### Article XXIII - Defendant rights
 * **§XXVII.1.** All defendants in criminal proceedings shall have the right to a speedy trial and sentencing; in any event, no Person shall be convicted of a criminal offence later than a year after a Warrant permitting the detention of such Person was executed in connection with that offence; should said Person escape or allegedly commit any subsequent criminal offence, he or she may be subjected to another full year of detention.
 * **§XXVII.2.** All defendants in criminal proceedings shall have the right to attend Court proceedings, to be informed of criminal charges and of his or her rights, to request witnesses to appear in Court for examination, to confront the accuser and to examine all evidence gathered against him or her.
 * **§XXVII.3.** All defendants in criminal proceedings shall have the right to be presumed innocent until proven guilty and to not be compelled to be a witness against himself or herself, or such other Persons as may be prescribed by law, without any negative inference; the Prosecution shall at all times carry the legal burden of proof, discharged beyond reasonable doubt, in relation to the defendant's guilt, including disproving any defence envisaged by the law which he or she might raise; nothing in this provision shall prevent the creation of defences which require the defendant to discharge the evidential burden of proof by raising the issue of defence available to him or her.
@@ -372,13 +372,13 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 ## Chapter 8: Security and The Armed Forces
 The Armed Forces of the Free Republic of Liberland, under the command the Chief of General Staff, shall be responsible for defending the existence of the Republic and the safety of its population against external threats.
 
-### Article XXIII - Main principles of the Armed Forces.
+### Article XXIV - Main principles of the Armed Forces.
 * **§XXVIII.1.** The Armed Forces shall be under the command the Chief of General Staff who shall answer directly to the Cabinet.  
 * **§XXVIII.2.** The Armed Forces shall defend against external threats only and under no circumstances should it be used for domestic purposes.
 * **§XXVIII.3.** The Armed Forces shall not be deployed for any purpose other than that which serves the national security interests of the Republic
 * **§XXVIII.4.** The Armed Forces shall at all times function as a professional army and shall under no circumstances introduce any form of forced conscription.
 
-### Article XXIV - Deployment and control over the Armed Forces.
+### Article XXV - Deployment and control over the Armed Forces.
 * **§XXVIV.1.** The Armed Forces shall be deployed only upon an order passed down from the Cabinet.
 * **§XXVIV.2.** Any deployment or operation of the Armed Forces which could lead to an armed conflict must have the full backing of the Chancellor of the Republic. 
 * **§XXVIV.3.** At any time the Citizens of the Republic shall have the right to initiate a referendum to take control of the Armed Forces. 
@@ -392,14 +392,14 @@ The Armed Forces of the Free Republic of Liberland, under the command the Chief 
 
 The Constitution of the Free Republic of Liberland shall be construed in the light of Overriding and Interpretive provisions and shall enter into force upon the conditions prescribed in the Transitional provisions.
 
-### Article XVII: Interpretive Provisions
+### Article XXVI: Interpretive Provisions
 
 * **§XVII.1.** The jurisdiction of the Free Republic of Liberland shall extend to the whole territory of the Free Republic of Liberland, including premises of any of its extraterritorial diplomatic missions, its airspace, territorial waters, all vehicles registered therein whilst in an international space, and any area under the overall effective control of the Armed Forces force.
 * **§XVII.2.** Any ambiguity in this Constitution and any laws passed in accordance therewith shall be resolved so as to give the greatest liberty from restraint imposed by law or this Constitution on any Person's conduct; consistent with the clear meaning of the provision in question.
 * **§XVII.3.** The Constitution of the Free Republic of Liberland shall be interpreted in good faith and literally, as far as it does not produce any absurd result, with due regard to the original intention behind its provisions; in case of doubt, consideration may be given to any statements or notes related to the text made before or at the time of its adoption.
 * **§XVII.4.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated for any purpose envisaged in the Constitution; the term “Citizen” shall signify any Person holding citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "law" shall signify any Act passed by the Assembly in accordance with Article VIII.
 
-### Article XVIII: Shareholders Rights
+### Article XXVII: Shareholders Rights
 * **§XVIII.1.** Shares in the Free Republic of Liberland shall be non-transferable and shall exist for the lifespan of the Shareholder.
 * **§XVIII.2.** One-hundred and forty thousand shares shall exist in total.
 * **§XVIII.2.** No individual shall acquire more than two thousand shares.
@@ -409,7 +409,7 @@ The Constitution of the Free Republic of Liberland shall be construed in the lig
 * **§XVIII.4.** All plots of land owned by a Shareholder shall be adjacent to one another and shall be distributed to him as one plot of land.
 
 
-### Article XVIV: Transitional Provisions
+### Article XXVIII: Transitional Provisions
 
 * **§XVIII.1.** The first General Election shall be called by the Provisional Government of the Free Republic of Liberland in order to elect an Assembly composed of twenty members.
 * **§XVIII.2.** Immediately following the first General Election, the President of the Provisional Government shall put forward to the Assembly a draft of this Constitution of the Free Republic of Liberland along with the nomination of any five Persons for the positions of the first four Justices and the Chief Justice of the High Court.
