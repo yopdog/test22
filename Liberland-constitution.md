@@ -38,7 +38,7 @@ as sub/non-human; to be seen as having free will and moral responsibility; to be
 * **§II.2.** All persons of age and of sufficient mental capacity shall be fully responsible for their actions; no consensual act between such persons shall be considered a crime; persons who are not of age or of sufficient mental capacity may have their rights and responsibilities limited only so far as is necessary for their own protection and well-being.
 * **§II.3.** No form of taxation, forced redistribution of wealth, or eminent domain shall exist in the Free Republic of Liberland.
 * **§II.4.** The rights in this bill shall apply to collections of individuals as well, i.e. organizations, companies, communities.
-* **§II.5.** Collection of private information or the searching of private property may be otherized if a Warrant, based on probable cause and limited scope, is issued by a Constitutional Court.
+* **§II.5.** Collection of private information or the searching of private property may be otherized if a Warrant, based on probable cause and limited scope, is issued by a court.
 
 ### Article III - Overriding Provisions
 * **§III.1.** Notwithstanding any provision of this Bill of Rights, the United Cantons Assembly shall have the power to pass Bills regulating the flow of Persons, goods, services and capital across the border of the Free Republic of Liberland. Such regulations shall be introduced for the purpose of good relations with other countries and shall retain as much as possible the rights and freedoms of this bill. 
@@ -149,7 +149,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§X.4(3)** The Assembly Committee shall be established upon a suspicion of misconduct or mismanagement of any Agent or Member of the United Cantons Assembly in order to investigate the allegations.
  * **§X.4(4)** The Assembly Committee shall have the right to subpoena Agents and Members of the United Cantons Assembly to hear testimonies given under oath.
  * **§X.4(5)** The Assembly Committee shall prepare the Final Conclusions reporting evidence, if any, of said misconduct or mismanagement which shall be made public and passed to the Chief Public Prosecutor for consideration of potential criminal prosecution of relevant Persons as described by the Committee.
- * **§X.4(6)** Should any Agent or Member of the United Cantons Assembly be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in the Criminal Court.
+ * **§X.4(6)** Should any Agent or Member of the United Cantons Assembly be found by the Assembly Committee to be in breach of the rules of conduct binding him or her in the official capacity, the Committee shall have the power to punish him or her financially according to the relevant rules; testimonies given in breach of oath shall be prosecuted in a regular manner in a court.
  * **§X.4(7)** The Assembly Committee shall only deal with the matter for which it was established and shall disband no later than one year after its creation.
 * **§X.5.** The Assembly shall have the power to impeach the Chancellor or the Vice-Chancellor where applicable, along with the Cabinet by passing a Motion of No Confidence with a simple majority vote of the overall number of Assembly Representatives provided there is a simple majority for a prospective successor.
  
@@ -189,8 +189,8 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 * **§XI.9.** A Treaty Bill shall propose ratification of an international treaty signed by the Chancellor.
  * **§XI.9(1)** All Treaty Bills shall be passed with a majority of two-thirds of the overall number of Assembly Representatives.
  * **§XI.9(2)** All Treaty Bills shall be subject to the power of general veto by the Citizens as provided in §II.24.
- * **§XI.9(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the Courts of the Free Republic of Liberland.
- * **§XI.9(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic Courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
+ * **§XI.9(3)** Should any international treaty be capable by virtue of its contents of bestowing rights upon, or creating obligations for, Persons, such rights and/or obligations shall be directly enforceable before the courts of the Free Republic of Liberland.
+ * **§XI.9(4)** Where an international treaty ratified by the Assembly renders the Free Republic of Liberland a member of any international organisation which issues any form of legal document that purports to bestow rights upon, and/or create obligations for, Persons, directly enforceable in the domestic courts, such legal documents shall be of no effect unless they are separately ratified each time by the Assembly in the form of a Treaty Bill.
 * **§XI.10.** The Financial Bill shall contain the provisions of the Annual Budget.
  * **§XI.10(1)** The Financial Bill shall be passed by a simple majority vote of the overall number of Assembly Representatives.
  * **§XI.10(2)** The Financial Bill shall be subject to the power of general veto by the Citizens as provided in §II.24.
@@ -335,12 +335,12 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
  * **§XX.4(6)** The Jury shall render the verdict free from any form of coercion and, should the situation require, the Judge may order sequestration of the Jurors in order to ensure their independence.
  * **§XX.4(7)** The Judge shall have the power to order a retrial where the Jury is not able to render a verdict within a reasonable time or where he or she has reasonable grounds to question its independence.
  * **§XX.4(8)** All defendants who have been convicted by the Jury shall be sentenced by the Judge as prescribed by law.
- * **§XX.4(9)** The Court may exercise jurisdiction over international crimes provided the accused is present within the jurisdiction of the Free Republic of Liberland.
-* **§XX.5.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant Court.
+ * **§XX.4(9)** The court may exercise jurisdiction over international crimes provided the accused is present within the jurisdiction of the Free Republic of Liberland.
+* **§XX.5.** Any civil and criminal proceedings shall be preceded by a Preliminary Hearing held by one Judge of the relevant court.
  * **§XX.5(1)** A defendant at a Preliminary Hearing shall enter his or her positions in relation to the claim or prosecution brought against him or her.
  * **§XX.5(2)** The Judge at a Preliminary Hearing shall have the power to issue preliminary Warrants which shall be reviewable at a full trial.
  * **§XX.5(3)** The Judge at a Preliminary Hearing shall review the prima facie validity of the claim or prosecution and shall dismiss the case before it proceeds to a full trial where:
-  * **§XX.5(3)(a)** no probable cause has been proven to the satisfaction of the Court;
+  * **§XX.5(3)(a)** no probable cause has been proven to the satisfaction of the court;
   * **§XX.5(3)(b)** he or she is satisfied that the claim or prosecution would be contrary to the Constitution;
   * **§XX.5(3)(c)** defendant's procedural rights as laid down in the Constitution and/or any laws passed in accordance therewith have been violated and such a violation has prejudiced his or her case.
  * **§XX.5(4)** Should a claim or a prosecution be dismissed as frivolous at a Preliminary Hearing, the plaintiff or the prosecutor shall ordinarily be ordered to cover all reasonable expenses of the defendant connected to his or her legal defense as well as all court fees unless there is a compelling reason otherwise.
@@ -362,11 +362,11 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXII.4.** Should a party refuse to pay the court fee the court may issue a Forfeiture Warrant forcing the party to pay.
 * **§XXII.5.** Should the accused party be financially unable to pay the court fee, the fee shall be paid by the prosecuting party alone. Should the accused party than lose the case, he or she will be indebted to the prosecuting party to an amount equal to the original court fee.
 * **§XXII.6.** Fallowing a verdict by the court, the defendant shall reserve the right to appeal to another court if he or she believes there was a mistake. The process for choosing an appellate court shall be the same as choosing a trial court only that this time, it is the defendant who shall have the right to request court as described in provision XXVI.3.
-* **§XXII.7.** No evidence which has been obtained contrary to law or the Constitution shall be admitted in the Court unless such evidence has already been made public.
+* **§XXII.7.** No evidence which has been obtained contrary to law or the Constitution shall be admitted in the court unless such evidence has already been made public.
 
 ### Article XXIII - Defendant rights
 * **§XXIII.1.** All defendants in criminal proceedings shall have the right to a speedy trial and sentencing; in any event, no Person shall be convicted of a criminal offence later than a year after a Warrant permitting the detention of such Person was executed in connection with that offence; should said Person escape or allegedly commit any subsequent criminal offence, he or she may be subjected to another full year of detention.
-* **§XXIII.2.** All defendants in criminal proceedings shall have the right to attend Court proceedings, to be informed of criminal charges and of his or her rights, to request witnesses to appear in Court for examination, to confront the accuser and to examine all evidence gathered against him or her.
+* **§XXIII.2.** All defendants in criminal proceedings shall have the right to attend court proceedings, to be informed of criminal charges and of his or her rights, to request witnesses to appear in court for examination, to confront the accuser and to examine all evidence gathered against him or her.
 * **§XXIII.3.** All defendants in criminal proceedings shall have the right to be presumed innocent until proven guilty and to not be compelled to be a witness against himself or herself, or such other Persons as may be prescribed by law, without any negative inference; the Prosecution shall at all times carry the legal burden of proof, discharged beyond reasonable doubt, in relation to the defendant's guilt, including disproving any defence envisaged by the law which he or she might raise; nothing in this provision shall prevent the creation of defences which require the defendant to discharge the evidential burden of proof by raising the issue of defence available to him or her.
 
 ## Chapter 8: Security and The Armed Forces
