@@ -92,15 +92,15 @@ and shall collect their own revenue through voluntary membership fees.
 * **§VII.3.** No legal authority other than the Constitution shall exist over the Cantons.
 * **§VII.4.** Cantons shall be free to choose which laws to enforce and which courts to recognize.
 * **§VII.5.** Cantons shall Represent their Citizen members in the United Cantons Assembly.
-* **§VII.6.** Cantons need to be registered in the United Cantons Assembly in order to participate in it. 
-* **§VII.7.** Cantons have a de facto veto power on laws passed in the United Cantons Assembly if they refuse to allow a law to be enforced on their members. The legitimacy of such a veto shall be judged on a case by case basis in accordance to the constitution.
-* **§VII.8.** disputes between Cantons shall be solved in peaceful and civic manner.
+* **§VII.6.** Cantons must be registered in the United Cantons Assembly in order to participate in it. 
+* **§VII.7.** Cantons have a de facto veto power on laws passed in the United Cantons Assembly if they refuse to allow a law to be enforced on their own members. The legitimacy of such a veto shall be judged on a case by case basis in accordance to the constitution.
+* **§VII.8.** All disputes between Cantons shall be solved in peaceful and civic manner.
 
 ### Article VIII - Canton Registration Requirements
 * **§VIII.1.** All Cantons must meet the following Requirements:
  * **§VIII.1(1).** they must be in the business of offering protection and security services to their members.
  * **§VIII.1(2).** they must be legally owned by Citizens.
- * **§VIII.1(3).** they must not receive financial contributions from any foreign government.
+ * **§VIII.1(3).** they must not receive financial contributions from any foreign government or political organization.
 
 ## Chapter 4: The United Cantons Assembly 
 The United Cantons Assembly shall be established for the purpose of facilitating negotiations, agreements, and consensus among
