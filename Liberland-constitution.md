@@ -73,14 +73,14 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  * **§VI.1(1)** to be represented in the United Cantons Assembly through their Canton;
  * **§VI.1(2)** to elect the Chief Justice of the High Court;
  * **§VI.1(3)** to veto Bills in Accordance to Article XII;
- * **§VI.1(3)** to veto the High Courts Budget in Accordance to Article XII;
- * **§VI.1(3)** to impeach the Chief Justice of the High Court. 
- * **§VI.1(4)** to initiate a referendum to take control over the Armed Forces of Liberland;
- * **§VI.1(5)** to access Public institutions;
- * **§VI.1(6)** to access to information concerning the day to day affairs of the Assembly;
- * **§VI.1(7)** to hold any position in the United Cantons Assembly;
- * **§VI.1(8)** to become a High Court justice or run for the Chief Justice position;
- * **§VI.1(9)** to hold any commanding position in the Armed Forces of liberland.
+ * **§VI.1(4)** to veto the High Courts Budget in Accordance to Article XII;
+ * **§VI.1(5)** to impeach the Chief Justice of the High Court. 
+ * **§VI.1(6)** to initiate a referendum to take control over the Armed Forces of Liberland;
+ * **§VI.1(7)** to access Public institutions;
+ * **§VI.1(8)** to access to information concerning the day to day affairs of the Assembly;
+ * **§VI.1(9)** to hold any position in the United Cantons Assembly;
+ * **§VI.1(10)** to become a High Court justice or run for the Chief Justice position;
+ * **§VI.1(11)** to hold any commanding position in the Armed Forces of liberland.
 
 ## Chapter 3: The Cantons
 The Cantons shall be established for the purpose of defending the rights of the people of the Free Republic of Liberland. The Cantons shall be Independent and shall be responsible for enforcing the law. Cantons can be established through private initiative and there is no limit to the number of Cantons that can be established. In addition to defending the rights of the people, the Cantons shall represent Citizens in the United Cantons Assembly.
