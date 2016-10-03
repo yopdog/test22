@@ -230,10 +230,10 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
  * **§XIII.2(3)** All Members of the Cabinet shall receive remuneration for their service as provided in the Annual Budget.
  * **§XIII.2(4)** No Person shall hold the office of Member of the Cabinet whilst holding any position in The United Cantons assembly or in the private sector concurrently.
  * **§XIII.2(5)** Should the Vice-Chancellor or any Secretary cease to hold his or her office, the Chancellor shall be responsible for finding a replacement.
- * **§XIII.2(6)** Should the Chancellor, or Vice-Chancellor where applicable, resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article IV.
+ * **§XIII.2(6)** Should the Chancellor, or Vice-Chancellor where applicable, resign, the Assembly shall elect a new Chancellor in accordance with the provisions of Article IX.
 * **§XIII.3.** Should the Chancellor become unable to perform one’s duties, the Vice-Chancellor shall take his place.
- * **§XIII.3(1)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence passed by the Assembly in accordance with Article VI.
- * **§XIII.3(2)** Should the Chancellor's not return or be expected to return within sixty days, the assembly shall elect a new Chancellor in accordance with Article VI.
+ * **§XIII.3(1)** The Vice-Chancellor shall perform the duties of the Chancellor until his or her return or resignation upon a Motion of No Confidence passed by the Assembly in accordance with Article X.
+ * **§XIII.3(2)** Should the Chancellor's not return or be expected to return within sixty days, the assembly shall elect a new Chancellor in accordance with Article IX.
 * **§XIII.4.** The Cabinet shall secure the borders of the Free Republic of Liberland and duly maintain an immigration system as prescribed by law; in foreign affairs, the Cabinet shall above all act in the interests of the Free Republic of Liberland.
 * **§XIII.5.** The Chancellor, on behalf of the Cabinet, shall once a year, on the thirteenth day of April, publicly give to the Assembly information on the State of the Republic, and recommend to their consideration such measures as the Cabinet shall judge necessary.
 * **§XIII.6.** The Cabinet shall consist of the following Departments only:
@@ -271,7 +271,7 @@ the Cantons of the Free Republic of Liberland. This shall include voting on bill
 
 ### Article XV - Cabinet obligations and limitations
 * **§XV.1.** The Cabinet shall facilitate the registration of Cantons through the Department of Internal Affairs.
- * **§XV.1(1).** The department of Internal Affairs shall be obligated to register Cantons that meet the Registration Requirements as described in Article VI.
+ * **§XV.1(1).** The department of Internal Affairs shall be obligated to register Cantons that meet the Registration Requirements as described in Article VIII.
 * **§XV.2.** The Cabinet shall be obligated to ensure the transparency of its own business and that of the assembly.
 * **§XV.3.** The Cabinet or any other body in the United Cantons Assembly shall be forbidden from holding private information such as fingerprints, DNA, religion or political affiliation on any Citizens or Resident in the Republic. Information on Citizens shall be kept to the minimum necessary in order to identify them as persons holding Citizenship.
 * **§XV.4.** The Cabinet or any other body in the United Cantons Assembly shall have the obligation to remove any information collected on a Citizen or Resident living in the Republic upon his or her request.  
@@ -396,7 +396,7 @@ The Constitution of the Free Republic of Liberland shall be construed in the lig
 * **§XXVI.1.** The jurisdiction of the Free Republic of Liberland shall extend to the whole territory of the Free Republic of Liberland, including premises of any of its extraterritorial diplomatic missions, its airspace, territorial waters, all vehicles registered therein whilst in an international space, and any area under the overall effective control of the Armed Forces force.
 * **§XXVI.2.** Any ambiguity in this Constitution and any laws passed in accordance therewith shall be resolved so as to give the greatest liberty from restraint imposed by law or this Constitution on any Person's conduct; consistent with the clear meaning of the provision in question.
 * **§XXVI.3.** The Constitution of the Free Republic of Liberland shall be interpreted in good faith and literally, as far as it does not produce any absurd result, with due regard to the original intention behind its provisions; in case of doubt, consideration may be given to any statements or notes related to the text made before or at the time of its adoption.
-* **§XXVI.4.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated for any purpose envisaged in the Constitution; the term “Citizen” shall signify any Person holding citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "law" shall signify any Act passed by the Assembly in accordance with Article VIII.
+* **§XXVI.4.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated for any purpose envisaged in the Constitution; the term “Citizen” shall signify any Person holding citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "law" shall signify any Act passed by the Assembly in accordance with Article XI.
 
 ### Article XXVII: Shareholders Rights
 * **§XXVII.1.** Shares in the Free Republic of Liberland shall be non-transferable and shall exist for the lifespan of the Shareholder.
