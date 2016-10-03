@@ -72,8 +72,8 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
 * **§VI.1** All Citizens of the Free Republic of Liberland shall have the following Civil Rights: 
  * **§VI.1(1)** to be represented in the United Cantons Assembly through their Canton;
  * **§VI.1(2)** to elect the Chief Justice of the High Court;
- * **§VI.1(3)** to veto Bills in Accordance to Article IX;
- * **§VI.1(3)** to veto the High Courts Budget in Accordance to Article IX;
+ * **§VI.1(3)** to veto Bills in Accordance to Article XII;
+ * **§VI.1(3)** to veto the High Courts Budget in Accordance to Article XII;
  * **§VI.1(3)** to impeach the Chief Justice of the High Court. 
  * **§VI.1(4)** to initiate a referendum to take control over the Armed Forces of Liberland;
  * **§VI.1(5)** to access Public institutions;
