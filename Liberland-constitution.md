@@ -53,7 +53,7 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  Permanent Residency shall be conditional upon swearing loyalty to the constitution.
  * **§IV.1(c)** A *Citizen* - In addition to having the right to reside in the Free Republic of Liberland shall be entitled to Civil Rights described in Article V. Citizenship shall be conditional upon swearing loyalty to the Republic, to the constitution and the payment of the Citizenship Fee.  
 * **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this Bill of Rights.
-* **§IV.3.** Children born to Citizens shall automatically receive a status of Permanent Residency. Should they later wish to become Citizens, they shall apply for Citizenship like any other person.
+* **§IV.3.** Children born to Citizens and Permanent Residents shall automatically receive a status of Permanent Residency. Should they later wish to become Citizens, they can apply for Citizenship like any other person.
 * **§IV.4.** Persons applying for Citizenship must be at least eighteen years of age. Residency, on the other hand, may be acquired at any age.
 * **§IV.5.** The Free Republic of Liberland shall reserve the right to denaturalize and strip away Residency in the following three cases.
  * **§IV.5(1)** As a punishment for a crime.
