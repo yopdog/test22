@@ -313,7 +313,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XVIII.1(4)** to answer to requests sent by the Chief Attorney. 
 
 
-## Chapter 7: The Judiciary
+## Chapter 6: The Judiciary
 The Judiciary in the Free Republic of Liberland, in addition to The High Court, shall be composed of independent Private Courts who shall run their own affairs and be in charge of their own financing. The Private Courts of the Free Republic of Liberland shall have no power of enforcement on their own, but shall rely on the Cantons and the People to enforce their verdicts. The following Chapter will lay down the Constitutional Standard for Private Courts in the Free Republic of Liberland. Private Courts who do not follow this standard shall be considered Unconstitutional and shall not have their verdicts enforced by the Cantons and the People.   
 
 ### Article XIX - Principals of the Judiciary
@@ -369,7 +369,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 * **§XXIII.2.** All defendants in criminal proceedings shall have the right to attend court proceedings, to be informed of criminal charges and of his or her rights, to request witnesses to appear in court for examination, to confront the accuser and to examine all evidence gathered against him or her.
 * **§XXIII.3.** All defendants in criminal proceedings shall have the right to be presumed innocent until proven guilty and to not be compelled to be a witness against himself or herself, or such other Persons as may be prescribed by law, without any negative inference; the Prosecution shall at all times carry the legal burden of proof, discharged beyond reasonable doubt, in relation to the defendant's guilt, including disproving any defence envisaged by the law which he or she might raise; nothing in this provision shall prevent the creation of defences which require the defendant to discharge the evidential burden of proof by raising the issue of defence available to him or her.
 
-## Chapter 8: Security and The Armed Forces
+## Chapter 7: Security and The Armed Forces
 The Armed Forces of the Free Republic of Liberland, under the command the Chief of General Staff, shall be responsible for defending the existence of the Republic and the safety of its population against external threats.
 
 ### Article XXIV - Main principles of the Armed Forces.
@@ -388,7 +388,7 @@ The Armed Forces of the Free Republic of Liberland, under the command the Chief 
  * **§XXV.3(4)** Should the referendum pass, the Armed Forces shall move under the full control of the council. The Chief of General Staff shall at this point answer exclusively to the council.
  * **§XXV.3(5)** The transfer of power created by this referendum shall be temporary and shall last no longer than six months after which the Armed Forces shall move back to the control of the Cabinet.
  
-## Chapter 9: Final Provisions
+## Chapter 8: Final Provisions
 
 The Constitution of the Free Republic of Liberland shall be construed in the light of Overriding and Interpretive provisions and shall enter into force upon the conditions prescribed in the Transitional provisions.
 
