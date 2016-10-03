@@ -47,7 +47,7 @@ as sub/non-human; to be seen as having free will and moral responsibility; to be
 The Citizens of the Free Republic of Liberland are integral in shaping the future of the Republic and are therefore the primary factor in preserving its freedoms and rights. Only Citizens shall have the exclusive right to claim ownership of the Republic. Citizenship in the Free Republic of Liberland shall act as a contract whereby the Citizen agrees to be loyal to the principals of this Constitution and to the Republic. Citizens shall have the right of representation in The United Cantons Assembly as well as other Civil Rights described in this Chapter. In addition to Citizenship, The Free Republic of Liberland shall recognize the rights of Residents living within its borders in accordance with the Articles in this Chapter.           
 
 ### Article IV - Citizenship and Residency
-*   **§IV.1.** All persons residing in the Free Republic of Liberland are to be in one of three conditions: (a) *Temporary Resident*, (b) *Permanent Resident*, (c) *Citizen*.
+*   **§IV.1.** All persons residing in the Free Republic of Liberland shall fall into one of three statuses: (a) *Temporary Resident*, (b) *Permanent Resident*, (c) *Citizen*.
  * **§IV.1(a)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed by law which shall not exceed three years without renewal. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residency shall be conditional upon swearing loyalty to the constitution.
