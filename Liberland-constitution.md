@@ -386,7 +386,7 @@ The Armed Forces of the Free Republic of Liberland, under the command the Chief 
  * **§XXV.3(1)** Such a referendum shall be triggered by no less the 30% of the Citizens.
  * **§XXV.3(2)** Before voting can begin, the referendum must list twenty Citizens who will form a Council which will take control of the Armed Forces.
  * **§XXV.3(3)** The referendum shall pass with a majority of the two-thirds of the overall number of Citizens.
- * **§XXV.3(4)** Should the referendum pass, the Armed Forces shall move under the full control of the council. The Chief of General Staff shall at this point answer exclusively to the council.
+ * **§XXV.3(4)** Should the referendum pass, the Armed Forces shall move under the full control of the Council. The Chief of General Staff shall at this point answer exclusively to the Council.
  * **§XXV.3(5)** The transfer of power created by this referendum shall be temporary and shall last no longer than six months after which the Armed Forces shall move back to the control of the Cabinet.
  
 ## Chapter 8: Final Provisions
