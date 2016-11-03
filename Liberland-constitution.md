@@ -283,7 +283,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 ### Article XVI - High Court Structure and Proceedings
 * **§XVI.1.** The High Court of Liberland shall be composed of four Justices of the High Court and the Chief Justice of the High Court who shall preside over the Court.
 * **§XVI.2.** The Chief Justice of the High Court shall be elected by the Citizens once every twenty years by use of a range vote.
- * **§XVI.2(1).** All candidates for the Chief Justice position must: (a) be no younger than thirty-five years of age (b) be qualified lawyers who have served at least seven years as a judge in a Constitutional ourt. (c) hold full Citizenship.
+ * **§XVI.2(1).** All candidates for the Chief Justice position must: (a) be no younger than thirty-five years of age (b) be qualified lawyers who have served at least seven years as a judge in a Constitutional court. (c) hold full Citizenship.
  * **§XVI.2(2).** No Citizen may run twice for the Chief Justice position.
  * **§XVI.2(3)** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
  * **§XVI.2(4)** The four Justices of the High Court must hold full Citizenship.
