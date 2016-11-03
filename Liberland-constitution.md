@@ -287,8 +287,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
  * **§XVI.2(2).** No Citizen may run twice for the Chief Justice position.
  * **§XVI.2(3)** upon election, the Chief Justice shall be responsible for appointing the four Justices of the High Court.
  * **§XVI.2(4)** The four Justices of the High Court must hold full Citizenship.
- * **§XVI.2(5)** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice.
- * **§XVI.2(6)** The Chief Justice shall be subject to impeachment by the Citizens as described in article IX. 
+ * **§XVI.2(5)** Should the office of any of the Justices of the High Court become vacant, the Chief Justice of the High Court shall appoint a new Justice. 
 * **§XVI.3.** The Chief Justice or any Justice of the High Court shall be removable from their position by the Citizens of the Free Republic of Liberland with a majority of two-thirds in a referendum called by 10% of the overall number of Citizens.
 * **§XVI.4.** The High Court shall at all times give hearing en banc and reach its decisions with a simple majority unless required otherwise by this Constitution.
 * **§XVI.5.** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporarily taken by a replacement Justice appointed by the Chief Justice of the High Court.
