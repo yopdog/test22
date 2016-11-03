@@ -31,7 +31,7 @@ to not have one's private information collected without their knowledge and/or p
 
 #### §I.7. Right to identity
 All Persons shall have the right to their identity; to not have their humanity stripped away from them i.e. be identified 
-as sub/non-human; to be seen as having free will and moral responsibility; to be secure from identity theft; to not have one's views and/or actions misrepresented or fabricated.
+as sub/non-human; to be seen as having free will and moral responsibility; to be secure from identity theft; to not have one's views and/or actions grossly misrepresented or fabricated.
 
 ### Article II - Clarifying Provisions
 * **§II.1.** All restrictions, sanctions, and limitations on a person's life, liberty or property must derive their legitimacy on the grounds of self-defence and/or any other Natural Right described in Article I. 
