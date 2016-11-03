@@ -326,7 +326,7 @@ The Judiciary in the Free Republic of Liberland, in addition to The High Court, 
 ### Article XX - Judiciary Structure and Proceedings
 * **§XX.1.** All trials in a court shall take place before either a judge, a panel of judges, or a jury. 
 * **§XX.2.** trials before a panel of judges shall begin with no more than eight judges who shall give a verdict of “Guilty” or “Not guilty. 
-* **§XX.3.** A trial shall proceed according to common courtroom Etiquette.
+* **§XX.3.** A trial shall proceed according to common courtroom etiquette.
 * **§XX.4.** A trial before a jury shall begin with at least six and no more than fifteen members who shall give a verdict of “Guilty” or “Not guilty”.
  * **§XX.4(1)** The Jury shall be composed Citizens and Residents chosen at random.
  * **§XX.4(2)** The Jury shall determine the facts and render the verdict according to the law under the direction of the Judge.
