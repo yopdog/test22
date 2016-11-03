@@ -293,7 +293,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 * **§XVI.5.** Should any Justice or the Chief Justice of the High Court have any personal interest in a case before the Court, he or she shall recuse him or herself from the proceedings, in which case, his or her place shall be temporarily taken by a replacement Justice appointed by the Chief Justice of the High Court.
 * **§XVI.6.** The High Court shall choose which cases and requests and it will take with the exception of requests by the Chief Attorney.
 * **§XVI.7.** The High Courts annual budget shall be determined by the Chief Justice and shall come directly from the treasury.
- * **§XVI.7(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in article XII.
+ * **§XVI.7(1).** The High Courts annual budget shall be subject to the power of general veto by the Citizens as described in Article XII.
  * **§XVI.7(2).** Should the High Courts annual budget be vetoed, the Chief Justice shall cease to hold his position and a new Chief Justice shall be elected by the Citizens.
 
 
