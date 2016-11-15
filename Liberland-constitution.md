@@ -299,7 +299,7 @@ The High Court of the Free Republic of Liberland shall be established for the pu
 
 ### Article XVII - High Court Powers
 * **§XVII.1.** The powers of the High Court shall be restricted to the following only:
- * **§XVII.1(1)** to provide opinions on past and future Bills in accordance with this constitution;
+ * **§XVII.1(1)** to provide opinions on past and future Bills in accordance with this Constitution;
  * **§XVII.1(2)** to judge the legality and fairness of referendums and the business of the United Cantons Assembly; 
  * **§XVII.1(3)** to provide opinions on the Constitution and its interpretation;
  * **§XVII.1(4)** to act as a court of last resort in the Free republic of Liberland;
