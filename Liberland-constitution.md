@@ -77,7 +77,7 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
  * **§VI.1(5)** to impeach the Chief Justice of the High Court. 
  * **§VI.1(6)** to initiate a referendum to take control of the Armed Forces of Liberland;
  * **§VI.1(7)** to access Public institutions;
- * **§VI.1(8)** to access to information concerning the day to day affairs of the Assembly;
+ * **§VI.1(8)** to access information concerning the day to day affairs of the Assembly;
  * **§VI.1(9)** to hold any position in the United Cantons Assembly;
  * **§VI.1(10)** to become a High Court justice or run for the Chief Justice position;
  * **§VI.1(11)** to hold any commanding position in the Armed Forces of Liberland.
