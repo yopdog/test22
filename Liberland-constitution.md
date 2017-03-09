@@ -23,7 +23,7 @@ All Individuals shall have the right to own and homestead property; exercise ful
 All Persons shall have the right to justice; to be fully compensated for any loss or damage to one's life, liberty or property which another person has caused; to a fair and public trial based on evidence and with due process before sanctions are applied on one’s rights and freedoms; to proportional punishment for one's crimes; to be assumed innocent until proven guilty; to be arrested only on probable cause; to be informed of criminal charges and one's rights when in jeopardy; to free communication when in jeopardy; to remain silent; to defend oneself legally before, during and after a trial. 
 
 #### §I.5. Right to Self-Defence
-All Persons shall have the right to Self-Defence; to defend their life, liberty, and property from any threat or aggression and assist others in defending themselves; to own, manufacture, sell, and transfer arms and ammunition; to build cooperative defense ventures.
+All Persons shall have the right to self-defence; to defend their life, liberty, and property from any threat or aggression and assist others in defending themselves; to own, manufacture, sell, and transfer arms and ammunition; to build cooperative defense ventures.
 
 #### §I.6. Right to Privacy
 All Persons shall have the right to Privacy; to be secure from unwarranted intrusions and publications of one's private information;
