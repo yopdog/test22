@@ -29,7 +29,7 @@ All Persons shall have the right to self-defence; to defend their life, liberty,
 All Persons shall have the right to privacy; to be secure from unwarranted intrusions and publications of one's private information;
 to not have one's private information collected without their knowledge and/or permission. 
 
-#### §I.7. Right to identity
+#### §I.7. Right to Identity
 All Persons shall have the right to their identity; to not have their humanity stripped away from them i.e. be identified 
 as sub/non-human; to be seen as having free will and moral responsibility; to be secure from identity theft; to not have one's views and/or actions grossly misrepresented or fabricated.
 
