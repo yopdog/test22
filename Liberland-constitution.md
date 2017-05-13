@@ -48,10 +48,10 @@ The Citizens of the Free Republic of Liberland are integral in shaping the futur
 
 ### Article IV - Citizenship and Residency
 *   **§IV.1.** All persons residing in the Free Republic of Liberland shall fall into one of three statuses: (a) *Temporary Resident*, (b) *Permanent Resident*, (c) *Citizen*.
- * **§IV.1(a)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed by law which shall not exceed three years without renewal. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
- * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
+  * **§IV.1(a)** A *Temporary Resident* - Can reside in the Free Republic of Liberland for a duration prescribed by law which shall not exceed three years without renewal. Temporary Residency shall be conditional upon being a "safe" and law abiding person.  
+  * **§IV.1(b)** A *Permanent Resident* - Shall have the right to reside in the Free Republic of Liberland. 
  Permanent Residency shall be conditional upon swearing loyalty to the Constitution.
- * **§IV.1(c)** A *Citizen* - In addition to having the right to reside in the Free Republic of Liberland shall be entitled to Civil Rights described in Article V. Citizenship shall be conditional upon swearing loyalty to the Republic, to the Constitution and the payment of the Citizenship Fee.  
+  * **§IV.1(c)** A *Citizen* - In addition to having the right to reside in the Free Republic of Liberland shall be entitled to Civil Rights described in Article V. Citizenship shall be conditional upon swearing loyalty to the Republic, to the Constitution and the payment of the Citizenship Fee.  
 * **§IV.2.** Citizenship and Permanent Residency in the Free Republic of Liberland are a privilege, and shall be given only to those who can be trusted to respect the rights of others as described in this Bill of Rights.
 * **§IV.3.** Children born to Citizens and Permanent Residents shall automatically receive a status of Permanent Residency. Should they later wish to become Citizens, they can apply for Citizenship like any other person.
 * **§IV.4.** Persons applying for Citizenship must be at least eighteen years of age. Residency, on the other hand, may be acquired at any age.
